@@ -1,0 +1,76 @@
+% ============================================================
+%  main.tex — master document
+%  Run: pdflatex main.tex   (twice, for correct TOC / page refs)
+%
+%  To add a new chapter:
+%    1. Save the chapter you got from the "chapter prompt" as
+%       chapters/NN-short-slug.tex   (NN = order, e.g. 02, 03 ...)
+%    2. Add one \include{chapters/NN-short-slug} line below.
+%    3. Recompile (pdflatex main.tex, twice).
+%
+%  \includeonly{...} below lets you compile ONLY the chapters you
+%  list there while you're drafting — much faster than rebuilding
+%  the whole book every time. Comment it out (or list every
+%  chapter) for the final full compile, since \includeonly leaves
+%  gaps in the PDF for any chapter you leave out.
+% ============================================================
+
+\documentclass[11pt,a4paper,twoside,openright]{book}
+\input{preamble}
+
+% ---- EDIT THESE for your book ----
+\newcommand{\BookExamEyebrow}{CIVIL SERVICES EXAMINATION}
+\newcommand{\BookExamLine}{UPSC \textbullet\ GENERAL STUDIES PAPER 4}
+\newcommand{\BookTitle}{Ethics, Integrity \& Aptitude}
+\newcommand{\BookSubtitle}{Class Notes}
+\newcommand{\BookDate}{2026}
+% -----------------------------------
+
+% ---- Uncomment and edit to compile only specific chapters while drafting ----
+% \includeonly{chapters/01-tkdl-patents-act}
+
+\begin{document}
+\pagenumbering{gobble}
+
+% ---------------- Title page ----------------
+\begin{titlepage}
+\begin{center}
+\vspace*{2.2cm}
+{\color{Grey}\sffamily\fontsize{9.5}{12}\selectfont\MakeUppercase{\BookExamEyebrow}}\\[12pt]
+{\color{Ink}\sffamily\fontsize{10.5}{13}\selectfont \BookExamLine}\\[40pt]
+\textcolor{AccentWarm}{\rule{0.08\textwidth}{2pt}}\hspace{6pt}%
+\textcolor{Accent}{\rule{0.05\textwidth}{2pt}}\hspace{6pt}%
+\textcolor{Hairline}{\rule{0.03\textwidth}{2pt}}\\[28pt]
+{\color{Accent}\sffamily\bfseries\fontsize{28}{34}\selectfont \BookTitle}\\[12pt]
+{\color{Grey}\sffamily\fontsize{14}{18}\selectfont \BookSubtitle}\\[36pt]
+\textcolor{Hairline}{\rule{0.03\textwidth}{2pt}}\hspace{6pt}%
+\textcolor{Accent}{\rule{0.05\textwidth}{2pt}}\hspace{6pt}%
+\textcolor{AccentWarm}{\rule{0.08\textwidth}{2pt}}\\[28pt]
+{\sffamily\fontsize{9.5}{12}\selectfont\color{Grey} Compiled \BookDate}
+\vfill
+\vspace*{1.8cm}
+\end{center}
+\end{titlepage}
+
+\clearpage
+\pagenumbering{arabic}
+\setcounter{page}{1}
+\tableofcontents\label{toc}
+\thispagestyle{plain}
+\clearpage
+
+% ================= CHAPTERS =================
+% Add one \include line per chapter file, in the order they should appear.
+\include{chapters/01-values-ethics-human-interface}
+\include{chapters/02-consequences-applied-ethics}
+\include{chapters/03-human-values-value-inculcation}
+\include{chapters/04-seven-sins-aptitude-foundational-values}
+\include{chapters/05-emotional-intelligence-attitude}
+\include{chapters/06-attitude-deontology-utilitarianism}
+\include{chapters/07-egoism-virtue-weber-rawls-rights}
+\include{chapters/08-institutions-law-conscience-corporate-ir-justwar}
+\include{chapters/09-service-delivery-codes-transparency-probity}
+% \include{chapters/02-next-topic}
+% \include{chapters/03-next-topic}
+
+\end{document}

@@ -1,0 +1,139 @@
+% ============================================================
+%  preamble.tex — shared styling for all chapters
+%  Class Notes Template — Indigo & Saffron design
+%  Do not edit per-chapter. Edit once here; every chapter inherits it.
+% ============================================================
+
+% ---------- Fonts ----------
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{charter}
+\usepackage{helvet}
+\usepackage{microtype}
+
+% ---------- Page geometry (twoside for book binding) ----------
+\usepackage[a4paper,top=2.4cm,bottom=2.4cm,inner=2.8cm,outer=2.0cm,
+            headsep=0.7cm,footskip=1cm,headheight=21pt]{geometry}
+
+% ---------- Indigo & Saffron palette ----------
+\usepackage{xcolor}
+\definecolor{Ink}{HTML}{1E1E2C}          % Deep Charcoal — body text
+\definecolor{Accent}{HTML}{3B3486}       % Royal Indigo — headings, primary accent
+\definecolor{AccentWarm}{HTML}{D4882B}   % Saffron — note borders, labels, highlights
+\definecolor{AccentDark}{HTML}{2C2866}   % Deeper Indigo — table headers
+\definecolor{Grey}{HTML}{6B6E7B}         % Slate — metadata, page numbers
+\definecolor{Hairline}{HTML}{C9C6DE}     % Lavender Mist — rules, dividers
+\definecolor{Tint}{HTML}{FBF8F2}         % Ivory Cream — note background
+\definecolor{SaffronLight}{HTML}{F5E6C8} % Light saffron — subtle accents
+\color{Ink}
+
+\usepackage{setspace}
+\setstretch{1.18}
+\usepackage{parskip}
+\setlength{\parskip}{5pt}
+\setlength{\parindent}{0pt}
+\usepackage{needspace}
+
+% ---------- Headings ----------
+% \chapter   = one lecture / topic  (Royal Indigo + saffron underline)
+% \section   = sub-topic            (Ink, bold, indigo number)
+% \subsection= sub-sub-topic        (Indigo, bold italic)
+% \paragraph = run-in named label
+\usepackage{titlesec}
+\titleformat{\chapter}[display]
+  {\color{Accent}\sffamily\bfseries\fontsize{20}{24}\selectfont}
+  {\color{Grey}\sffamily\bfseries\fontsize{10}{12}\selectfont\MakeUppercase{Chapter \thechapter}}
+  {6pt}{}
+  [\vspace{4pt}{\color{AccentWarm}\rule{0.14\textwidth}{1.8pt}\hspace{6pt}\color{Hairline}\rule{0.06\textwidth}{1.2pt}}]
+\titlespacing*{\chapter}{0pt}{0pt}{22pt}
+\titleformat{\section}{\color{Ink}\sffamily\bfseries\fontsize{13}{16}\selectfont}
+  {\textcolor{Accent}{\thesection}}{9pt}{}
+\titlespacing*{\section}{0pt}{18pt}{8pt}
+\titleformat{\subsection}{\color{Accent}\sffamily\bfseries\itshape\fontsize{11}{13}\selectfont}
+  {\textcolor{Grey}{\thesubsection}}{7pt}{}
+\titlespacing*{\subsection}{0pt}{12pt}{5pt}
+\titleformat{\paragraph}[runin]{\sffamily\bfseries\itshape\fontsize{10.5}{12}\selectfont\color{Accent}}{}{0pt}{}
+\titlespacing*{\paragraph}{0pt}{6pt}{4pt}
+\setcounter{secnumdepth}{2}
+\setcounter{tocdepth}{2}
+
+% ---------- Table of contents: indigo accents ----------
+\usepackage{tocloft}
+\renewcommand{\cftchapfont}{\sffamily\bfseries\color{Accent}}
+\renewcommand{\cftchappagefont}{\sffamily\color{Grey}}
+\renewcommand{\cftsecfont}{\sffamily\color{Ink}}
+\renewcommand{\cftsecpagefont}{\sffamily\color{Grey}}
+\setlength{\cftbeforechapskip}{10pt}
+\setlength{\cftbeforesecskip}{2pt}
+\renewcommand{\cftchapleader}{\cftdotfill{\cftdotsep}}
+\renewcommand{\cftdot}{\textcolor{Hairline}{.}}
+
+% ---------- Lists ----------
+\usepackage{enumitem}
+\setlist[itemize,1]{leftmargin=18pt,labelsep=6pt,topsep=3pt,itemsep=3pt,
+                    parsep=0pt,label={\textcolor{AccentWarm}{\textbullet}}}
+\setlist[itemize,2]{leftmargin=16pt,labelsep=6pt,topsep=2pt,itemsep=2pt,
+                    parsep=0pt,label={\textcolor{Grey}{\textendash}}}
+\setlist[enumerate,1]{leftmargin=18pt,labelsep=6pt,topsep=3pt,itemsep=3pt,parsep=0pt}
+
+% ---------- ONE unified note style — saffron border, ivory background ----------
+\usepackage[most]{tcolorbox}
+\tcbuselibrary{breakable}
+\newtcolorbox{note}[1]{
+  enhanced, breakable, sharp corners, boxrule=0pt,
+  colback=Tint, borderline west={2.2pt}{0pt}{AccentWarm},
+  left=10pt, right=10pt, top=6pt, bottom=6pt,
+  before skip=10pt, after skip=10pt, width=\textwidth,
+  fontupper=\fontsize{10.4}{13.5}\selectfont\color{Ink}
+}
+\newcommand{\notelabel}[1]{{\sffamily\bfseries\fontsize{8.3}{10}\selectfont\color{Accent}
+  #1\par\vspace{3pt}}}
+\newenvironment{KeyConcept}{\begin{note}{}\notelabel{KEY CONCEPT}}{\end{note}}
+\newenvironment{DataFact}{\begin{note}{}\notelabel{DATA \& FACTS}}{\end{note}}
+\newenvironment{GovtPolicy}{\begin{note}{}\notelabel{GOVERNMENT \& POLICY}}{\end{note}}
+\newenvironment{CriticalPoint}{\begin{note}{}\notelabel{CRITICAL POINT}}{\end{note}}
+\newenvironment{ExampleBox}{\begin{note}{}\notelabel{EXAMPLE}}{\end{note}}
+\newenvironment{ComparisonBox}{\begin{note}{}\notelabel{COMPARISON}}{\end{note}}
+\newenvironment{PYQLink}{\begin{note}{}\notelabel{PREVIOUS YEAR QUESTION}}{\end{note}}
+\newenvironment{QuickRevision}{\begin{note}{}\notelabel{QUICK REVISION}}{\end{note}}
+\newenvironment{ChapterGlossaryNote}{\begin{note}{}\notelabel{CHAPTER GLOSSARY}}{\end{note}}
+
+% ---------- Tables: indigo header row, saffron midrule accent ----------
+\usepackage{tabularx,array,booktabs,colortbl}
+\newcolumntype{Y}{>{\raggedright\arraybackslash}X}
+\renewcommand{\arraystretch}{1.35}
+\newcommand{\thead}[1]{{\sffamily\bfseries\fontsize{10}{12}\selectfont\color{white} #1}}
+
+% ---------- Divider ----------
+\newcommand{\sectiondivider}{\par\vspace{8pt}\noindent
+  \textcolor{Hairline}{\rule{\textwidth}{0.5pt}}\par\vspace{8pt}}
+\newcommand{\rupee}{\textrm{Rs.}\,}
+
+% ---------- Header / footer: book-style odd/even ----------
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\headrule}{\hbox to\headwidth{\color{Accent}\leaders\hrule height \headrulewidth\hfill}}
+% Even (left) pages: page number on left, book title on right
+\fancyhead[LE]{\sffamily\fontsize{8}{10}\selectfont\color{Grey}\thepage}
+\fancyhead[RE]{\sffamily\fontsize{8}{10}\selectfont\color{Grey} \HeaderLeftText}
+% Odd (right) pages: chapter name on left, page number on right
+\fancyhead[LO]{\sffamily\fontsize{8}{10}\selectfont\color{Grey} \hyperref[toc]{\nouppercase{\leftmark}}}
+\fancyhead[RO]{\sffamily\fontsize{8}{10}\selectfont\color{Grey}\thepage}
+% Footer: centred page X of Y
+\fancyfoot[C]{\sffamily\fontsize{7.5}{9}\selectfont\color{Hairline} \thepage\ / \pageref{LastPage}}
+\renewcommand{\chaptermark}[1]{\markboth{\MakeUppercase{#1}}{}}
+\renewcommand{\sectionmark}[1]{\markright{#1}}
+% Plain style (chapter-opening pages): no header, centred page number
+\fancypagestyle{plain}{%
+  \fancyhf{}
+  \renewcommand{\headrulewidth}{0pt}
+  \fancyfoot[C]{\sffamily\fontsize{8}{10}\selectfont\color{Grey} \thepage\ / \pageref{LastPage}}
+}
+
+\usepackage[hidelinks]{hyperref}
+
+% ---------- EDIT THIS: running header left text ----------
+\newcommand{\HeaderLeftText}{\hyperref[toc]{UPSC GS Paper 4 \textbullet\ Ethics, Integrity \& Aptitude}}

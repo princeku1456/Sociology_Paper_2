@@ -1,0 +1,540 @@
+\contentsline {chapter}{\numberline {1}Ethics and Human Interface}{11}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Values}{11}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Meaning of Values}{11}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}Types of Values --- Moral, Immoral and Amoral}{11}{subsection.1.1.2}%
+\contentsline {paragraph}{Moral values}{11}{paragraph*.1}%
+\contentsline {paragraph}{Immoral values}{11}{paragraph*.2}%
+\contentsline {paragraph}{Amoral values}{12}{paragraph*.3}%
+\contentsline {subsection}{\numberline {1.1.3}Relative Hierarchy of Values}{12}{subsection.1.1.3}%
+\contentsline {subsection}{\numberline {1.1.4}Ethical Dilemmas Arising from Value Conflict}{12}{subsection.1.1.4}%
+\contentsline {section}{\numberline {1.2}Collective Values}{13}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Family Values}{13}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}Societal Values}{13}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.2.3}Constitutional Values}{14}{subsection.1.2.3}%
+\contentsline {subsection}{\numberline {1.2.4}Organizational \& Professional Values}{15}{subsection.1.2.4}%
+\contentsline {section}{\numberline {1.3}Meaning of Ethics}{15}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Sources of Ethics}{16}{subsection.1.3.1}%
+\contentsline {section}{\numberline {1.4}Ethics vs Morals}{16}{section.1.4}%
+\contentsline {subsection}{\numberline {1.4.1}When Ethics and Morals Conflict}{17}{subsection.1.4.1}%
+\contentsline {section}{\numberline {1.5}Ethics vs Law}{18}{section.1.5}%
+\contentsline {subsection}{\numberline {1.5.1}Legal but Unethical}{18}{subsection.1.5.1}%
+\contentsline {subsection}{\numberline {1.5.2}Illegal but Ethical}{19}{subsection.1.5.2}%
+\contentsline {subsection}{\numberline {1.5.3}Right vs Right}{20}{subsection.1.5.3}%
+\contentsline {section}{\numberline {1.6}Constitutional Morality}{20}{section.1.6}%
+\contentsline {section}{\numberline {1.7}Determinants of Ethics}{21}{section.1.7}%
+\contentsline {subsection}{\numberline {1.7.1}Institutional \& Human Determinants}{21}{subsection.1.7.1}%
+\contentsline {subsection}{\numberline {1.7.2}Technology as a Determinant}{22}{subsection.1.7.2}%
+\contentsline {subsection}{\numberline {1.7.3}Economic \& Global Determinants}{22}{subsection.1.7.3}%
+\contentsline {subsection}{\numberline {1.7.4}Evolution of Norms --- The Concept of Justice}{23}{subsection.1.7.4}%
+\contentsline {subsection}{\numberline {1.7.5}Changing Context Must Be Under Constant Scrutiny}{23}{subsection.1.7.5}%
+\contentsline {chapter}{\numberline {2}Consequences of Ethics and Applied Ethics}{25}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Consequences of Ethics}{25}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Why Individuals Should Be Ethical}{25}{subsection.2.1.1}%
+\contentsline {paragraph}{Survival}{25}{paragraph*.4}%
+\contentsline {paragraph}{Psychological Well-Being}{25}{paragraph*.5}%
+\contentsline {paragraph}{Quality of Interpersonal Relationships}{25}{paragraph*.6}%
+\contentsline {paragraph}{Professional Success and Fulfilment}{26}{paragraph*.7}%
+\contentsline {paragraph}{Leadership and Credibility}{26}{paragraph*.8}%
+\contentsline {paragraph}{Living a Purposeful Life --- Going Beyond Animalistic Existence}{26}{paragraph*.9}%
+\contentsline {subsection}{\numberline {2.1.2}Why Organisations Should Be Ethical}{27}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}Why Society Should Be Ethical}{28}{subsection.2.1.3}%
+\contentsline {section}{\numberline {2.2}Dimensions of Ethics}{29}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Normative (Theoretical) Dimension}{29}{subsection.2.2.1}%
+\contentsline {paragraph}{Deontological Ethics}{30}{paragraph*.10}%
+\contentsline {paragraph}{Teleological Ethics (Consequentialism)}{30}{paragraph*.11}%
+\contentsline {paragraph}{Virtue Ethics}{30}{paragraph*.12}%
+\contentsline {subsection}{\numberline {2.2.2}Applied (Practical) Dimension}{31}{subsection.2.2.2}%
+\contentsline {section}{\numberline {2.3}Ethical Relativism and Ethical Absolutism}{31}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Ethical Relativism}{31}{subsection.2.3.1}%
+\contentsline {paragraph}{Why Ethical Relativism Matters --- Avoiding Ethnocentrism and Cultural Imperialism}{32}{paragraph*.13}%
+\contentsline {paragraph}{Standardisation Due to ICT and Globalisation}{32}{paragraph*.14}%
+\contentsline {paragraph}{Merits and Demerits of Ethical Relativism}{33}{paragraph*.15}%
+\contentsline {subsection}{\numberline {2.3.2}Ethical Absolutism}{33}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}Reconciling Relativism and Absolutism}{33}{subsection.2.3.3}%
+\contentsline {section}{\numberline {2.4}Environmental Ethics (Applied Ethics)}{34}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Shallow Ecology vs Deep Ecology}{35}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Ecocentrism}{35}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.4.3}Key Principles of Environmental Ethics}{36}{subsection.2.4.3}%
+\contentsline {section}{\numberline {2.5}Technology Ethics (Applied Ethics)}{36}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}Key Principles of Technology Ethics}{37}{subsection.2.5.1}%
+\contentsline {paragraph}{Privacy}{37}{paragraph*.16}%
+\contentsline {paragraph}{Transparency}{37}{paragraph*.17}%
+\contentsline {paragraph}{Accountability}{37}{paragraph*.18}%
+\contentsline {paragraph}{Fairness --- Especially Critical for AI}{37}{paragraph*.19}%
+\contentsline {paragraph}{Beneficence}{38}{paragraph*.20}%
+\contentsline {paragraph}{Non-Maleficence}{38}{paragraph*.21}%
+\contentsline {paragraph}{Informed Consent}{38}{paragraph*.22}%
+\contentsline {paragraph}{Sustainability}{38}{paragraph*.23}%
+\contentsline {paragraph}{Respect for Human Autonomy}{39}{paragraph*.24}%
+\contentsline {subsection}{\numberline {2.5.2}Challenges of Technology in Administration}{39}{subsection.2.5.2}%
+\contentsline {section}{\numberline {2.6}Media Ethics (Applied Ethics)}{40}{section.2.6}%
+\contentsline {subsection}{\numberline {2.6.1}Key Principles of Media Ethics}{40}{subsection.2.6.1}%
+\contentsline {paragraph}{Accuracy / Verification}{40}{paragraph*.25}%
+\contentsline {paragraph}{Freedom with Reasonable Restrictions}{40}{paragraph*.26}%
+\contentsline {paragraph}{Independence and Autonomy}{40}{paragraph*.27}%
+\contentsline {paragraph}{Impartiality and Fairness}{41}{paragraph*.28}%
+\contentsline {paragraph}{Humanity / Compassion}{41}{paragraph*.29}%
+\contentsline {paragraph}{Do Not Incite Hatred}{41}{paragraph*.30}%
+\contentsline {paragraph}{Public Interest over Sensationalism}{41}{paragraph*.31}%
+\contentsline {section}{\numberline {2.7}Ethics in Public and Private Relationships}{42}{section.2.7}%
+\contentsline {subsection}{\numberline {2.7.1}Distinction Between Public and Private Relationship}{42}{subsection.2.7.1}%
+\contentsline {subsection}{\numberline {2.7.2}Role of Traditions in Private Relationship Ethics}{42}{subsection.2.7.2}%
+\contentsline {subsection}{\numberline {2.7.3}Why Private Relationships Are More Informal}{42}{subsection.2.7.3}%
+\contentsline {subsection}{\numberline {2.7.4}Consequences in the Context of Public vs Private}{43}{subsection.2.7.4}%
+\contentsline {chapter}{\numberline {3}Human Values and Value Inculcation}{45}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Recap: Technology Ethics, Media Ethics \& Public vs Private Relationships}{45}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Technology Ethics}{45}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Media Ethics}{45}{subsection.3.1.2}%
+\contentsline {paragraph}{Ways in which media's autonomy is threatened}{45}{paragraph*.32}%
+\contentsline {subsection}{\numberline {3.1.3}Ethics in Public vs Private Relationships}{46}{subsection.3.1.3}%
+\contentsline {paragraph}{Nature and essence}{46}{paragraph*.33}%
+\contentsline {paragraph}{Source of ethical standards}{46}{paragraph*.34}%
+\contentsline {paragraph}{Why higher ethical obligations apply in public life}{46}{paragraph*.35}%
+\contentsline {section}{\numberline {3.2}Ethical Standards in Public Relationships (Nolan Committee Principles)}{46}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Selflessness}{47}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Integrity}{47}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Dignity and Compassion}{47}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.2.4}Leadership}{47}{subsection.3.2.4}%
+\contentsline {section}{\numberline {3.3}Ethical Standards in Private Relationships}{47}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Love and Fidelity}{48}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Responsibility}{48}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}Dignity in Private Relationships}{48}{subsection.3.3.3}%
+\contentsline {subsection}{\numberline {3.3.4}Traditions \& Customs and Rule of Law}{49}{subsection.3.3.4}%
+\contentsline {subsection}{\numberline {3.3.5}Commonalities and Differences between Public \& Private Standards}{49}{subsection.3.3.5}%
+\contentsline {paragraph}{Commonalities --- and why they exist}{49}{paragraph*.36}%
+\contentsline {paragraph}{Differences --- and why they exist}{49}{paragraph*.37}%
+\contentsline {section}{\numberline {3.4}Why Ethics in Private Relationships Matters More Today}{50}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Core Reasons}{50}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}The Concept of Pitr-rin (Debt to Parents / Ancestors)}{50}{subsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.4.3}The Fragility of Life --- Lesson on Prioritising Family}{51}{subsection.3.4.3}%
+\contentsline {section}{\numberline {3.5}Is a Watertight Separation of Public and Private Life Possible?}{51}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}Argument 1 --- Virtue Ethics (`We are what we repeatedly do')}{51}{subsection.3.5.1}%
+\contentsline {subsection}{\numberline {3.5.2}Argument 2 --- Divergence Creates a Crisis of Credibility}{52}{subsection.3.5.2}%
+\contentsline {subsection}{\numberline {3.5.3}Argument 3 --- Higher Standards Required of Civil Servants}{52}{subsection.3.5.3}%
+\contentsline {subsection}{\numberline {3.5.4}Where to Draw the Line: Do Public Officials Have Any Privacy?}{53}{subsection.3.5.4}%
+\contentsline {paragraph}{Two contrasting illustrations}{53}{paragraph*.38}%
+\contentsline {section}{\numberline {3.6}Human Values}{53}{section.3.6}%
+\contentsline {subsection}{\numberline {3.6.1}Meaning of Human Values}{53}{subsection.3.6.1}%
+\contentsline {subsection}{\numberline {3.6.2}Controlling Emotions and Desires --- Plato's Chariot Analogy}{54}{subsection.3.6.2}%
+\contentsline {subsection}{\numberline {3.6.3}Types of Values: Terminal vs Instrumental}{54}{subsection.3.6.3}%
+\contentsline {section}{\numberline {3.7}Inculcation of Values: Why Values Must Be Inculcated}{55}{section.3.7}%
+\contentsline {subsection}{\numberline {3.7.1}The Tanker-Looting Illustration}{55}{subsection.3.7.1}%
+\contentsline {subsection}{\numberline {3.7.2}Education Without Values $\rightarrow $ `A Clever Devil'}{55}{subsection.3.7.2}%
+\contentsline {subsection}{\numberline {3.7.3}Many Problems Are Societal, Not Merely Legal}{56}{subsection.3.7.3}%
+\contentsline {section}{\numberline {3.8}Role of Family in Value Inculcation}{56}{section.3.8}%
+\contentsline {subsection}{\numberline {3.8.1}Examples of Values Inculcated by Family}{56}{subsection.3.8.1}%
+\contentsline {subsection}{\numberline {3.8.2}Values from Joint Families}{57}{subsection.3.8.2}%
+\contentsline {subsection}{\numberline {3.8.3}How Families Inculcate Values (Mechanisms)}{57}{subsection.3.8.3}%
+\contentsline {paragraph}{Child-rearing practices}{57}{paragraph*.39}%
+\contentsline {paragraph}{Other mechanisms}{57}{paragraph*.40}%
+\contentsline {subsection}{\numberline {3.8.4}Critical Perspective --- Why Families Fail to Inculcate Values (Contemporary Factors)}{57}{subsection.3.8.4}%
+\contentsline {section}{\numberline {3.9}Role of Educational Institutions in Value Inculcation}{58}{section.3.9}%
+\contentsline {subsection}{\numberline {3.9.1}Role of Teachers}{58}{subsection.3.9.1}%
+\contentsline {subsection}{\numberline {3.9.2}Role of Curricular Subjects}{59}{subsection.3.9.2}%
+\contentsline {paragraph}{History --- lessons, not just facts}{59}{paragraph*.41}%
+\contentsline {paragraph}{Science --- explaining, questioning, predicting}{59}{paragraph*.42}%
+\contentsline {paragraph}{Environment}{59}{paragraph*.43}%
+\contentsline {subsection}{\numberline {3.9.3}Extracurricular Activities: Sports, Games \& Debates}{59}{subsection.3.9.3}%
+\contentsline {subsection}{\numberline {3.9.4}Pedagogy: Activity-Based Learning \& the Flipped Classroom}{60}{subsection.3.9.4}%
+\contentsline {subsection}{\numberline {3.9.5}Critical Perspective --- Why Institutions Fail (Contemporary Factors)}{60}{subsection.3.9.5}%
+\contentsline {section}{\numberline {3.10}Role of Society, Government \& Media in Value Inculcation}{61}{section.3.10}%
+\contentsline {subsection}{\numberline {3.10.1}Ethnocentrism \& the Value of Exposure (Society)}{61}{subsection.3.10.1}%
+\contentsline {subsection}{\numberline {3.10.2}Empathy Toward Systems and People}{61}{subsection.3.10.2}%
+\contentsline {subsection}{\numberline {3.10.3}Role of Government}{61}{subsection.3.10.3}%
+\contentsline {subsection}{\numberline {3.10.4}Role of Media (Positive)}{62}{subsection.3.10.4}%
+\contentsline {subsection}{\numberline {3.10.5}Role of Media (Negative --- Contemporary Factors)}{62}{subsection.3.10.5}%
+\contentsline {section}{\numberline {3.11}Lessons from the Lives of Great Leaders --- Mahatma Gandhi}{62}{section.3.11}%
+\contentsline {subsection}{\numberline {3.11.1}Honesty \& Integrity}{62}{subsection.3.11.1}%
+\contentsline {subsection}{\numberline {3.11.2}Openness, Tolerance \& a Learning Attitude}{63}{subsection.3.11.2}%
+\contentsline {subsection}{\numberline {3.11.3}Non-Violence (Ahimsa)}{63}{subsection.3.11.3}%
+\contentsline {subsection}{\numberline {3.11.4}Forgiveness}{63}{subsection.3.11.4}%
+\contentsline {subsection}{\numberline {3.11.5}Swaraj (Self-Rule)}{63}{subsection.3.11.5}%
+\contentsline {subsection}{\numberline {3.11.6}Talisman \& Antyodaya}{64}{subsection.3.11.6}%
+\contentsline {subsection}{\numberline {3.11.7}Solidarity --- The Loincloth}{64}{subsection.3.11.7}%
+\contentsline {subsection}{\numberline {3.11.8}Sarvodaya, Purity of Means \& Trusteeship}{64}{subsection.3.11.8}%
+\contentsline {section}{\numberline {3.12}Key Cross-Cutting Reminders}{65}{section.3.12}%
+\contentsline {chapter}{\numberline {4}Gandhi's Seven Social Sins, Aptitude and Foundational Values for Civil Services}{67}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Lessons from Gandhiji: The Seven Social Sins}{67}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Wealth Without Work}{67}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Pleasure Without Conscience}{67}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.1.3}Knowledge Without Character}{68}{subsection.4.1.3}%
+\contentsline {subsection}{\numberline {4.1.4}Commerce (Business) Without Morality}{68}{subsection.4.1.4}%
+\contentsline {subsection}{\numberline {4.1.5}Science Without Humanity}{68}{subsection.4.1.5}%
+\contentsline {subsection}{\numberline {4.1.6}Religion Without Sacrifice}{68}{subsection.4.1.6}%
+\contentsline {subsection}{\numberline {4.1.7}Politics Without Principle}{69}{subsection.4.1.7}%
+\contentsline {subsection}{\numberline {4.1.8}Rights Without Responsibility (added by Arun Gandhi)}{69}{subsection.4.1.8}%
+\contentsline {section}{\numberline {4.2}Focus on Controllables: A Note on the Aspirant's Attitude}{69}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Aptitude}{70}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Aptitude Is Not Monolithic --- Its Components}{70}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Civil Services Aptitude}{70}{subsection.4.3.2}%
+\contentsline {paragraph}{Physical, Emotional, Moral \& Intellectual aptitude --- how they interact}{71}{paragraph*.44}%
+\contentsline {section}{\numberline {4.4}Attitude, and the Relationship between Aptitude \& Attitude}{71}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}What Is Attitude}{71}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}Aptitude vs Attitude --- Key Differences}{72}{subsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.4.3}How Attitude and Aptitude Complement Each Other}{72}{subsection.4.4.3}%
+\contentsline {paragraph}{Aptitude without attitude is directionless}{72}{paragraph*.45}%
+\contentsline {paragraph}{Attitude can compensate for a lack of aptitude}{72}{paragraph*.46}%
+\contentsline {subsection}{\numberline {4.4.4}Learning Attitude: Adopt Values, Don't Become Others}{73}{subsection.4.4.4}%
+\contentsline {section}{\numberline {4.5}Foundational Values for Civil Services: Objectivity}{73}{section.4.5}%
+\contentsline {subsection}{\numberline {4.5.1}Background --- Max Weber's Bureaucratic Model}{73}{subsection.4.5.1}%
+\contentsline {subsection}{\numberline {4.5.2}What Objectivity Means}{73}{subsection.4.5.2}%
+\contentsline {subsection}{\numberline {4.5.3}Relevance of Objectivity in Governance}{74}{subsection.4.5.3}%
+\contentsline {subsection}{\numberline {4.5.4}Limitations of Objectivity}{74}{subsection.4.5.4}%
+\contentsline {section}{\numberline {4.6}Integrity}{75}{section.4.6}%
+\contentsline {subsection}{\numberline {4.6.1}Illustrations of Integrity}{75}{subsection.4.6.1}%
+\contentsline {subsection}{\numberline {4.6.2}Types of Integrity}{75}{subsection.4.6.2}%
+\contentsline {subsection}{\numberline {4.6.3}Integrity vs Honesty}{76}{subsection.4.6.3}%
+\contentsline {subsection}{\numberline {4.6.4}Why Integrity Matters in Public Life}{76}{subsection.4.6.4}%
+\contentsline {subsection}{\numberline {4.6.5}Integrity Pact}{76}{subsection.4.6.5}%
+\contentsline {section}{\numberline {4.7}Non-Partisanship, Impartiality \& Neutrality}{77}{section.4.7}%
+\contentsline {subsection}{\numberline {4.7.1}Background --- Permanent vs Temporary Executive}{77}{subsection.4.7.1}%
+\contentsline {subsection}{\numberline {4.7.2}Non-Partisanship}{77}{subsection.4.7.2}%
+\contentsline {subsection}{\numberline {4.7.3}Impartiality}{77}{subsection.4.7.3}%
+\contentsline {subsection}{\numberline {4.7.4}Non-Partisanship vs Impartiality}{78}{subsection.4.7.4}%
+\contentsline {subsection}{\numberline {4.7.5}Neutrality}{78}{subsection.4.7.5}%
+\contentsline {subsection}{\numberline {4.7.6}Relevance \& Violations}{78}{subsection.4.7.6}%
+\contentsline {section}{\numberline {4.8}Tolerance}{79}{section.4.8}%
+\contentsline {subsection}{\numberline {4.8.1}Why Tolerance Matters}{79}{subsection.4.8.1}%
+\contentsline {section}{\numberline {4.9}Sympathy, Empathy \& Compassion}{80}{section.4.9}%
+\contentsline {subsection}{\numberline {4.9.1}The Three Distinguished}{80}{subsection.4.9.1}%
+\contentsline {subsection}{\numberline {4.9.2}Why Empathy \& Compassion Matter in Administration}{80}{subsection.4.9.2}%
+\contentsline {subsection}{\numberline {4.9.3}Where Compassion Is Essential}{81}{subsection.4.9.3}%
+\contentsline {section}{\numberline {4.10}Dedication to Public Service}{81}{section.4.10}%
+\contentsline {subsection}{\numberline {4.10.1}Why Dedication Is Needed}{81}{subsection.4.10.1}%
+\contentsline {subsection}{\numberline {4.10.2}Dedication as a `Mother Value'}{82}{subsection.4.10.2}%
+\contentsline {subsection}{\numberline {4.10.3}Significance}{82}{subsection.4.10.3}%
+\contentsline {section}{\numberline {4.11}Key Cross-Cutting Reminders}{82}{section.4.11}%
+\contentsline {chapter}{\numberline {5}Emotional Intelligence and Attitude}{85}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Recap: Foundational Values for Civil Services}{85}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}Dedication to Public Service (Passionate Commitment)}{85}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.1.2}Sympathy, Empathy and Compassion}{85}{subsection.5.1.2}%
+\contentsline {paragraph}{Weberian Bureaucracy --- the contrast}{85}{paragraph*.47}%
+\contentsline {subsection}{\numberline {5.1.3}Non-partisanship and Impartiality}{86}{subsection.5.1.3}%
+\contentsline {paragraph}{Non-partisanship}{86}{paragraph*.48}%
+\contentsline {paragraph}{Impartiality}{87}{paragraph*.49}%
+\contentsline {section}{\numberline {5.2}Examples \& PYQ Themes on Foundational Values}{87}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Objectivity without Compassion --- the Mining Districts Case}{87}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}PYQ Theme --- Integrity and Knowledge}{87}{subsection.5.2.2}%
+\contentsline {paragraph}{Integrity without knowledge (weak \& useless)}{88}{paragraph*.50}%
+\contentsline {paragraph}{Knowledge without integrity (dangerous \& dreadful)}{88}{paragraph*.51}%
+\contentsline {subsection}{\numberline {5.2.3}Impartiality vs.\ Positive Discrimination --- a Caveat}{88}{subsection.5.2.3}%
+\contentsline {section}{\numberline {5.3}Ready-to-Use Examples: Apathy, Compassion \& Dedication}{89}{section.5.3}%
+\contentsline {paragraph}{Examples of Apathy / Lack of Compassion}{89}{paragraph*.52}%
+\contentsline {paragraph}{Examples of Compassion \& Dedication to Public Service}{89}{paragraph*.53}%
+\contentsline {section}{\numberline {5.4}Emotional Intelligence}{89}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}Opening Quote}{89}{subsection.5.4.1}%
+\contentsline {subsection}{\numberline {5.4.2}Definition}{90}{subsection.5.4.2}%
+\contentsline {paragraph}{It is an ``ability'' --- so it can be misused}{90}{paragraph*.54}%
+\contentsline {paragraph}{Interpret/understand + manage = Recognition + Regulation}{90}{paragraph*.55}%
+\contentsline {subsection}{\numberline {5.4.3}Five Components of Emotional Intelligence}{91}{subsection.5.4.3}%
+\contentsline {paragraph}{Why self-awareness matters}{91}{paragraph*.56}%
+\contentsline {paragraph}{Why social awareness matters}{91}{paragraph*.57}%
+\contentsline {paragraph}{Tribals --- two approaches and the golden mean}{91}{paragraph*.58}%
+\contentsline {paragraph}{Naxalism --- security vs.\ development, and SAMADHAN}{92}{paragraph*.59}%
+\contentsline {paragraph}{Swachh Bharat --- building toilets is not enough}{92}{paragraph*.60}%
+\contentsline {paragraph}{Non-verbal communication and power distance}{92}{paragraph*.61}%
+\contentsline {paragraph}{Self-regulation}{92}{paragraph*.62}%
+\contentsline {paragraph}{Social regulation (Relationship management)}{93}{paragraph*.63}%
+\contentsline {paragraph}{IQ vs.\ EQ}{93}{paragraph*.64}%
+\contentsline {paragraph}{Motivation \& the Marshmallow Test}{93}{paragraph*.65}%
+\contentsline {subsection}{\numberline {5.4.4}Case Study: The Bank Manager \& the Digital Arrest}{94}{subsection.5.4.4}%
+\contentsline {subsection}{\numberline {5.4.5}Case Study: Topography of Terror (Berlin)}{95}{subsection.5.4.5}%
+\contentsline {subsection}{\numberline {5.4.6}More Examples of Emotional Intelligence (and its absence)}{95}{subsection.5.4.6}%
+\contentsline {paragraph}{Lack of emotional intelligence}{95}{paragraph*.66}%
+\contentsline {paragraph}{Presence of emotional intelligence}{95}{paragraph*.67}%
+\contentsline {section}{\numberline {5.5}Trained Apathy \& Functional Detachment}{97}{section.5.5}%
+\contentsline {section}{\numberline {5.6}Using Emotions Positively (Emotions Working For You)}{97}{section.5.6}%
+\contentsline {subsection}{\numberline {5.6.1}Rational vs.\ Non-rational (Extra-rational) Behaviour}{98}{subsection.5.6.1}%
+\contentsline {subsection}{\numberline {5.6.2}Swachh Bharat Mission --- Pride, Disgust, Love}{98}{subsection.5.6.2}%
+\contentsline {paragraph}{Disgust}{98}{paragraph*.68}%
+\contentsline {paragraph}{Pride}{98}{paragraph*.69}%
+\contentsline {paragraph}{Love}{98}{paragraph*.70}%
+\contentsline {subsection}{\numberline {5.6.3}Pictorial Warnings on Tobacco}{99}{subsection.5.6.3}%
+\contentsline {section}{\numberline {5.7}Can Emotional Intelligence Be Learned?}{99}{section.5.7}%
+\contentsline {subsection}{\numberline {5.7.1}Methods to Inculcate Emotional Intelligence}{99}{subsection.5.7.1}%
+\contentsline {subsection}{\numberline {5.7.2}Emotional Intelligence Can Be Misused}{100}{subsection.5.7.2}%
+\contentsline {section}{\numberline {5.8}Attitude: Meaning \& Structure}{101}{section.5.8}%
+\contentsline {subsection}{\numberline {5.8.1}What is Attitude?}{101}{subsection.5.8.1}%
+\contentsline {subsection}{\numberline {5.8.2}Structure of Attitude --- the CAB (ABC) Model}{101}{subsection.5.8.2}%
+\contentsline {paragraph}{Worked example --- attitude towards trees / tree plantation}{102}{paragraph*.71}%
+\contentsline {paragraph}{Worked example --- racial prejudice (for illustration only)}{102}{paragraph*.72}%
+\contentsline {subsection}{\numberline {5.8.3}Components May Not Be in Congruence}{102}{subsection.5.8.3}%
+\contentsline {section}{\numberline {5.9}Functions of Attitude}{103}{section.5.9}%
+\contentsline {subsection}{\numberline {5.9.1}Knowledge Function}{103}{subsection.5.9.1}%
+\contentsline {subsection}{\numberline {5.9.2}Utilitarian / Socially-Adjustive Function}{104}{subsection.5.9.2}%
+\contentsline {subsection}{\numberline {5.9.3}Ego-Defensive Function}{104}{subsection.5.9.3}%
+\contentsline {subsection}{\numberline {5.9.4}Value-Expressive Function}{104}{subsection.5.9.4}%
+\contentsline {section}{\numberline {5.10}Attitude's Influence on Thought \& Behaviour}{104}{section.5.10}%
+\contentsline {subsection}{\numberline {5.10.1}Influence on Thought}{105}{subsection.5.10.1}%
+\contentsline {subsection}{\numberline {5.10.2}Influence on Behaviour}{105}{subsection.5.10.2}%
+\contentsline {paragraph}{Factors determining when attitude predicts behaviour}{106}{paragraph*.73}%
+\contentsline {paragraph}{Perceived behavioural control --- examples}{106}{paragraph*.74}%
+\contentsline {section}{\numberline {5.11}Cognitive Dissonance}{107}{section.5.11}%
+\contentsline {paragraph}{Ways to resolve cognitive dissonance}{107}{paragraph*.75}%
+\contentsline {section}{\numberline {5.12}Formation of Attitude}{108}{section.5.12}%
+\contentsline {subsection}{\numberline {5.12.1}Classical Conditioning (learning through association)}{108}{subsection.5.12.1}%
+\contentsline {subsection}{\numberline {5.12.2}Operant Conditioning (reward and punishment)}{108}{subsection.5.12.2}%
+\contentsline {subsection}{\numberline {5.12.3}Observational Learning, Culture, Media, Family}{108}{subsection.5.12.3}%
+\contentsline {subsection}{\numberline {5.12.4}Values vs.\ Attitudes}{109}{subsection.5.12.4}%
+\contentsline {subsection}{\numberline {5.12.5}Moral, Immoral and Amoral Attitudes}{109}{subsection.5.12.5}%
+\contentsline {chapter}{\numberline {6}Attitude, Deontology and Utilitarianism}{111}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Attitude (continued)}{111}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Cognitive Dissonance}{111}{subsection.6.1.1}%
+\contentsline {paragraph}{Ways to reduce cognitive dissonance}{111}{paragraph*.76}%
+\contentsline {subsection}{\numberline {6.1.2}Political Attitude}{112}{subsection.6.1.2}%
+\contentsline {paragraph}{Factors that shape political attitude}{112}{paragraph*.77}%
+\contentsline {paragraph}{Historical factors}{112}{paragraph*.78}%
+\contentsline {paragraph}{Social factors --- caste}{112}{paragraph*.79}%
+\contentsline {paragraph}{Gender}{112}{paragraph*.80}%
+\contentsline {paragraph}{Family}{112}{paragraph*.81}%
+\contentsline {paragraph}{Education}{113}{paragraph*.82}%
+\contentsline {paragraph}{Age}{113}{paragraph*.83}%
+\contentsline {paragraph}{Economic status}{113}{paragraph*.84}%
+\contentsline {paragraph}{Media}{113}{paragraph*.85}%
+\contentsline {paragraph}{Circumstances}{113}{paragraph*.86}%
+\contentsline {subsection}{\numberline {6.1.3}Social Influence}{114}{subsection.6.1.3}%
+\contentsline {paragraph}{How social influence operates}{114}{paragraph*.87}%
+\contentsline {paragraph}{Informational influence}{114}{paragraph*.88}%
+\contentsline {paragraph}{Situational influence}{114}{paragraph*.89}%
+\contentsline {paragraph}{Normative influence}{114}{paragraph*.90}%
+\contentsline {paragraph}{Factors determining the degree of social influence}{114}{paragraph*.91}%
+\contentsline {subsection}{\numberline {6.1.4}Persuasion}{115}{subsection.6.1.4}%
+\contentsline {paragraph}{Techniques of persuasion}{115}{paragraph*.92}%
+\contentsline {paragraph}{(a) Social proofing}{115}{paragraph*.93}%
+\contentsline {paragraph}{(b) Default rule}{116}{paragraph*.94}%
+\contentsline {paragraph}{(c) Scarcity complex}{116}{paragraph*.95}%
+\contentsline {paragraph}{(d) Reciprocity}{116}{paragraph*.96}%
+\contentsline {paragraph}{(e) Attention \& clear messaging}{116}{paragraph*.97}%
+\contentsline {paragraph}{(f) Messenger liking}{117}{paragraph*.98}%
+\contentsline {paragraph}{(g) Public commitment}{117}{paragraph*.99}%
+\contentsline {subsection}{\numberline {6.1.5}Nudging}{117}{subsection.6.1.5}%
+\contentsline {paragraph}{Examples of nudging}{118}{paragraph*.100}%
+\contentsline {section}{\numberline {6.2}Normative Ethics \& Deontology (Immanuel Kant)}{118}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Normative Ethics --- The Ethical Standards}{118}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}Case Study --- SP Sunil (Applying the Standards)}{119}{subsection.6.2.2}%
+\contentsline {subsection}{\numberline {6.2.3}Kant's Deontology --- Goodwill}{120}{subsection.6.2.3}%
+\contentsline {paragraph}{Everything else is only a conditional good}{120}{paragraph*.101}%
+\contentsline {subsection}{\numberline {6.2.4}The Two Features of a Goodwill}{120}{subsection.6.2.4}%
+\contentsline {paragraph}{(i) It must be a Free Will}{120}{paragraph*.102}%
+\contentsline {paragraph}{Illustration --- the Veil of Ignorance}{120}{paragraph*.103}%
+\contentsline {paragraph}{(ii) Follow the Moral Law for the Respect of the Moral Law}{121}{paragraph*.104}%
+\contentsline {subsection}{\numberline {6.2.5}The Moral Law \& the Categorical Imperative}{121}{subsection.6.2.5}%
+\contentsline {paragraph}{(a) It must become a Universal Law (Universalisability)}{121}{paragraph*.105}%
+\contentsline {paragraph}{Further tests of universality}{122}{paragraph*.106}%
+\contentsline {paragraph}{(b) Humanity as an End, Never Merely as a Means}{122}{paragraph*.107}%
+\contentsline {paragraph}{(c) Legislator and Legislated (Reciprocity)}{123}{paragraph*.108}%
+\contentsline {subsection}{\numberline {6.2.6}Categorical Imperative, Merits \& Demerits of Kant}{124}{subsection.6.2.6}%
+\contentsline {paragraph}{Merits of Kant}{124}{paragraph*.109}%
+\contentsline {paragraph}{Demerits of Kant}{124}{paragraph*.110}%
+\contentsline {section}{\numberline {6.3}Teleological Ethics: Utilitarianism}{125}{section.6.3}%
+\contentsline {subsection}{\numberline {6.3.1}Utilitarianism --- The Core Idea}{125}{subsection.6.3.1}%
+\contentsline {subsection}{\numberline {6.3.2}Jeremy Bentham --- Quantitative Utilitarianism}{125}{subsection.6.3.2}%
+\contentsline {paragraph}{Hedonic Calculus}{125}{paragraph*.111}%
+\contentsline {paragraph}{The four sanctions}{125}{paragraph*.112}%
+\contentsline {subsection}{\numberline {6.3.3}John Stuart Mill --- Qualitative Utilitarianism}{126}{subsection.6.3.3}%
+\contentsline {subsection}{\numberline {6.3.4}Act Utilitarianism vs Rule Utilitarianism}{126}{subsection.6.3.4}%
+\contentsline {subsection}{\numberline {6.3.5}Utilitarianism in Governance}{127}{subsection.6.3.5}%
+\contentsline {subsection}{\numberline {6.3.6}Merits \& Demerits of Utilitarianism}{127}{subsection.6.3.6}%
+\contentsline {paragraph}{Merits}{127}{paragraph*.113}%
+\contentsline {paragraph}{Demerits}{127}{paragraph*.114}%
+\contentsline {chapter}{\numberline {7}Ethical Egoism, Virtue Ethics, Weber \& Rawls}{129}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Ethical Egoism}{129}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Virtue Ethics}{130}{section.7.2}%
+\contentsline {section}{\numberline {7.3}Virtue Ethics: Socrates}{131}{section.7.3}%
+\contentsline {section}{\numberline {7.4}Virtue Ethics: Plato}{133}{section.7.4}%
+\contentsline {section}{\numberline {7.5}Virtue Ethics: Aristotle \& the Golden Mean}{135}{section.7.5}%
+\contentsline {section}{\numberline {7.6}Max Weber \& Bureaucracy}{137}{section.7.6}%
+\contentsline {section}{\numberline {7.7}John Rawls: Justice as Fairness}{140}{section.7.7}%
+\contentsline {section}{\numberline {7.8}Rights, Natural Rights \& Social Contract}{142}{section.7.8}%
+\contentsline {section}{\numberline {7.9}Ethical Dilemma}{144}{section.7.9}%
+\contentsline {section}{\numberline {7.10}Conflict of Interest}{145}{section.7.10}%
+\contentsline {chapter}{\numberline {8}Institutions, Law, Conscience, Corporate Governance \& Ethics in IR}{149}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Ethical Concerns \& Dilemmas in Public and Private Institutions}{149}{section.8.1}%
+\contentsline {subsection}{\numberline {8.1.1}Foundational Backdrop --- The Social Contract}{149}{subsection.8.1.1}%
+\contentsline {subsection}{\numberline {8.1.2}Public Administration vs Private Administration}{149}{subsection.8.1.2}%
+\contentsline {paragraph}{UPSC Case Study --- Manager of a Hospital during COVID-19.}{149}{paragraph*.115}%
+\contentsline {paragraph}{UPSC Case Study --- Faster Vaccine Development in a Private Firm.}{150}{paragraph*.116}%
+\contentsline {paragraph}{Key Differences --- Public vs Private.}{151}{paragraph*.117}%
+\contentsline {paragraph}{Applied Question --- Changing Nature of Institutions \& of Dilemmas.}{151}{paragraph*.118}%
+\contentsline {subsection}{\numberline {8.1.3}Changing Values under Globalisation}{152}{subsection.8.1.3}%
+\contentsline {subsection}{\numberline {8.1.4}Note --- Conflict of Interest vs Ethical Dilemma}{152}{subsection.8.1.4}%
+\contentsline {subsection}{\numberline {8.1.5}Ethical Imperative in Public Administration}{153}{subsection.8.1.5}%
+\contentsline {subsection}{\numberline {8.1.6}Ethical Challenges in Public Administration}{153}{subsection.8.1.6}%
+\contentsline {section}{\numberline {8.2}Law as a Source of Ethical Guidance}{154}{section.8.2}%
+\contentsline {subsection}{\numberline {8.2.1}Importance of Law}{154}{subsection.8.2.1}%
+\contentsline {paragraph}{Codification of Public Morality.}{154}{paragraph*.119}%
+\contentsline {paragraph}{Fighting Social Evil.}{154}{paragraph*.120}%
+\contentsline {paragraph}{Delivering Social Justice.}{154}{paragraph*.121}%
+\contentsline {paragraph}{Adding New Ethical Standards.}{154}{paragraph*.122}%
+\contentsline {paragraph}{Business of Rights \& Protecting Dignity.}{155}{paragraph*.123}%
+\contentsline {paragraph}{Promoting Good Governance.}{155}{paragraph*.124}%
+\contentsline {subsection}{\numberline {8.2.2}Limitations of Law}{155}{subsection.8.2.2}%
+\contentsline {paragraph}{Legal but Not Ethical.}{155}{paragraph*.125}%
+\contentsline {paragraph}{Enforcement Failures \& Evasion.}{155}{paragraph*.126}%
+\contentsline {paragraph}{Negative Perception --- No Internal Change.}{155}{paragraph*.127}%
+\contentsline {paragraph}{Law is Minimum Morality \& Involves Discretion.}{156}{paragraph*.128}%
+\contentsline {section}{\numberline {8.3}Conscience as a Source of Ethical Guidance}{156}{section.8.3}%
+\contentsline {subsection}{\numberline {8.3.1}What Conscience Is}{156}{subsection.8.3.1}%
+\contentsline {subsection}{\numberline {8.3.2}How Conscience Becomes a Source of Guidance}{157}{subsection.8.3.2}%
+\contentsline {subsection}{\numberline {8.3.3}Conscience Demands Personal Responsibility}{157}{subsection.8.3.3}%
+\contentsline {subsection}{\numberline {8.3.4}Conscience vs Law}{157}{subsection.8.3.4}%
+\contentsline {subsection}{\numberline {8.3.5}Can You Always Rely on Conscience? (Is it an Infallible Guide?)}{158}{subsection.8.3.5}%
+\contentsline {subsection}{\numberline {8.3.6}UPSC PYQ --- Max Weber on Bureaucratic Morality}{158}{subsection.8.3.6}%
+\contentsline {paragraph}{First half --- Weber's point.}{158}{paragraph*.129}%
+\contentsline {paragraph}{Second half --- but conscience is still needed.}{159}{paragraph*.130}%
+\contentsline {subsection}{\numberline {8.3.7}Crisis of Conscience}{159}{subsection.8.3.7}%
+\contentsline {section}{\numberline {8.4}Corporate Governance --- Ethics in Private Institutions}{160}{section.8.4}%
+\contentsline {subsection}{\numberline {8.4.1}Why We Study This Topic (The Core Argument)}{160}{subsection.8.4.1}%
+\contentsline {subsection}{\numberline {8.4.2}What Corporate Governance Is}{160}{subsection.8.4.2}%
+\contentsline {subsection}{\numberline {8.4.3}Obligations Towards Shareholders}{160}{subsection.8.4.3}%
+\contentsline {subsection}{\numberline {8.4.4}Obligations Towards Consumers}{161}{subsection.8.4.4}%
+\contentsline {subsection}{\numberline {8.4.5}Obligations Towards Employees}{162}{subsection.8.4.5}%
+\contentsline {subsection}{\numberline {8.4.6}Obligations Towards Government / Regulators}{162}{subsection.8.4.6}%
+\contentsline {paragraph}{Reducing Negative Externalities \& Inequality.}{163}{paragraph*.131}%
+\contentsline {subsection}{\numberline {8.4.7}Obligations Towards Society}{163}{subsection.8.4.7}%
+\contentsline {subsection}{\numberline {8.4.8}Ethical Concerns in Corporate Governance (India)}{164}{subsection.8.4.8}%
+\contentsline {paragraph}{The Independent-Director Problem.}{164}{paragraph*.132}%
+\contentsline {paragraph}{Other Concerns.}{164}{paragraph*.133}%
+\contentsline {subsection}{\numberline {8.4.9}Companies Act 2013 --- Provisions for Ethical Governance}{165}{subsection.8.4.9}%
+\contentsline {paragraph}{Women Director.}{165}{paragraph*.134}%
+\contentsline {paragraph}{Independent Directors.}{165}{paragraph*.135}%
+\contentsline {paragraph}{Audit Committee.}{165}{paragraph*.136}%
+\contentsline {paragraph}{Stakeholder Relationship Committee.}{165}{paragraph*.137}%
+\contentsline {paragraph}{Corporate Social Responsibility (CSR).}{165}{paragraph*.138}%
+\contentsline {subsection}{\numberline {8.4.10}Issues / Limitations of CSR}{166}{subsection.8.4.10}%
+\contentsline {section}{\numberline {8.5}Ethics in International Relations}{166}{section.8.5}%
+\contentsline {subsection}{\numberline {8.5.1}Background --- ``There is No Place for Principles in Politics''}{166}{subsection.8.5.1}%
+\contentsline {subsection}{\numberline {8.5.2}Why International Relations Are Different --- The Analogy}{167}{subsection.8.5.2}%
+\contentsline {subsection}{\numberline {8.5.3}Why Countries Should Be Ethical --- The Arguments}{167}{subsection.8.5.3}%
+\contentsline {paragraph}{Global Nature of Problems.}{167}{paragraph*.139}%
+\contentsline {paragraph}{To Resolve Conflicts Amicably \& Peacefully.}{167}{paragraph*.140}%
+\contentsline {paragraph}{For Inclusive \& Sustainable Growth.}{168}{paragraph*.141}%
+\contentsline {paragraph}{Overarching Rule-Based Architecture.}{168}{paragraph*.142}%
+\contentsline {paragraph}{To Have Flourishing Trade.}{168}{paragraph*.143}%
+\contentsline {paragraph}{To Uphold Rule of Law \& Accountability.}{168}{paragraph*.144}%
+\contentsline {paragraph}{To Uphold Cultural Relativism \& Tolerance.}{168}{paragraph*.145}%
+\contentsline {paragraph}{Interdependence in the Age of Technology \& Globalisation.}{168}{paragraph*.146}%
+\contentsline {subsection}{\numberline {8.5.4}Which Ethical Principles to Follow in IR}{169}{subsection.8.5.4}%
+\contentsline {subsection}{\numberline {8.5.5}Ethical Concerns in IR (Current-Affairs Examples)}{169}{subsection.8.5.5}%
+\contentsline {subsection}{\numberline {8.5.6}Ethical Issues in International Funding}{169}{subsection.8.5.6}%
+\contentsline {section}{\numberline {8.6}Just War Theory}{170}{section.8.6}%
+\contentsline {subsection}{\numberline {8.6.1}The Logic of Foreseeable Consequences}{170}{subsection.8.6.1}%
+\contentsline {subsection}{\numberline {8.6.2}Principles Before War (Jus ad Bellum)}{171}{subsection.8.6.2}%
+\contentsline {subsection}{\numberline {8.6.3}During War (Jus in Bello) \& After War (Jus post Bellum)}{171}{subsection.8.6.3}%
+\contentsline {subsection}{\numberline {8.6.4}Purpose \& Exam Application}{171}{subsection.8.6.4}%
+\contentsline {chapter}{\numberline {9}Service Delivery, Codes, Transparency, Accountability \& Probity}{173}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Just War Theory --- During War and After War}{173}{section.9.1}%
+\contentsline {subsection}{\numberline {9.1.1}During War (Jus in Bello) --- Principles}{173}{subsection.9.1.1}%
+\contentsline {paragraph}{Proportionality of Force.}{173}{paragraph*.147}%
+\contentsline {paragraph}{Distinction Between Civilian and Military Targets.}{173}{paragraph*.148}%
+\contentsline {paragraph}{Humane Treatment of Prisoners of War and Wounded Soldiers.}{173}{paragraph*.149}%
+\contentsline {subsection}{\numberline {9.1.2}After War (Jus Post Bellum) --- Principles}{174}{subsection.9.1.2}%
+\contentsline {paragraph}{Holding Individuals Accountable for War Crimes.}{174}{paragraph*.150}%
+\contentsline {paragraph}{Establishing a Just and Lasting Peace.}{174}{paragraph*.151}%
+\contentsline {section}{\numberline {9.2}Quality of Service Delivery}{174}{section.9.2}%
+\contentsline {subsection}{\numberline {9.2.1}Definition}{174}{subsection.9.2.1}%
+\contentsline {subsection}{\numberline {9.2.2}Parameters of Quality of Service Delivery}{174}{subsection.9.2.2}%
+\contentsline {paragraph}{Availability.}{174}{paragraph*.152}%
+\contentsline {paragraph}{Accessibility.}{175}{paragraph*.153}%
+\contentsline {paragraph}{Responsiveness.}{175}{paragraph*.154}%
+\contentsline {paragraph}{Reliability.}{175}{paragraph*.155}%
+\contentsline {paragraph}{Quality Per Se.}{175}{paragraph*.156}%
+\contentsline {paragraph}{Effectiveness.}{175}{paragraph*.157}%
+\contentsline {paragraph}{Sustainability.}{176}{paragraph*.158}%
+\contentsline {paragraph}{Economy, Efficiency, and Cost-Effectiveness.}{176}{paragraph*.159}%
+\contentsline {paragraph}{Ease and Convenience.}{176}{paragraph*.160}%
+\contentsline {paragraph}{Timeliness.}{176}{paragraph*.161}%
+\contentsline {paragraph}{Grievance Redressal.}{176}{paragraph*.162}%
+\contentsline {paragraph}{Citizen-Centricity.}{177}{paragraph*.163}%
+\contentsline {subsection}{\numberline {9.2.3}Reasons for Poor Quality of Service Delivery}{177}{subsection.9.2.3}%
+\contentsline {paragraph}{Overburdening of the System / Population Pressure.}{177}{paragraph*.164}%
+\contentsline {paragraph}{Lack of Skilled Workforce.}{177}{paragraph*.165}%
+\contentsline {paragraph}{Corruption.}{178}{paragraph*.166}%
+\contentsline {paragraph}{Bureaucratic Problems.}{178}{paragraph*.167}%
+\contentsline {paragraph}{Resource Constraints.}{178}{paragraph*.168}%
+\contentsline {paragraph}{Digital Divide.}{178}{paragraph*.169}%
+\contentsline {paragraph}{Cultural and Societal Factors.}{178}{paragraph*.170}%
+\contentsline {paragraph}{Political Interference.}{178}{paragraph*.171}%
+\contentsline {section}{\numberline {9.3}Code of Conduct and Code of Ethics}{179}{section.9.3}%
+\contentsline {subsection}{\numberline {9.3.1}The Three-Tiered Framework (Second ARC Recommendation)}{179}{subsection.9.3.1}%
+\contentsline {subsection}{\numberline {9.3.2}Understanding Code of Conduct}{179}{subsection.9.3.2}%
+\contentsline {paragraph}{Key Features of Code of Conduct.}{179}{paragraph*.172}%
+\contentsline {paragraph}{Code of Conduct and Conflict of Interest.}{180}{paragraph*.173}%
+\contentsline {subsection}{\numberline {9.3.3}Understanding Code of Ethics}{180}{subsection.9.3.3}%
+\contentsline {subsection}{\numberline {9.3.4}Relationship Between the Three Tiers}{180}{subsection.9.3.4}%
+\contentsline {subsection}{\numberline {9.3.5}Code of Conduct is Application of Code of Ethics in Specific Situations}{181}{subsection.9.3.5}%
+\contentsline {subsection}{\numberline {9.3.6}Limitations of Code of Conduct}{181}{subsection.9.3.6}%
+\contentsline {subsection}{\numberline {9.3.7}Why Code of Ethics Is Important}{182}{subsection.9.3.7}%
+\contentsline {section}{\numberline {9.4}Citizen Charter}{183}{section.9.4}%
+\contentsline {subsection}{\numberline {9.4.1}Background and Context}{183}{subsection.9.4.1}%
+\contentsline {subsection}{\numberline {9.4.2}Definition and Components}{183}{subsection.9.4.2}%
+\contentsline {subsection}{\numberline {9.4.3}Case Studies}{184}{subsection.9.4.3}%
+\contentsline {paragraph}{NTPC Citizen Charter.}{184}{paragraph*.174}%
+\contentsline {paragraph}{RBI Citizen Charter.}{184}{paragraph*.175}%
+\contentsline {paragraph}{Passport Seva Kendra.}{184}{paragraph*.176}%
+\contentsline {paragraph}{Hospitals (e.g., Gangaram).}{184}{paragraph*.177}%
+\contentsline {subsection}{\numberline {9.4.4}Purpose and Significance}{184}{subsection.9.4.4}%
+\contentsline {subsection}{\numberline {9.4.5}Limitations of Citizen Charter}{184}{subsection.9.4.5}%
+\contentsline {subsection}{\numberline {9.4.6}Measures to Improve (Second ARC Recommendations)}{185}{subsection.9.4.6}%
+\contentsline {section}{\numberline {9.5}Work Culture}{186}{section.9.5}%
+\contentsline {subsection}{\numberline {9.5.1}Definition}{186}{subsection.9.5.1}%
+\contentsline {subsection}{\numberline {9.5.2}Dimensions of Work Culture}{186}{subsection.9.5.2}%
+\contentsline {subsection}{\numberline {9.5.3}Positive Work Culture --- Characteristics and Examples}{186}{subsection.9.5.3}%
+\contentsline {subsection}{\numberline {9.5.4}Negative Work Culture --- Characteristics and Examples}{187}{subsection.9.5.4}%
+\contentsline {subsection}{\numberline {9.5.5}Determinants of Work Culture}{187}{subsection.9.5.5}%
+\contentsline {section}{\numberline {9.6}Transparency and Accountability}{188}{section.9.6}%
+\contentsline {subsection}{\numberline {9.6.1}Transparency}{188}{subsection.9.6.1}%
+\contentsline {paragraph}{Definition.}{188}{paragraph*.178}%
+\contentsline {paragraph}{Types of Transparency.}{188}{paragraph*.179}%
+\contentsline {subsection}{\numberline {9.6.2}Accountability}{188}{subsection.9.6.2}%
+\contentsline {paragraph}{Definition.}{188}{paragraph*.180}%
+\contentsline {paragraph}{Accountability vs. Responsibility.}{189}{paragraph*.181}%
+\contentsline {subsection}{\numberline {9.6.3}Traditional Forms of Accountability}{189}{subsection.9.6.3}%
+\contentsline {subsection}{\numberline {9.6.4}Limitations of Traditional Accountability}{189}{subsection.9.6.4}%
+\contentsline {subsection}{\numberline {9.6.5}Social Accountability Mechanisms}{190}{subsection.9.6.5}%
+\contentsline {section}{\numberline {9.7}Social Audit}{190}{section.9.7}%
+\contentsline {subsection}{\numberline {9.7.1}Definition}{190}{subsection.9.7.1}%
+\contentsline {subsection}{\numberline {9.7.2}Why Social Audit Is Needed}{191}{subsection.9.7.2}%
+\contentsline {subsection}{\numberline {9.7.3}How Social Audit Works (MNAREGA Example)}{191}{subsection.9.7.3}%
+\contentsline {subsection}{\numberline {9.7.4}Case Study: Meghalaya}{191}{subsection.9.7.4}%
+\contentsline {subsection}{\numberline {9.7.5}Benefits of Social Audit}{192}{subsection.9.7.5}%
+\contentsline {subsection}{\numberline {9.7.6}Limitations of Social Audit}{192}{subsection.9.7.6}%
+\contentsline {section}{\numberline {9.8}Right to Information (RTI)}{193}{section.9.8}%
+\contentsline {subsection}{\numberline {9.8.1}Overview}{193}{subsection.9.8.1}%
+\contentsline {subsection}{\numberline {9.8.2}RTI as a Social Accountability Tool}{193}{subsection.9.8.2}%
+\contentsline {subsection}{\numberline {9.8.3}Benefits of RTI}{194}{subsection.9.8.3}%
+\contentsline {subsection}{\numberline {9.8.4}Limitations and Challenges of RTI Implementation}{194}{subsection.9.8.4}%
+\contentsline {paragraph}{Infrastructural Issues.}{194}{paragraph*.182}%
+\contentsline {paragraph}{Bureaucratic Attitude.}{194}{paragraph*.183}%
+\contentsline {paragraph}{Capacity and Institutional Issues.}{194}{paragraph*.184}%
+\contentsline {paragraph}{Enforcement Challenges.}{195}{paragraph*.185}%
+\contentsline {paragraph}{Citizen-Side Challenges.}{195}{paragraph*.186}%
+\contentsline {paragraph}{Safety Concerns.}{195}{paragraph*.187}%
+\contentsline {paragraph}{Impact on Administrative Efficiency.}{195}{paragraph*.188}%
+\contentsline {section}{\numberline {9.9}Probity in Governance}{195}{section.9.9}%
+\contentsline {subsection}{\numberline {9.9.1}Probity vs.\ Integrity}{196}{subsection.9.9.1}%
+\contentsline {paragraph}{Probity.}{196}{paragraph*.189}%
+\contentsline {paragraph}{Integrity.}{196}{paragraph*.190}%
+\contentsline {subsection}{\numberline {9.9.2}Reasons for Declining Probity}{196}{subsection.9.9.2}%
+\contentsline {paragraph}{Political Dimension.}{196}{paragraph*.191}%
+\contentsline {paragraph}{Administrative/Bureaucratic Dimension.}{196}{paragraph*.192}%
+\contentsline {paragraph}{Societal Dimension.}{197}{paragraph*.193}%
+\contentsline {paragraph}{Moral/Individual Dimension.}{197}{paragraph*.194}%
+\contentsline {paragraph}{Historical/Cultural Dimension.}{197}{paragraph*.195}%
+\contentsline {paragraph}{Deterrence Dimension.}{197}{paragraph*.196}%
+\contentsline {subsection}{\numberline {9.9.3}Philosophical Basis of Probity in Governance}{197}{subsection.9.9.3}%
+\contentsline {paragraph}{Kautilya (Arthashastra).}{198}{paragraph*.197}%
+\contentsline {section}{\numberline {9.10}Utilization of Public Funds}{198}{section.9.10}%
+\contentsline {subsection}{\numberline {9.10.1}Overview}{198}{subsection.9.10.1}%
+\contentsline {subsection}{\numberline {9.10.2}Reasons for Under-Utilization of Public Funds}{198}{subsection.9.10.2}%
+\contentsline {paragraph}{Procedural Bottlenecks and Red-Tapism.}{198}{paragraph*.198}%
+\contentsline {paragraph}{Lack of Community Participation / Top-Down Implementation.}{199}{paragraph*.199}%
+\contentsline {paragraph}{Delay in Fund Disbursement.}{199}{paragraph*.200}%
+\contentsline {paragraph}{Incremental Budgeting.}{199}{paragraph*.201}%
+\contentsline {paragraph}{Lack of Accountability.}{199}{paragraph*.202}%
+\contentsline {subsection}{\numberline {9.10.3}Reasons for Mis-Utilization of Public Funds}{200}{subsection.9.10.3}%
+\contentsline {paragraph}{Corruption.}{200}{paragraph*.203}%
+\contentsline {paragraph}{Social Exclusion and Discriminatory Allocation.}{200}{paragraph*.204}%
+\contentsline {paragraph}{Ineffective Targeting of Beneficiaries.}{200}{paragraph*.205}%
+\contentsline {paragraph}{Centralization of Decision-Making.}{200}{paragraph*.206}%
+\contentsline {subsection}{\numberline {9.10.4}Measures for Better Utilization}{200}{subsection.9.10.4}%

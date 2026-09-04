@@ -1,540 +1,966 @@
-\contentsline {chapter}{\numberline {1}Ethics and Human Interface}{11}{chapter.1}%
-\contentsline {section}{\numberline {1.1}Values}{11}{section.1.1}%
-\contentsline {subsection}{\numberline {1.1.1}Meaning of Values}{11}{subsection.1.1.1}%
-\contentsline {subsection}{\numberline {1.1.2}Types of Values --- Moral, Immoral and Amoral}{11}{subsection.1.1.2}%
-\contentsline {paragraph}{Moral values}{11}{paragraph*.1}%
-\contentsline {paragraph}{Immoral values}{11}{paragraph*.2}%
-\contentsline {paragraph}{Amoral values}{12}{paragraph*.3}%
-\contentsline {subsection}{\numberline {1.1.3}Relative Hierarchy of Values}{12}{subsection.1.1.3}%
-\contentsline {subsection}{\numberline {1.1.4}Ethical Dilemmas Arising from Value Conflict}{12}{subsection.1.1.4}%
-\contentsline {section}{\numberline {1.2}Collective Values}{13}{section.1.2}%
-\contentsline {subsection}{\numberline {1.2.1}Family Values}{13}{subsection.1.2.1}%
-\contentsline {subsection}{\numberline {1.2.2}Societal Values}{13}{subsection.1.2.2}%
-\contentsline {subsection}{\numberline {1.2.3}Constitutional Values}{14}{subsection.1.2.3}%
-\contentsline {subsection}{\numberline {1.2.4}Organizational \& Professional Values}{15}{subsection.1.2.4}%
-\contentsline {section}{\numberline {1.3}Meaning of Ethics}{15}{section.1.3}%
-\contentsline {subsection}{\numberline {1.3.1}Sources of Ethics}{16}{subsection.1.3.1}%
-\contentsline {section}{\numberline {1.4}Ethics vs Morals}{16}{section.1.4}%
-\contentsline {subsection}{\numberline {1.4.1}When Ethics and Morals Conflict}{17}{subsection.1.4.1}%
-\contentsline {section}{\numberline {1.5}Ethics vs Law}{18}{section.1.5}%
-\contentsline {subsection}{\numberline {1.5.1}Legal but Unethical}{18}{subsection.1.5.1}%
-\contentsline {subsection}{\numberline {1.5.2}Illegal but Ethical}{19}{subsection.1.5.2}%
-\contentsline {subsection}{\numberline {1.5.3}Right vs Right}{20}{subsection.1.5.3}%
-\contentsline {section}{\numberline {1.6}Constitutional Morality}{20}{section.1.6}%
-\contentsline {section}{\numberline {1.7}Determinants of Ethics}{21}{section.1.7}%
-\contentsline {subsection}{\numberline {1.7.1}Institutional \& Human Determinants}{21}{subsection.1.7.1}%
-\contentsline {subsection}{\numberline {1.7.2}Technology as a Determinant}{22}{subsection.1.7.2}%
-\contentsline {subsection}{\numberline {1.7.3}Economic \& Global Determinants}{22}{subsection.1.7.3}%
-\contentsline {subsection}{\numberline {1.7.4}Evolution of Norms --- The Concept of Justice}{23}{subsection.1.7.4}%
-\contentsline {subsection}{\numberline {1.7.5}Changing Context Must Be Under Constant Scrutiny}{23}{subsection.1.7.5}%
-\contentsline {chapter}{\numberline {2}Consequences of Ethics and Applied Ethics}{25}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Consequences of Ethics}{25}{section.2.1}%
-\contentsline {subsection}{\numberline {2.1.1}Why Individuals Should Be Ethical}{25}{subsection.2.1.1}%
-\contentsline {paragraph}{Survival}{25}{paragraph*.4}%
-\contentsline {paragraph}{Psychological Well-Being}{25}{paragraph*.5}%
-\contentsline {paragraph}{Quality of Interpersonal Relationships}{25}{paragraph*.6}%
-\contentsline {paragraph}{Professional Success and Fulfilment}{26}{paragraph*.7}%
-\contentsline {paragraph}{Leadership and Credibility}{26}{paragraph*.8}%
-\contentsline {paragraph}{Living a Purposeful Life --- Going Beyond Animalistic Existence}{26}{paragraph*.9}%
-\contentsline {subsection}{\numberline {2.1.2}Why Organisations Should Be Ethical}{27}{subsection.2.1.2}%
-\contentsline {subsection}{\numberline {2.1.3}Why Society Should Be Ethical}{28}{subsection.2.1.3}%
-\contentsline {section}{\numberline {2.2}Dimensions of Ethics}{29}{section.2.2}%
-\contentsline {subsection}{\numberline {2.2.1}Normative (Theoretical) Dimension}{29}{subsection.2.2.1}%
-\contentsline {paragraph}{Deontological Ethics}{30}{paragraph*.10}%
-\contentsline {paragraph}{Teleological Ethics (Consequentialism)}{30}{paragraph*.11}%
-\contentsline {paragraph}{Virtue Ethics}{30}{paragraph*.12}%
-\contentsline {subsection}{\numberline {2.2.2}Applied (Practical) Dimension}{31}{subsection.2.2.2}%
-\contentsline {section}{\numberline {2.3}Ethical Relativism and Ethical Absolutism}{31}{section.2.3}%
-\contentsline {subsection}{\numberline {2.3.1}Ethical Relativism}{31}{subsection.2.3.1}%
-\contentsline {paragraph}{Why Ethical Relativism Matters --- Avoiding Ethnocentrism and Cultural Imperialism}{32}{paragraph*.13}%
-\contentsline {paragraph}{Standardisation Due to ICT and Globalisation}{32}{paragraph*.14}%
-\contentsline {paragraph}{Merits and Demerits of Ethical Relativism}{33}{paragraph*.15}%
-\contentsline {subsection}{\numberline {2.3.2}Ethical Absolutism}{33}{subsection.2.3.2}%
-\contentsline {subsection}{\numberline {2.3.3}Reconciling Relativism and Absolutism}{33}{subsection.2.3.3}%
-\contentsline {section}{\numberline {2.4}Environmental Ethics (Applied Ethics)}{34}{section.2.4}%
-\contentsline {subsection}{\numberline {2.4.1}Shallow Ecology vs Deep Ecology}{35}{subsection.2.4.1}%
-\contentsline {subsection}{\numberline {2.4.2}Ecocentrism}{35}{subsection.2.4.2}%
-\contentsline {subsection}{\numberline {2.4.3}Key Principles of Environmental Ethics}{36}{subsection.2.4.3}%
-\contentsline {section}{\numberline {2.5}Technology Ethics (Applied Ethics)}{36}{section.2.5}%
-\contentsline {subsection}{\numberline {2.5.1}Key Principles of Technology Ethics}{37}{subsection.2.5.1}%
-\contentsline {paragraph}{Privacy}{37}{paragraph*.16}%
-\contentsline {paragraph}{Transparency}{37}{paragraph*.17}%
-\contentsline {paragraph}{Accountability}{37}{paragraph*.18}%
-\contentsline {paragraph}{Fairness --- Especially Critical for AI}{37}{paragraph*.19}%
-\contentsline {paragraph}{Beneficence}{38}{paragraph*.20}%
-\contentsline {paragraph}{Non-Maleficence}{38}{paragraph*.21}%
-\contentsline {paragraph}{Informed Consent}{38}{paragraph*.22}%
-\contentsline {paragraph}{Sustainability}{38}{paragraph*.23}%
-\contentsline {paragraph}{Respect for Human Autonomy}{39}{paragraph*.24}%
-\contentsline {subsection}{\numberline {2.5.2}Challenges of Technology in Administration}{39}{subsection.2.5.2}%
-\contentsline {section}{\numberline {2.6}Media Ethics (Applied Ethics)}{40}{section.2.6}%
-\contentsline {subsection}{\numberline {2.6.1}Key Principles of Media Ethics}{40}{subsection.2.6.1}%
-\contentsline {paragraph}{Accuracy / Verification}{40}{paragraph*.25}%
-\contentsline {paragraph}{Freedom with Reasonable Restrictions}{40}{paragraph*.26}%
-\contentsline {paragraph}{Independence and Autonomy}{40}{paragraph*.27}%
-\contentsline {paragraph}{Impartiality and Fairness}{41}{paragraph*.28}%
-\contentsline {paragraph}{Humanity / Compassion}{41}{paragraph*.29}%
-\contentsline {paragraph}{Do Not Incite Hatred}{41}{paragraph*.30}%
-\contentsline {paragraph}{Public Interest over Sensationalism}{41}{paragraph*.31}%
-\contentsline {section}{\numberline {2.7}Ethics in Public and Private Relationships}{42}{section.2.7}%
-\contentsline {subsection}{\numberline {2.7.1}Distinction Between Public and Private Relationship}{42}{subsection.2.7.1}%
-\contentsline {subsection}{\numberline {2.7.2}Role of Traditions in Private Relationship Ethics}{42}{subsection.2.7.2}%
-\contentsline {subsection}{\numberline {2.7.3}Why Private Relationships Are More Informal}{42}{subsection.2.7.3}%
-\contentsline {subsection}{\numberline {2.7.4}Consequences in the Context of Public vs Private}{43}{subsection.2.7.4}%
-\contentsline {chapter}{\numberline {3}Human Values and Value Inculcation}{45}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Recap: Technology Ethics, Media Ethics \& Public vs Private Relationships}{45}{section.3.1}%
-\contentsline {subsection}{\numberline {3.1.1}Technology Ethics}{45}{subsection.3.1.1}%
-\contentsline {subsection}{\numberline {3.1.2}Media Ethics}{45}{subsection.3.1.2}%
-\contentsline {paragraph}{Ways in which media's autonomy is threatened}{45}{paragraph*.32}%
-\contentsline {subsection}{\numberline {3.1.3}Ethics in Public vs Private Relationships}{46}{subsection.3.1.3}%
-\contentsline {paragraph}{Nature and essence}{46}{paragraph*.33}%
-\contentsline {paragraph}{Source of ethical standards}{46}{paragraph*.34}%
-\contentsline {paragraph}{Why higher ethical obligations apply in public life}{46}{paragraph*.35}%
-\contentsline {section}{\numberline {3.2}Ethical Standards in Public Relationships (Nolan Committee Principles)}{46}{section.3.2}%
-\contentsline {subsection}{\numberline {3.2.1}Selflessness}{47}{subsection.3.2.1}%
-\contentsline {subsection}{\numberline {3.2.2}Integrity}{47}{subsection.3.2.2}%
-\contentsline {subsection}{\numberline {3.2.3}Dignity and Compassion}{47}{subsection.3.2.3}%
-\contentsline {subsection}{\numberline {3.2.4}Leadership}{47}{subsection.3.2.4}%
-\contentsline {section}{\numberline {3.3}Ethical Standards in Private Relationships}{47}{section.3.3}%
-\contentsline {subsection}{\numberline {3.3.1}Love and Fidelity}{48}{subsection.3.3.1}%
-\contentsline {subsection}{\numberline {3.3.2}Responsibility}{48}{subsection.3.3.2}%
-\contentsline {subsection}{\numberline {3.3.3}Dignity in Private Relationships}{48}{subsection.3.3.3}%
-\contentsline {subsection}{\numberline {3.3.4}Traditions \& Customs and Rule of Law}{49}{subsection.3.3.4}%
-\contentsline {subsection}{\numberline {3.3.5}Commonalities and Differences between Public \& Private Standards}{49}{subsection.3.3.5}%
-\contentsline {paragraph}{Commonalities --- and why they exist}{49}{paragraph*.36}%
-\contentsline {paragraph}{Differences --- and why they exist}{49}{paragraph*.37}%
-\contentsline {section}{\numberline {3.4}Why Ethics in Private Relationships Matters More Today}{50}{section.3.4}%
-\contentsline {subsection}{\numberline {3.4.1}Core Reasons}{50}{subsection.3.4.1}%
-\contentsline {subsection}{\numberline {3.4.2}The Concept of Pitr-rin (Debt to Parents / Ancestors)}{50}{subsection.3.4.2}%
-\contentsline {subsection}{\numberline {3.4.3}The Fragility of Life --- Lesson on Prioritising Family}{51}{subsection.3.4.3}%
-\contentsline {section}{\numberline {3.5}Is a Watertight Separation of Public and Private Life Possible?}{51}{section.3.5}%
-\contentsline {subsection}{\numberline {3.5.1}Argument 1 --- Virtue Ethics (`We are what we repeatedly do')}{51}{subsection.3.5.1}%
-\contentsline {subsection}{\numberline {3.5.2}Argument 2 --- Divergence Creates a Crisis of Credibility}{52}{subsection.3.5.2}%
-\contentsline {subsection}{\numberline {3.5.3}Argument 3 --- Higher Standards Required of Civil Servants}{52}{subsection.3.5.3}%
-\contentsline {subsection}{\numberline {3.5.4}Where to Draw the Line: Do Public Officials Have Any Privacy?}{53}{subsection.3.5.4}%
-\contentsline {paragraph}{Two contrasting illustrations}{53}{paragraph*.38}%
-\contentsline {section}{\numberline {3.6}Human Values}{53}{section.3.6}%
-\contentsline {subsection}{\numberline {3.6.1}Meaning of Human Values}{53}{subsection.3.6.1}%
-\contentsline {subsection}{\numberline {3.6.2}Controlling Emotions and Desires --- Plato's Chariot Analogy}{54}{subsection.3.6.2}%
-\contentsline {subsection}{\numberline {3.6.3}Types of Values: Terminal vs Instrumental}{54}{subsection.3.6.3}%
-\contentsline {section}{\numberline {3.7}Inculcation of Values: Why Values Must Be Inculcated}{55}{section.3.7}%
-\contentsline {subsection}{\numberline {3.7.1}The Tanker-Looting Illustration}{55}{subsection.3.7.1}%
-\contentsline {subsection}{\numberline {3.7.2}Education Without Values $\rightarrow $ `A Clever Devil'}{55}{subsection.3.7.2}%
-\contentsline {subsection}{\numberline {3.7.3}Many Problems Are Societal, Not Merely Legal}{56}{subsection.3.7.3}%
-\contentsline {section}{\numberline {3.8}Role of Family in Value Inculcation}{56}{section.3.8}%
-\contentsline {subsection}{\numberline {3.8.1}Examples of Values Inculcated by Family}{56}{subsection.3.8.1}%
-\contentsline {subsection}{\numberline {3.8.2}Values from Joint Families}{57}{subsection.3.8.2}%
-\contentsline {subsection}{\numberline {3.8.3}How Families Inculcate Values (Mechanisms)}{57}{subsection.3.8.3}%
-\contentsline {paragraph}{Child-rearing practices}{57}{paragraph*.39}%
-\contentsline {paragraph}{Other mechanisms}{57}{paragraph*.40}%
-\contentsline {subsection}{\numberline {3.8.4}Critical Perspective --- Why Families Fail to Inculcate Values (Contemporary Factors)}{57}{subsection.3.8.4}%
-\contentsline {section}{\numberline {3.9}Role of Educational Institutions in Value Inculcation}{58}{section.3.9}%
-\contentsline {subsection}{\numberline {3.9.1}Role of Teachers}{58}{subsection.3.9.1}%
-\contentsline {subsection}{\numberline {3.9.2}Role of Curricular Subjects}{59}{subsection.3.9.2}%
-\contentsline {paragraph}{History --- lessons, not just facts}{59}{paragraph*.41}%
-\contentsline {paragraph}{Science --- explaining, questioning, predicting}{59}{paragraph*.42}%
-\contentsline {paragraph}{Environment}{59}{paragraph*.43}%
-\contentsline {subsection}{\numberline {3.9.3}Extracurricular Activities: Sports, Games \& Debates}{59}{subsection.3.9.3}%
-\contentsline {subsection}{\numberline {3.9.4}Pedagogy: Activity-Based Learning \& the Flipped Classroom}{60}{subsection.3.9.4}%
-\contentsline {subsection}{\numberline {3.9.5}Critical Perspective --- Why Institutions Fail (Contemporary Factors)}{60}{subsection.3.9.5}%
-\contentsline {section}{\numberline {3.10}Role of Society, Government \& Media in Value Inculcation}{61}{section.3.10}%
-\contentsline {subsection}{\numberline {3.10.1}Ethnocentrism \& the Value of Exposure (Society)}{61}{subsection.3.10.1}%
-\contentsline {subsection}{\numberline {3.10.2}Empathy Toward Systems and People}{61}{subsection.3.10.2}%
-\contentsline {subsection}{\numberline {3.10.3}Role of Government}{61}{subsection.3.10.3}%
-\contentsline {subsection}{\numberline {3.10.4}Role of Media (Positive)}{62}{subsection.3.10.4}%
-\contentsline {subsection}{\numberline {3.10.5}Role of Media (Negative --- Contemporary Factors)}{62}{subsection.3.10.5}%
-\contentsline {section}{\numberline {3.11}Lessons from the Lives of Great Leaders --- Mahatma Gandhi}{62}{section.3.11}%
-\contentsline {subsection}{\numberline {3.11.1}Honesty \& Integrity}{62}{subsection.3.11.1}%
-\contentsline {subsection}{\numberline {3.11.2}Openness, Tolerance \& a Learning Attitude}{63}{subsection.3.11.2}%
-\contentsline {subsection}{\numberline {3.11.3}Non-Violence (Ahimsa)}{63}{subsection.3.11.3}%
-\contentsline {subsection}{\numberline {3.11.4}Forgiveness}{63}{subsection.3.11.4}%
-\contentsline {subsection}{\numberline {3.11.5}Swaraj (Self-Rule)}{63}{subsection.3.11.5}%
-\contentsline {subsection}{\numberline {3.11.6}Talisman \& Antyodaya}{64}{subsection.3.11.6}%
-\contentsline {subsection}{\numberline {3.11.7}Solidarity --- The Loincloth}{64}{subsection.3.11.7}%
-\contentsline {subsection}{\numberline {3.11.8}Sarvodaya, Purity of Means \& Trusteeship}{64}{subsection.3.11.8}%
-\contentsline {section}{\numberline {3.12}Key Cross-Cutting Reminders}{65}{section.3.12}%
-\contentsline {chapter}{\numberline {4}Gandhi's Seven Social Sins, Aptitude and Foundational Values for Civil Services}{67}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Lessons from Gandhiji: The Seven Social Sins}{67}{section.4.1}%
-\contentsline {subsection}{\numberline {4.1.1}Wealth Without Work}{67}{subsection.4.1.1}%
-\contentsline {subsection}{\numberline {4.1.2}Pleasure Without Conscience}{67}{subsection.4.1.2}%
-\contentsline {subsection}{\numberline {4.1.3}Knowledge Without Character}{68}{subsection.4.1.3}%
-\contentsline {subsection}{\numberline {4.1.4}Commerce (Business) Without Morality}{68}{subsection.4.1.4}%
-\contentsline {subsection}{\numberline {4.1.5}Science Without Humanity}{68}{subsection.4.1.5}%
-\contentsline {subsection}{\numberline {4.1.6}Religion Without Sacrifice}{68}{subsection.4.1.6}%
-\contentsline {subsection}{\numberline {4.1.7}Politics Without Principle}{69}{subsection.4.1.7}%
-\contentsline {subsection}{\numberline {4.1.8}Rights Without Responsibility (added by Arun Gandhi)}{69}{subsection.4.1.8}%
-\contentsline {section}{\numberline {4.2}Focus on Controllables: A Note on the Aspirant's Attitude}{69}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Aptitude}{70}{section.4.3}%
-\contentsline {subsection}{\numberline {4.3.1}Aptitude Is Not Monolithic --- Its Components}{70}{subsection.4.3.1}%
-\contentsline {subsection}{\numberline {4.3.2}Civil Services Aptitude}{70}{subsection.4.3.2}%
-\contentsline {paragraph}{Physical, Emotional, Moral \& Intellectual aptitude --- how they interact}{71}{paragraph*.44}%
-\contentsline {section}{\numberline {4.4}Attitude, and the Relationship between Aptitude \& Attitude}{71}{section.4.4}%
-\contentsline {subsection}{\numberline {4.4.1}What Is Attitude}{71}{subsection.4.4.1}%
-\contentsline {subsection}{\numberline {4.4.2}Aptitude vs Attitude --- Key Differences}{72}{subsection.4.4.2}%
-\contentsline {subsection}{\numberline {4.4.3}How Attitude and Aptitude Complement Each Other}{72}{subsection.4.4.3}%
-\contentsline {paragraph}{Aptitude without attitude is directionless}{72}{paragraph*.45}%
-\contentsline {paragraph}{Attitude can compensate for a lack of aptitude}{72}{paragraph*.46}%
-\contentsline {subsection}{\numberline {4.4.4}Learning Attitude: Adopt Values, Don't Become Others}{73}{subsection.4.4.4}%
-\contentsline {section}{\numberline {4.5}Foundational Values for Civil Services: Objectivity}{73}{section.4.5}%
-\contentsline {subsection}{\numberline {4.5.1}Background --- Max Weber's Bureaucratic Model}{73}{subsection.4.5.1}%
-\contentsline {subsection}{\numberline {4.5.2}What Objectivity Means}{73}{subsection.4.5.2}%
-\contentsline {subsection}{\numberline {4.5.3}Relevance of Objectivity in Governance}{74}{subsection.4.5.3}%
-\contentsline {subsection}{\numberline {4.5.4}Limitations of Objectivity}{74}{subsection.4.5.4}%
-\contentsline {section}{\numberline {4.6}Integrity}{75}{section.4.6}%
-\contentsline {subsection}{\numberline {4.6.1}Illustrations of Integrity}{75}{subsection.4.6.1}%
-\contentsline {subsection}{\numberline {4.6.2}Types of Integrity}{75}{subsection.4.6.2}%
-\contentsline {subsection}{\numberline {4.6.3}Integrity vs Honesty}{76}{subsection.4.6.3}%
-\contentsline {subsection}{\numberline {4.6.4}Why Integrity Matters in Public Life}{76}{subsection.4.6.4}%
-\contentsline {subsection}{\numberline {4.6.5}Integrity Pact}{76}{subsection.4.6.5}%
-\contentsline {section}{\numberline {4.7}Non-Partisanship, Impartiality \& Neutrality}{77}{section.4.7}%
-\contentsline {subsection}{\numberline {4.7.1}Background --- Permanent vs Temporary Executive}{77}{subsection.4.7.1}%
-\contentsline {subsection}{\numberline {4.7.2}Non-Partisanship}{77}{subsection.4.7.2}%
-\contentsline {subsection}{\numberline {4.7.3}Impartiality}{77}{subsection.4.7.3}%
-\contentsline {subsection}{\numberline {4.7.4}Non-Partisanship vs Impartiality}{78}{subsection.4.7.4}%
-\contentsline {subsection}{\numberline {4.7.5}Neutrality}{78}{subsection.4.7.5}%
-\contentsline {subsection}{\numberline {4.7.6}Relevance \& Violations}{78}{subsection.4.7.6}%
-\contentsline {section}{\numberline {4.8}Tolerance}{79}{section.4.8}%
-\contentsline {subsection}{\numberline {4.8.1}Why Tolerance Matters}{79}{subsection.4.8.1}%
-\contentsline {section}{\numberline {4.9}Sympathy, Empathy \& Compassion}{80}{section.4.9}%
-\contentsline {subsection}{\numberline {4.9.1}The Three Distinguished}{80}{subsection.4.9.1}%
-\contentsline {subsection}{\numberline {4.9.2}Why Empathy \& Compassion Matter in Administration}{80}{subsection.4.9.2}%
-\contentsline {subsection}{\numberline {4.9.3}Where Compassion Is Essential}{81}{subsection.4.9.3}%
-\contentsline {section}{\numberline {4.10}Dedication to Public Service}{81}{section.4.10}%
-\contentsline {subsection}{\numberline {4.10.1}Why Dedication Is Needed}{81}{subsection.4.10.1}%
-\contentsline {subsection}{\numberline {4.10.2}Dedication as a `Mother Value'}{82}{subsection.4.10.2}%
-\contentsline {subsection}{\numberline {4.10.3}Significance}{82}{subsection.4.10.3}%
-\contentsline {section}{\numberline {4.11}Key Cross-Cutting Reminders}{82}{section.4.11}%
-\contentsline {chapter}{\numberline {5}Emotional Intelligence and Attitude}{85}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Recap: Foundational Values for Civil Services}{85}{section.5.1}%
-\contentsline {subsection}{\numberline {5.1.1}Dedication to Public Service (Passionate Commitment)}{85}{subsection.5.1.1}%
-\contentsline {subsection}{\numberline {5.1.2}Sympathy, Empathy and Compassion}{85}{subsection.5.1.2}%
-\contentsline {paragraph}{Weberian Bureaucracy --- the contrast}{85}{paragraph*.47}%
-\contentsline {subsection}{\numberline {5.1.3}Non-partisanship and Impartiality}{86}{subsection.5.1.3}%
-\contentsline {paragraph}{Non-partisanship}{86}{paragraph*.48}%
-\contentsline {paragraph}{Impartiality}{87}{paragraph*.49}%
-\contentsline {section}{\numberline {5.2}Examples \& PYQ Themes on Foundational Values}{87}{section.5.2}%
-\contentsline {subsection}{\numberline {5.2.1}Objectivity without Compassion --- the Mining Districts Case}{87}{subsection.5.2.1}%
-\contentsline {subsection}{\numberline {5.2.2}PYQ Theme --- Integrity and Knowledge}{87}{subsection.5.2.2}%
-\contentsline {paragraph}{Integrity without knowledge (weak \& useless)}{88}{paragraph*.50}%
-\contentsline {paragraph}{Knowledge without integrity (dangerous \& dreadful)}{88}{paragraph*.51}%
-\contentsline {subsection}{\numberline {5.2.3}Impartiality vs.\ Positive Discrimination --- a Caveat}{88}{subsection.5.2.3}%
-\contentsline {section}{\numberline {5.3}Ready-to-Use Examples: Apathy, Compassion \& Dedication}{89}{section.5.3}%
-\contentsline {paragraph}{Examples of Apathy / Lack of Compassion}{89}{paragraph*.52}%
-\contentsline {paragraph}{Examples of Compassion \& Dedication to Public Service}{89}{paragraph*.53}%
-\contentsline {section}{\numberline {5.4}Emotional Intelligence}{89}{section.5.4}%
-\contentsline {subsection}{\numberline {5.4.1}Opening Quote}{89}{subsection.5.4.1}%
-\contentsline {subsection}{\numberline {5.4.2}Definition}{90}{subsection.5.4.2}%
-\contentsline {paragraph}{It is an ``ability'' --- so it can be misused}{90}{paragraph*.54}%
-\contentsline {paragraph}{Interpret/understand + manage = Recognition + Regulation}{90}{paragraph*.55}%
-\contentsline {subsection}{\numberline {5.4.3}Five Components of Emotional Intelligence}{91}{subsection.5.4.3}%
-\contentsline {paragraph}{Why self-awareness matters}{91}{paragraph*.56}%
-\contentsline {paragraph}{Why social awareness matters}{91}{paragraph*.57}%
-\contentsline {paragraph}{Tribals --- two approaches and the golden mean}{91}{paragraph*.58}%
-\contentsline {paragraph}{Naxalism --- security vs.\ development, and SAMADHAN}{92}{paragraph*.59}%
-\contentsline {paragraph}{Swachh Bharat --- building toilets is not enough}{92}{paragraph*.60}%
-\contentsline {paragraph}{Non-verbal communication and power distance}{92}{paragraph*.61}%
-\contentsline {paragraph}{Self-regulation}{92}{paragraph*.62}%
-\contentsline {paragraph}{Social regulation (Relationship management)}{93}{paragraph*.63}%
-\contentsline {paragraph}{IQ vs.\ EQ}{93}{paragraph*.64}%
-\contentsline {paragraph}{Motivation \& the Marshmallow Test}{93}{paragraph*.65}%
-\contentsline {subsection}{\numberline {5.4.4}Case Study: The Bank Manager \& the Digital Arrest}{94}{subsection.5.4.4}%
-\contentsline {subsection}{\numberline {5.4.5}Case Study: Topography of Terror (Berlin)}{95}{subsection.5.4.5}%
-\contentsline {subsection}{\numberline {5.4.6}More Examples of Emotional Intelligence (and its absence)}{95}{subsection.5.4.6}%
-\contentsline {paragraph}{Lack of emotional intelligence}{95}{paragraph*.66}%
-\contentsline {paragraph}{Presence of emotional intelligence}{95}{paragraph*.67}%
-\contentsline {section}{\numberline {5.5}Trained Apathy \& Functional Detachment}{97}{section.5.5}%
-\contentsline {section}{\numberline {5.6}Using Emotions Positively (Emotions Working For You)}{97}{section.5.6}%
-\contentsline {subsection}{\numberline {5.6.1}Rational vs.\ Non-rational (Extra-rational) Behaviour}{98}{subsection.5.6.1}%
-\contentsline {subsection}{\numberline {5.6.2}Swachh Bharat Mission --- Pride, Disgust, Love}{98}{subsection.5.6.2}%
-\contentsline {paragraph}{Disgust}{98}{paragraph*.68}%
-\contentsline {paragraph}{Pride}{98}{paragraph*.69}%
-\contentsline {paragraph}{Love}{98}{paragraph*.70}%
-\contentsline {subsection}{\numberline {5.6.3}Pictorial Warnings on Tobacco}{99}{subsection.5.6.3}%
-\contentsline {section}{\numberline {5.7}Can Emotional Intelligence Be Learned?}{99}{section.5.7}%
-\contentsline {subsection}{\numberline {5.7.1}Methods to Inculcate Emotional Intelligence}{99}{subsection.5.7.1}%
-\contentsline {subsection}{\numberline {5.7.2}Emotional Intelligence Can Be Misused}{100}{subsection.5.7.2}%
-\contentsline {section}{\numberline {5.8}Attitude: Meaning \& Structure}{101}{section.5.8}%
-\contentsline {subsection}{\numberline {5.8.1}What is Attitude?}{101}{subsection.5.8.1}%
-\contentsline {subsection}{\numberline {5.8.2}Structure of Attitude --- the CAB (ABC) Model}{101}{subsection.5.8.2}%
-\contentsline {paragraph}{Worked example --- attitude towards trees / tree plantation}{102}{paragraph*.71}%
-\contentsline {paragraph}{Worked example --- racial prejudice (for illustration only)}{102}{paragraph*.72}%
-\contentsline {subsection}{\numberline {5.8.3}Components May Not Be in Congruence}{102}{subsection.5.8.3}%
-\contentsline {section}{\numberline {5.9}Functions of Attitude}{103}{section.5.9}%
-\contentsline {subsection}{\numberline {5.9.1}Knowledge Function}{103}{subsection.5.9.1}%
-\contentsline {subsection}{\numberline {5.9.2}Utilitarian / Socially-Adjustive Function}{104}{subsection.5.9.2}%
-\contentsline {subsection}{\numberline {5.9.3}Ego-Defensive Function}{104}{subsection.5.9.3}%
-\contentsline {subsection}{\numberline {5.9.4}Value-Expressive Function}{104}{subsection.5.9.4}%
-\contentsline {section}{\numberline {5.10}Attitude's Influence on Thought \& Behaviour}{104}{section.5.10}%
-\contentsline {subsection}{\numberline {5.10.1}Influence on Thought}{105}{subsection.5.10.1}%
-\contentsline {subsection}{\numberline {5.10.2}Influence on Behaviour}{105}{subsection.5.10.2}%
-\contentsline {paragraph}{Factors determining when attitude predicts behaviour}{106}{paragraph*.73}%
-\contentsline {paragraph}{Perceived behavioural control --- examples}{106}{paragraph*.74}%
-\contentsline {section}{\numberline {5.11}Cognitive Dissonance}{107}{section.5.11}%
-\contentsline {paragraph}{Ways to resolve cognitive dissonance}{107}{paragraph*.75}%
-\contentsline {section}{\numberline {5.12}Formation of Attitude}{108}{section.5.12}%
-\contentsline {subsection}{\numberline {5.12.1}Classical Conditioning (learning through association)}{108}{subsection.5.12.1}%
-\contentsline {subsection}{\numberline {5.12.2}Operant Conditioning (reward and punishment)}{108}{subsection.5.12.2}%
-\contentsline {subsection}{\numberline {5.12.3}Observational Learning, Culture, Media, Family}{108}{subsection.5.12.3}%
-\contentsline {subsection}{\numberline {5.12.4}Values vs.\ Attitudes}{109}{subsection.5.12.4}%
-\contentsline {subsection}{\numberline {5.12.5}Moral, Immoral and Amoral Attitudes}{109}{subsection.5.12.5}%
-\contentsline {chapter}{\numberline {6}Attitude, Deontology and Utilitarianism}{111}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Attitude (continued)}{111}{section.6.1}%
-\contentsline {subsection}{\numberline {6.1.1}Cognitive Dissonance}{111}{subsection.6.1.1}%
-\contentsline {paragraph}{Ways to reduce cognitive dissonance}{111}{paragraph*.76}%
-\contentsline {subsection}{\numberline {6.1.2}Political Attitude}{112}{subsection.6.1.2}%
-\contentsline {paragraph}{Factors that shape political attitude}{112}{paragraph*.77}%
-\contentsline {paragraph}{Historical factors}{112}{paragraph*.78}%
-\contentsline {paragraph}{Social factors --- caste}{112}{paragraph*.79}%
-\contentsline {paragraph}{Gender}{112}{paragraph*.80}%
-\contentsline {paragraph}{Family}{112}{paragraph*.81}%
-\contentsline {paragraph}{Education}{113}{paragraph*.82}%
-\contentsline {paragraph}{Age}{113}{paragraph*.83}%
-\contentsline {paragraph}{Economic status}{113}{paragraph*.84}%
-\contentsline {paragraph}{Media}{113}{paragraph*.85}%
-\contentsline {paragraph}{Circumstances}{113}{paragraph*.86}%
-\contentsline {subsection}{\numberline {6.1.3}Social Influence}{114}{subsection.6.1.3}%
-\contentsline {paragraph}{How social influence operates}{114}{paragraph*.87}%
-\contentsline {paragraph}{Informational influence}{114}{paragraph*.88}%
-\contentsline {paragraph}{Situational influence}{114}{paragraph*.89}%
-\contentsline {paragraph}{Normative influence}{114}{paragraph*.90}%
-\contentsline {paragraph}{Factors determining the degree of social influence}{114}{paragraph*.91}%
-\contentsline {subsection}{\numberline {6.1.4}Persuasion}{115}{subsection.6.1.4}%
-\contentsline {paragraph}{Techniques of persuasion}{115}{paragraph*.92}%
-\contentsline {paragraph}{(a) Social proofing}{115}{paragraph*.93}%
-\contentsline {paragraph}{(b) Default rule}{116}{paragraph*.94}%
-\contentsline {paragraph}{(c) Scarcity complex}{116}{paragraph*.95}%
-\contentsline {paragraph}{(d) Reciprocity}{116}{paragraph*.96}%
-\contentsline {paragraph}{(e) Attention \& clear messaging}{116}{paragraph*.97}%
-\contentsline {paragraph}{(f) Messenger liking}{117}{paragraph*.98}%
-\contentsline {paragraph}{(g) Public commitment}{117}{paragraph*.99}%
-\contentsline {subsection}{\numberline {6.1.5}Nudging}{117}{subsection.6.1.5}%
-\contentsline {paragraph}{Examples of nudging}{118}{paragraph*.100}%
-\contentsline {section}{\numberline {6.2}Normative Ethics \& Deontology (Immanuel Kant)}{118}{section.6.2}%
-\contentsline {subsection}{\numberline {6.2.1}Normative Ethics --- The Ethical Standards}{118}{subsection.6.2.1}%
-\contentsline {subsection}{\numberline {6.2.2}Case Study --- SP Sunil (Applying the Standards)}{119}{subsection.6.2.2}%
-\contentsline {subsection}{\numberline {6.2.3}Kant's Deontology --- Goodwill}{120}{subsection.6.2.3}%
-\contentsline {paragraph}{Everything else is only a conditional good}{120}{paragraph*.101}%
-\contentsline {subsection}{\numberline {6.2.4}The Two Features of a Goodwill}{120}{subsection.6.2.4}%
-\contentsline {paragraph}{(i) It must be a Free Will}{120}{paragraph*.102}%
-\contentsline {paragraph}{Illustration --- the Veil of Ignorance}{120}{paragraph*.103}%
-\contentsline {paragraph}{(ii) Follow the Moral Law for the Respect of the Moral Law}{121}{paragraph*.104}%
-\contentsline {subsection}{\numberline {6.2.5}The Moral Law \& the Categorical Imperative}{121}{subsection.6.2.5}%
-\contentsline {paragraph}{(a) It must become a Universal Law (Universalisability)}{121}{paragraph*.105}%
-\contentsline {paragraph}{Further tests of universality}{122}{paragraph*.106}%
-\contentsline {paragraph}{(b) Humanity as an End, Never Merely as a Means}{122}{paragraph*.107}%
-\contentsline {paragraph}{(c) Legislator and Legislated (Reciprocity)}{123}{paragraph*.108}%
-\contentsline {subsection}{\numberline {6.2.6}Categorical Imperative, Merits \& Demerits of Kant}{124}{subsection.6.2.6}%
-\contentsline {paragraph}{Merits of Kant}{124}{paragraph*.109}%
-\contentsline {paragraph}{Demerits of Kant}{124}{paragraph*.110}%
-\contentsline {section}{\numberline {6.3}Teleological Ethics: Utilitarianism}{125}{section.6.3}%
-\contentsline {subsection}{\numberline {6.3.1}Utilitarianism --- The Core Idea}{125}{subsection.6.3.1}%
-\contentsline {subsection}{\numberline {6.3.2}Jeremy Bentham --- Quantitative Utilitarianism}{125}{subsection.6.3.2}%
-\contentsline {paragraph}{Hedonic Calculus}{125}{paragraph*.111}%
-\contentsline {paragraph}{The four sanctions}{125}{paragraph*.112}%
-\contentsline {subsection}{\numberline {6.3.3}John Stuart Mill --- Qualitative Utilitarianism}{126}{subsection.6.3.3}%
-\contentsline {subsection}{\numberline {6.3.4}Act Utilitarianism vs Rule Utilitarianism}{126}{subsection.6.3.4}%
-\contentsline {subsection}{\numberline {6.3.5}Utilitarianism in Governance}{127}{subsection.6.3.5}%
-\contentsline {subsection}{\numberline {6.3.6}Merits \& Demerits of Utilitarianism}{127}{subsection.6.3.6}%
-\contentsline {paragraph}{Merits}{127}{paragraph*.113}%
-\contentsline {paragraph}{Demerits}{127}{paragraph*.114}%
-\contentsline {chapter}{\numberline {7}Ethical Egoism, Virtue Ethics, Weber \& Rawls}{129}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Ethical Egoism}{129}{section.7.1}%
-\contentsline {section}{\numberline {7.2}Virtue Ethics}{130}{section.7.2}%
-\contentsline {section}{\numberline {7.3}Virtue Ethics: Socrates}{131}{section.7.3}%
-\contentsline {section}{\numberline {7.4}Virtue Ethics: Plato}{133}{section.7.4}%
-\contentsline {section}{\numberline {7.5}Virtue Ethics: Aristotle \& the Golden Mean}{135}{section.7.5}%
-\contentsline {section}{\numberline {7.6}Max Weber \& Bureaucracy}{137}{section.7.6}%
-\contentsline {section}{\numberline {7.7}John Rawls: Justice as Fairness}{140}{section.7.7}%
-\contentsline {section}{\numberline {7.8}Rights, Natural Rights \& Social Contract}{142}{section.7.8}%
-\contentsline {section}{\numberline {7.9}Ethical Dilemma}{144}{section.7.9}%
-\contentsline {section}{\numberline {7.10}Conflict of Interest}{145}{section.7.10}%
-\contentsline {chapter}{\numberline {8}Institutions, Law, Conscience, Corporate Governance \& Ethics in IR}{149}{chapter.8}%
-\contentsline {section}{\numberline {8.1}Ethical Concerns \& Dilemmas in Public and Private Institutions}{149}{section.8.1}%
-\contentsline {subsection}{\numberline {8.1.1}Foundational Backdrop --- The Social Contract}{149}{subsection.8.1.1}%
-\contentsline {subsection}{\numberline {8.1.2}Public Administration vs Private Administration}{149}{subsection.8.1.2}%
-\contentsline {paragraph}{UPSC Case Study --- Manager of a Hospital during COVID-19.}{149}{paragraph*.115}%
-\contentsline {paragraph}{UPSC Case Study --- Faster Vaccine Development in a Private Firm.}{150}{paragraph*.116}%
-\contentsline {paragraph}{Key Differences --- Public vs Private.}{151}{paragraph*.117}%
-\contentsline {paragraph}{Applied Question --- Changing Nature of Institutions \& of Dilemmas.}{151}{paragraph*.118}%
-\contentsline {subsection}{\numberline {8.1.3}Changing Values under Globalisation}{152}{subsection.8.1.3}%
-\contentsline {subsection}{\numberline {8.1.4}Note --- Conflict of Interest vs Ethical Dilemma}{152}{subsection.8.1.4}%
-\contentsline {subsection}{\numberline {8.1.5}Ethical Imperative in Public Administration}{153}{subsection.8.1.5}%
-\contentsline {subsection}{\numberline {8.1.6}Ethical Challenges in Public Administration}{153}{subsection.8.1.6}%
-\contentsline {section}{\numberline {8.2}Law as a Source of Ethical Guidance}{154}{section.8.2}%
-\contentsline {subsection}{\numberline {8.2.1}Importance of Law}{154}{subsection.8.2.1}%
-\contentsline {paragraph}{Codification of Public Morality.}{154}{paragraph*.119}%
-\contentsline {paragraph}{Fighting Social Evil.}{154}{paragraph*.120}%
-\contentsline {paragraph}{Delivering Social Justice.}{154}{paragraph*.121}%
-\contentsline {paragraph}{Adding New Ethical Standards.}{154}{paragraph*.122}%
-\contentsline {paragraph}{Business of Rights \& Protecting Dignity.}{155}{paragraph*.123}%
-\contentsline {paragraph}{Promoting Good Governance.}{155}{paragraph*.124}%
-\contentsline {subsection}{\numberline {8.2.2}Limitations of Law}{155}{subsection.8.2.2}%
-\contentsline {paragraph}{Legal but Not Ethical.}{155}{paragraph*.125}%
-\contentsline {paragraph}{Enforcement Failures \& Evasion.}{155}{paragraph*.126}%
-\contentsline {paragraph}{Negative Perception --- No Internal Change.}{155}{paragraph*.127}%
-\contentsline {paragraph}{Law is Minimum Morality \& Involves Discretion.}{156}{paragraph*.128}%
-\contentsline {section}{\numberline {8.3}Conscience as a Source of Ethical Guidance}{156}{section.8.3}%
-\contentsline {subsection}{\numberline {8.3.1}What Conscience Is}{156}{subsection.8.3.1}%
-\contentsline {subsection}{\numberline {8.3.2}How Conscience Becomes a Source of Guidance}{157}{subsection.8.3.2}%
-\contentsline {subsection}{\numberline {8.3.3}Conscience Demands Personal Responsibility}{157}{subsection.8.3.3}%
-\contentsline {subsection}{\numberline {8.3.4}Conscience vs Law}{157}{subsection.8.3.4}%
-\contentsline {subsection}{\numberline {8.3.5}Can You Always Rely on Conscience? (Is it an Infallible Guide?)}{158}{subsection.8.3.5}%
-\contentsline {subsection}{\numberline {8.3.6}UPSC PYQ --- Max Weber on Bureaucratic Morality}{158}{subsection.8.3.6}%
-\contentsline {paragraph}{First half --- Weber's point.}{158}{paragraph*.129}%
-\contentsline {paragraph}{Second half --- but conscience is still needed.}{159}{paragraph*.130}%
-\contentsline {subsection}{\numberline {8.3.7}Crisis of Conscience}{159}{subsection.8.3.7}%
-\contentsline {section}{\numberline {8.4}Corporate Governance --- Ethics in Private Institutions}{160}{section.8.4}%
-\contentsline {subsection}{\numberline {8.4.1}Why We Study This Topic (The Core Argument)}{160}{subsection.8.4.1}%
-\contentsline {subsection}{\numberline {8.4.2}What Corporate Governance Is}{160}{subsection.8.4.2}%
-\contentsline {subsection}{\numberline {8.4.3}Obligations Towards Shareholders}{160}{subsection.8.4.3}%
-\contentsline {subsection}{\numberline {8.4.4}Obligations Towards Consumers}{161}{subsection.8.4.4}%
-\contentsline {subsection}{\numberline {8.4.5}Obligations Towards Employees}{162}{subsection.8.4.5}%
-\contentsline {subsection}{\numberline {8.4.6}Obligations Towards Government / Regulators}{162}{subsection.8.4.6}%
-\contentsline {paragraph}{Reducing Negative Externalities \& Inequality.}{163}{paragraph*.131}%
-\contentsline {subsection}{\numberline {8.4.7}Obligations Towards Society}{163}{subsection.8.4.7}%
-\contentsline {subsection}{\numberline {8.4.8}Ethical Concerns in Corporate Governance (India)}{164}{subsection.8.4.8}%
-\contentsline {paragraph}{The Independent-Director Problem.}{164}{paragraph*.132}%
-\contentsline {paragraph}{Other Concerns.}{164}{paragraph*.133}%
-\contentsline {subsection}{\numberline {8.4.9}Companies Act 2013 --- Provisions for Ethical Governance}{165}{subsection.8.4.9}%
-\contentsline {paragraph}{Women Director.}{165}{paragraph*.134}%
-\contentsline {paragraph}{Independent Directors.}{165}{paragraph*.135}%
-\contentsline {paragraph}{Audit Committee.}{165}{paragraph*.136}%
-\contentsline {paragraph}{Stakeholder Relationship Committee.}{165}{paragraph*.137}%
-\contentsline {paragraph}{Corporate Social Responsibility (CSR).}{165}{paragraph*.138}%
-\contentsline {subsection}{\numberline {8.4.10}Issues / Limitations of CSR}{166}{subsection.8.4.10}%
-\contentsline {section}{\numberline {8.5}Ethics in International Relations}{166}{section.8.5}%
-\contentsline {subsection}{\numberline {8.5.1}Background --- ``There is No Place for Principles in Politics''}{166}{subsection.8.5.1}%
-\contentsline {subsection}{\numberline {8.5.2}Why International Relations Are Different --- The Analogy}{167}{subsection.8.5.2}%
-\contentsline {subsection}{\numberline {8.5.3}Why Countries Should Be Ethical --- The Arguments}{167}{subsection.8.5.3}%
-\contentsline {paragraph}{Global Nature of Problems.}{167}{paragraph*.139}%
-\contentsline {paragraph}{To Resolve Conflicts Amicably \& Peacefully.}{167}{paragraph*.140}%
-\contentsline {paragraph}{For Inclusive \& Sustainable Growth.}{168}{paragraph*.141}%
-\contentsline {paragraph}{Overarching Rule-Based Architecture.}{168}{paragraph*.142}%
-\contentsline {paragraph}{To Have Flourishing Trade.}{168}{paragraph*.143}%
-\contentsline {paragraph}{To Uphold Rule of Law \& Accountability.}{168}{paragraph*.144}%
-\contentsline {paragraph}{To Uphold Cultural Relativism \& Tolerance.}{168}{paragraph*.145}%
-\contentsline {paragraph}{Interdependence in the Age of Technology \& Globalisation.}{168}{paragraph*.146}%
-\contentsline {subsection}{\numberline {8.5.4}Which Ethical Principles to Follow in IR}{169}{subsection.8.5.4}%
-\contentsline {subsection}{\numberline {8.5.5}Ethical Concerns in IR (Current-Affairs Examples)}{169}{subsection.8.5.5}%
-\contentsline {subsection}{\numberline {8.5.6}Ethical Issues in International Funding}{169}{subsection.8.5.6}%
-\contentsline {section}{\numberline {8.6}Just War Theory}{170}{section.8.6}%
-\contentsline {subsection}{\numberline {8.6.1}The Logic of Foreseeable Consequences}{170}{subsection.8.6.1}%
-\contentsline {subsection}{\numberline {8.6.2}Principles Before War (Jus ad Bellum)}{171}{subsection.8.6.2}%
-\contentsline {subsection}{\numberline {8.6.3}During War (Jus in Bello) \& After War (Jus post Bellum)}{171}{subsection.8.6.3}%
-\contentsline {subsection}{\numberline {8.6.4}Purpose \& Exam Application}{171}{subsection.8.6.4}%
-\contentsline {chapter}{\numberline {9}Service Delivery, Codes, Transparency, Accountability \& Probity}{173}{chapter.9}%
-\contentsline {section}{\numberline {9.1}Just War Theory --- During War and After War}{173}{section.9.1}%
-\contentsline {subsection}{\numberline {9.1.1}During War (Jus in Bello) --- Principles}{173}{subsection.9.1.1}%
-\contentsline {paragraph}{Proportionality of Force.}{173}{paragraph*.147}%
-\contentsline {paragraph}{Distinction Between Civilian and Military Targets.}{173}{paragraph*.148}%
-\contentsline {paragraph}{Humane Treatment of Prisoners of War and Wounded Soldiers.}{173}{paragraph*.149}%
-\contentsline {subsection}{\numberline {9.1.2}After War (Jus Post Bellum) --- Principles}{174}{subsection.9.1.2}%
-\contentsline {paragraph}{Holding Individuals Accountable for War Crimes.}{174}{paragraph*.150}%
-\contentsline {paragraph}{Establishing a Just and Lasting Peace.}{174}{paragraph*.151}%
-\contentsline {section}{\numberline {9.2}Quality of Service Delivery}{174}{section.9.2}%
-\contentsline {subsection}{\numberline {9.2.1}Definition}{174}{subsection.9.2.1}%
-\contentsline {subsection}{\numberline {9.2.2}Parameters of Quality of Service Delivery}{174}{subsection.9.2.2}%
-\contentsline {paragraph}{Availability.}{174}{paragraph*.152}%
-\contentsline {paragraph}{Accessibility.}{175}{paragraph*.153}%
-\contentsline {paragraph}{Responsiveness.}{175}{paragraph*.154}%
-\contentsline {paragraph}{Reliability.}{175}{paragraph*.155}%
-\contentsline {paragraph}{Quality Per Se.}{175}{paragraph*.156}%
-\contentsline {paragraph}{Effectiveness.}{175}{paragraph*.157}%
-\contentsline {paragraph}{Sustainability.}{176}{paragraph*.158}%
-\contentsline {paragraph}{Economy, Efficiency, and Cost-Effectiveness.}{176}{paragraph*.159}%
-\contentsline {paragraph}{Ease and Convenience.}{176}{paragraph*.160}%
-\contentsline {paragraph}{Timeliness.}{176}{paragraph*.161}%
-\contentsline {paragraph}{Grievance Redressal.}{176}{paragraph*.162}%
-\contentsline {paragraph}{Citizen-Centricity.}{177}{paragraph*.163}%
-\contentsline {subsection}{\numberline {9.2.3}Reasons for Poor Quality of Service Delivery}{177}{subsection.9.2.3}%
-\contentsline {paragraph}{Overburdening of the System / Population Pressure.}{177}{paragraph*.164}%
-\contentsline {paragraph}{Lack of Skilled Workforce.}{177}{paragraph*.165}%
-\contentsline {paragraph}{Corruption.}{178}{paragraph*.166}%
-\contentsline {paragraph}{Bureaucratic Problems.}{178}{paragraph*.167}%
-\contentsline {paragraph}{Resource Constraints.}{178}{paragraph*.168}%
-\contentsline {paragraph}{Digital Divide.}{178}{paragraph*.169}%
-\contentsline {paragraph}{Cultural and Societal Factors.}{178}{paragraph*.170}%
-\contentsline {paragraph}{Political Interference.}{178}{paragraph*.171}%
-\contentsline {section}{\numberline {9.3}Code of Conduct and Code of Ethics}{179}{section.9.3}%
-\contentsline {subsection}{\numberline {9.3.1}The Three-Tiered Framework (Second ARC Recommendation)}{179}{subsection.9.3.1}%
-\contentsline {subsection}{\numberline {9.3.2}Understanding Code of Conduct}{179}{subsection.9.3.2}%
-\contentsline {paragraph}{Key Features of Code of Conduct.}{179}{paragraph*.172}%
-\contentsline {paragraph}{Code of Conduct and Conflict of Interest.}{180}{paragraph*.173}%
-\contentsline {subsection}{\numberline {9.3.3}Understanding Code of Ethics}{180}{subsection.9.3.3}%
-\contentsline {subsection}{\numberline {9.3.4}Relationship Between the Three Tiers}{180}{subsection.9.3.4}%
-\contentsline {subsection}{\numberline {9.3.5}Code of Conduct is Application of Code of Ethics in Specific Situations}{181}{subsection.9.3.5}%
-\contentsline {subsection}{\numberline {9.3.6}Limitations of Code of Conduct}{181}{subsection.9.3.6}%
-\contentsline {subsection}{\numberline {9.3.7}Why Code of Ethics Is Important}{182}{subsection.9.3.7}%
-\contentsline {section}{\numberline {9.4}Citizen Charter}{183}{section.9.4}%
-\contentsline {subsection}{\numberline {9.4.1}Background and Context}{183}{subsection.9.4.1}%
-\contentsline {subsection}{\numberline {9.4.2}Definition and Components}{183}{subsection.9.4.2}%
-\contentsline {subsection}{\numberline {9.4.3}Case Studies}{184}{subsection.9.4.3}%
-\contentsline {paragraph}{NTPC Citizen Charter.}{184}{paragraph*.174}%
-\contentsline {paragraph}{RBI Citizen Charter.}{184}{paragraph*.175}%
-\contentsline {paragraph}{Passport Seva Kendra.}{184}{paragraph*.176}%
-\contentsline {paragraph}{Hospitals (e.g., Gangaram).}{184}{paragraph*.177}%
-\contentsline {subsection}{\numberline {9.4.4}Purpose and Significance}{184}{subsection.9.4.4}%
-\contentsline {subsection}{\numberline {9.4.5}Limitations of Citizen Charter}{184}{subsection.9.4.5}%
-\contentsline {subsection}{\numberline {9.4.6}Measures to Improve (Second ARC Recommendations)}{185}{subsection.9.4.6}%
-\contentsline {section}{\numberline {9.5}Work Culture}{186}{section.9.5}%
-\contentsline {subsection}{\numberline {9.5.1}Definition}{186}{subsection.9.5.1}%
-\contentsline {subsection}{\numberline {9.5.2}Dimensions of Work Culture}{186}{subsection.9.5.2}%
-\contentsline {subsection}{\numberline {9.5.3}Positive Work Culture --- Characteristics and Examples}{186}{subsection.9.5.3}%
-\contentsline {subsection}{\numberline {9.5.4}Negative Work Culture --- Characteristics and Examples}{187}{subsection.9.5.4}%
-\contentsline {subsection}{\numberline {9.5.5}Determinants of Work Culture}{187}{subsection.9.5.5}%
-\contentsline {section}{\numberline {9.6}Transparency and Accountability}{188}{section.9.6}%
-\contentsline {subsection}{\numberline {9.6.1}Transparency}{188}{subsection.9.6.1}%
-\contentsline {paragraph}{Definition.}{188}{paragraph*.178}%
-\contentsline {paragraph}{Types of Transparency.}{188}{paragraph*.179}%
-\contentsline {subsection}{\numberline {9.6.2}Accountability}{188}{subsection.9.6.2}%
-\contentsline {paragraph}{Definition.}{188}{paragraph*.180}%
-\contentsline {paragraph}{Accountability vs. Responsibility.}{189}{paragraph*.181}%
-\contentsline {subsection}{\numberline {9.6.3}Traditional Forms of Accountability}{189}{subsection.9.6.3}%
-\contentsline {subsection}{\numberline {9.6.4}Limitations of Traditional Accountability}{189}{subsection.9.6.4}%
-\contentsline {subsection}{\numberline {9.6.5}Social Accountability Mechanisms}{190}{subsection.9.6.5}%
-\contentsline {section}{\numberline {9.7}Social Audit}{190}{section.9.7}%
-\contentsline {subsection}{\numberline {9.7.1}Definition}{190}{subsection.9.7.1}%
-\contentsline {subsection}{\numberline {9.7.2}Why Social Audit Is Needed}{191}{subsection.9.7.2}%
-\contentsline {subsection}{\numberline {9.7.3}How Social Audit Works (MNAREGA Example)}{191}{subsection.9.7.3}%
-\contentsline {subsection}{\numberline {9.7.4}Case Study: Meghalaya}{191}{subsection.9.7.4}%
-\contentsline {subsection}{\numberline {9.7.5}Benefits of Social Audit}{192}{subsection.9.7.5}%
-\contentsline {subsection}{\numberline {9.7.6}Limitations of Social Audit}{192}{subsection.9.7.6}%
-\contentsline {section}{\numberline {9.8}Right to Information (RTI)}{193}{section.9.8}%
-\contentsline {subsection}{\numberline {9.8.1}Overview}{193}{subsection.9.8.1}%
-\contentsline {subsection}{\numberline {9.8.2}RTI as a Social Accountability Tool}{193}{subsection.9.8.2}%
-\contentsline {subsection}{\numberline {9.8.3}Benefits of RTI}{194}{subsection.9.8.3}%
-\contentsline {subsection}{\numberline {9.8.4}Limitations and Challenges of RTI Implementation}{194}{subsection.9.8.4}%
-\contentsline {paragraph}{Infrastructural Issues.}{194}{paragraph*.182}%
-\contentsline {paragraph}{Bureaucratic Attitude.}{194}{paragraph*.183}%
-\contentsline {paragraph}{Capacity and Institutional Issues.}{194}{paragraph*.184}%
-\contentsline {paragraph}{Enforcement Challenges.}{195}{paragraph*.185}%
-\contentsline {paragraph}{Citizen-Side Challenges.}{195}{paragraph*.186}%
-\contentsline {paragraph}{Safety Concerns.}{195}{paragraph*.187}%
-\contentsline {paragraph}{Impact on Administrative Efficiency.}{195}{paragraph*.188}%
-\contentsline {section}{\numberline {9.9}Probity in Governance}{195}{section.9.9}%
-\contentsline {subsection}{\numberline {9.9.1}Probity vs.\ Integrity}{196}{subsection.9.9.1}%
-\contentsline {paragraph}{Probity.}{196}{paragraph*.189}%
-\contentsline {paragraph}{Integrity.}{196}{paragraph*.190}%
-\contentsline {subsection}{\numberline {9.9.2}Reasons for Declining Probity}{196}{subsection.9.9.2}%
-\contentsline {paragraph}{Political Dimension.}{196}{paragraph*.191}%
-\contentsline {paragraph}{Administrative/Bureaucratic Dimension.}{196}{paragraph*.192}%
-\contentsline {paragraph}{Societal Dimension.}{197}{paragraph*.193}%
-\contentsline {paragraph}{Moral/Individual Dimension.}{197}{paragraph*.194}%
-\contentsline {paragraph}{Historical/Cultural Dimension.}{197}{paragraph*.195}%
-\contentsline {paragraph}{Deterrence Dimension.}{197}{paragraph*.196}%
-\contentsline {subsection}{\numberline {9.9.3}Philosophical Basis of Probity in Governance}{197}{subsection.9.9.3}%
-\contentsline {paragraph}{Kautilya (Arthashastra).}{198}{paragraph*.197}%
-\contentsline {section}{\numberline {9.10}Utilization of Public Funds}{198}{section.9.10}%
-\contentsline {subsection}{\numberline {9.10.1}Overview}{198}{subsection.9.10.1}%
-\contentsline {subsection}{\numberline {9.10.2}Reasons for Under-Utilization of Public Funds}{198}{subsection.9.10.2}%
-\contentsline {paragraph}{Procedural Bottlenecks and Red-Tapism.}{198}{paragraph*.198}%
-\contentsline {paragraph}{Lack of Community Participation / Top-Down Implementation.}{199}{paragraph*.199}%
-\contentsline {paragraph}{Delay in Fund Disbursement.}{199}{paragraph*.200}%
-\contentsline {paragraph}{Incremental Budgeting.}{199}{paragraph*.201}%
-\contentsline {paragraph}{Lack of Accountability.}{199}{paragraph*.202}%
-\contentsline {subsection}{\numberline {9.10.3}Reasons for Mis-Utilization of Public Funds}{200}{subsection.9.10.3}%
-\contentsline {paragraph}{Corruption.}{200}{paragraph*.203}%
-\contentsline {paragraph}{Social Exclusion and Discriminatory Allocation.}{200}{paragraph*.204}%
-\contentsline {paragraph}{Ineffective Targeting of Beneficiaries.}{200}{paragraph*.205}%
-\contentsline {paragraph}{Centralization of Decision-Making.}{200}{paragraph*.206}%
-\contentsline {subsection}{\numberline {9.10.4}Measures for Better Utilization}{200}{subsection.9.10.4}%
+\contentsline {chapter}{\numberline {1}The Sociological Perspective, Modernity \& Social Changes in Europe}{13}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Developing the Sociological Perspective}{13}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Impression Management}{13}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}Seeing the ``System'', Not the Individual}{13}{subsection.1.1.2}%
+\contentsline {subsection}{\numberline {1.1.3}Conspicuous Consumption}{14}{subsection.1.1.3}%
+\contentsline {subsection}{\numberline {1.1.4}Poverty and Structural Inequality}{14}{subsection.1.1.4}%
+\contentsline {subsection}{\numberline {1.1.5}Child Labour and Cheap Labour}{15}{subsection.1.1.5}%
+\contentsline {subsection}{\numberline {1.1.6}Division of Labour and Sexual Division of Labour}{15}{subsection.1.1.6}%
+\contentsline {subsection}{\numberline {1.1.7}Media and the Reproduction of Patriarchy}{16}{subsection.1.1.7}%
+\contentsline {subsection}{\numberline {1.1.8}Alienation, Role Diversity, and Emotional Labour}{16}{subsection.1.1.8}%
+\contentsline {paragraph}{Emotional Labour}{16}{paragraph*.1}%
+\contentsline {subsection}{\numberline {1.1.9}Gender, Occupation and the Military}{17}{subsection.1.1.9}%
+\contentsline {subsection}{\numberline {1.1.10}Voluntary Segregation and Gated Communities}{17}{subsection.1.1.10}%
+\contentsline {subsection}{\numberline {1.1.11}Schooling, Discipline and the Hidden Curriculum}{18}{subsection.1.1.11}%
+\contentsline {subsection}{\numberline {1.1.12}Surveillance and Conformity}{18}{subsection.1.1.12}%
+\contentsline {subsection}{\numberline {1.1.13}Social Stratification: Caste, Elites, and the Idea of Revolution}{19}{subsection.1.1.13}%
+\contentsline {subsection}{\numberline {1.1.14}Family, Heteronormativity and Deviance}{19}{subsection.1.1.14}%
+\contentsline {section}{\numberline {1.2}Sociology, the Discipline: Modernity, Social Changes in Europe \& Emergence of Sociology}{20}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}The Middle Ages: The God-Centric World}{20}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}The Renaissance: Rebirth of Man}{21}{subsection.1.2.2}%
+\contentsline {paragraph}{Individual Contributions of the Renaissance}{21}{paragraph*.2}%
+\contentsline {subsection}{\numberline {1.2.3}The Scientific Revolution (Scientific Renaissance)}{22}{subsection.1.2.3}%
+\contentsline {subsection}{\numberline {1.2.4}The Enlightenment: The Age of Reason}{23}{subsection.1.2.4}%
+\contentsline {subsection}{\numberline {1.2.5}Civil Society}{23}{subsection.1.2.5}%
+\contentsline {subsection}{\numberline {1.2.6}Enlightenment Scholars and the Critique of Monarchy}{23}{subsection.1.2.6}%
+\contentsline {paragraph}{Thomas Hobbes}{24}{paragraph*.3}%
+\contentsline {paragraph}{John Locke}{24}{paragraph*.4}%
+\contentsline {paragraph}{Jean-Jacques Rousseau}{24}{paragraph*.5}%
+\contentsline {paragraph}{Voltaire}{25}{paragraph*.6}%
+\contentsline {paragraph}{Montesquieu (Baron de Montesquieu)}{25}{paragraph*.7}%
+\contentsline {paragraph}{Adam Smith}{25}{paragraph*.8}%
+\contentsline {paragraph}{Mary Wollstonecraft}{26}{paragraph*.9}%
+\contentsline {subsection}{\numberline {1.2.7}Feudal Land Ownership: Europe and India Compared}{27}{subsection.1.2.7}%
+\contentsline {subsection}{\numberline {1.2.8}The French Revolution: Background and the Estates System}{27}{subsection.1.2.8}%
+\contentsline {paragraph}{Economic and Political Causes}{28}{paragraph*.10}%
+\contentsline {subsection}{\numberline {1.2.9}The French Revolution: Estates General to Republic}{29}{subsection.1.2.9}%
+\contentsline {paragraph}{What the French Revolution Contributed to Modernity}{29}{paragraph*.11}%
+\contentsline {subsection}{\numberline {1.2.10}The Idea of Modernity: A Consolidated Model}{30}{subsection.1.2.10}%
+\contentsline {subsection}{\numberline {1.2.11}The Industrial Revolution}{31}{subsection.1.2.11}%
+\contentsline {subsection}{\numberline {1.2.12}Pre-Industrial vs Post-Industrial Society}{32}{subsection.1.2.12}%
+\contentsline {subsection}{\numberline {1.2.13}Social Evils of the Industrial Revolution and Marx's Response}{34}{subsection.1.2.13}%
+\contentsline {subsection}{\numberline {1.2.14}Conservative Reaction to Modernity}{35}{subsection.1.2.14}%
+\contentsline {paragraph}{Key Conservative Scholars Named}{35}{paragraph*.12}%
+\contentsline {subsection}{\numberline {1.2.15}The Radical Reaction: Karl Marx}{36}{subsection.1.2.15}%
+\contentsline {subsection}{\numberline {1.2.16}The Emergence of Sociology}{37}{subsection.1.2.16}%
+\contentsline {section}{\numberline {1.3}Full-Topic Revision Sheet}{38}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Topic 1 Revision --- The Sociological Perspective}{38}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}Topic 2 Revision --- Modernity, Social Changes in Europe \& Emergence of Sociology}{38}{subsection.1.3.2}%
+\contentsline {chapter}{\numberline {2}Emergence, Theoretical Foundations, Common Sense \& Scope of Sociology}{41}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Emergence of Sociology, Positivism \& Structural Functionalism}{41}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Approach to Sociology Answer Writing (UPSC Mains)}{41}{subsection.2.1.1}%
+\contentsline {paragraph}{The Four-Step Method for Any Question}{41}{paragraph*.13}%
+\contentsline {paragraph}{Answer Length \& Diagram Use}{42}{paragraph*.14}%
+\contentsline {subsection}{\numberline {2.1.2}Intellectual Forces Leading to the Emergence of Sociology}{42}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}Auguste Comte, `Intellectual Disorder' and Positivism}{43}{subsection.2.1.3}%
+\contentsline {paragraph}{Law of (Three) Stages}{44}{paragraph*.15}%
+\contentsline {paragraph}{Comte's Vision for Sociology \& Positivism}{44}{paragraph*.16}%
+\contentsline {subsection}{\numberline {2.1.4}Precursors to Sociology}{45}{subsection.2.1.4}%
+\contentsline {subsection}{\numberline {2.1.5}Doubts Addressed (Day 1)}{46}{subsection.2.1.5}%
+\contentsline {subsection}{\numberline {2.1.6}Structural Functionalism (Introduction)}{47}{subsection.2.1.6}%
+\contentsline {section}{\numberline {2.2}Marxism, Sociological Imagination \& Total Institutions}{48}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Marxism}{48}{subsection.2.2.1}%
+\contentsline {paragraph}{Bourgeoisie, Proletariat \& Means of Production}{49}{paragraph*.17}%
+\contentsline {paragraph}{How the Superstructure Supports the Bourgeoisie}{49}{paragraph*.18}%
+\contentsline {subsection}{\numberline {2.2.2}Sociological Imagination --- Personal Trouble vs. Public Issue}{50}{subsection.2.2.2}%
+\contentsline {paragraph}{Personal Trouble vs. Public Issue}{51}{paragraph*.19}%
+\contentsline {subsection}{\numberline {2.2.3}Finding Patterns in Different Institutions --- Surveillance \& Foucault}{51}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.4}Total Institutions (Erving Goffman)}{52}{subsection.2.2.4}%
+\contentsline {subsection}{\numberline {2.2.5}Common Sense vs. Sociology (Introduction)}{53}{subsection.2.2.5}%
+\contentsline {paragraph}{Universal Sociological Theories}{53}{paragraph*.20}%
+\contentsline {section}{\numberline {2.3}Common Sense vs. Sociology, Scope \& Schools of Thought}{53}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Common Sense vs. Sociology: Studying the Same Object Differently}{53}{subsection.2.3.1}%
+\contentsline {paragraph}{Common Sense is Local and Temporal --- Not Universal}{54}{paragraph*.21}%
+\contentsline {subsection}{\numberline {2.3.2}Comparative Method: Caste and Race}{54}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}Functions of Institutions \& Public Issues}{55}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.3.4}Unpaid Labour, Data as Work \& Defamiliarisation}{55}{subsection.2.3.4}%
+\contentsline {subsection}{\numberline {2.3.5}Scope of Sociology}{56}{subsection.2.3.5}%
+\contentsline {subsection}{\numberline {2.3.6}Synthetic School vs. Formalist School}{56}{subsection.2.3.6}%
+\contentsline {paragraph}{Durkheim's Three Branches of Sociology (Synthetic School)}{56}{paragraph*.22}%
+\contentsline {paragraph}{Morris Ginsberg's Classification (Synthetic School)}{56}{paragraph*.23}%
+\contentsline {paragraph}{Formalist Contributions: Tönnies and Simmel}{57}{paragraph*.24}%
+\contentsline {section}{\numberline {2.4}Social Action Theory, Caste Dynamics \& Sociology vs. Psychology}{57}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Sociology Becoming Part of Common Sense}{57}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Caste: Consensus and Conflict Perspectives}{58}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.4.3}Institutions in Transition: Gemeinschaft to Gesellschaft}{58}{subsection.2.4.3}%
+\contentsline {subsection}{\numberline {2.4.4}Max Weber and Social Action Theory}{59}{subsection.2.4.4}%
+\contentsline {paragraph}{Macro, Meso, and Micro Levels of Sociological Analysis}{59}{paragraph*.25}%
+\contentsline {subsection}{\numberline {2.4.5}Sociology vs. Psychology}{60}{subsection.2.4.5}%
+\contentsline {paragraph}{Freudian Psychoanalysis vs. Sociological Self}{60}{paragraph*.26}%
+\contentsline {paragraph}{Theoretical Bridges: Roles and Social Psychology}{60}{paragraph*.27}%
+\contentsline {section}{\numberline {2.5}Suicide, Impression Management, History \& Economics}{61}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}Suicide: Psychological vs. Sociological Perspective (Durkheim)}{61}{subsection.2.5.1}%
+\contentsline {paragraph}{Durkheimian Demographic Patterns}{61}{paragraph*.28}%
+\contentsline {subsection}{\numberline {2.5.2}`Individuals Do Not Exist, Only Roles Exist' \& Impression Management}{62}{subsection.2.5.2}%
+\contentsline {subsection}{\numberline {2.5.3}Sociology vs. History}{62}{subsection.2.5.3}%
+\contentsline {paragraph}{Competing Historiographies of the French Revolution}{62}{paragraph*.29}%
+\contentsline {paragraph}{Feminist Historiography}{63}{paragraph*.30}%
+\contentsline {paragraph}{Vertical vs. Horizontal Mobilisation}{63}{paragraph*.31}%
+\contentsline {paragraph}{Subaltern, Colonialist, Orientalist, and Nationalist Historiography}{63}{paragraph*.32}%
+\contentsline {subsection}{\numberline {2.5.4}Sociology vs. Economics}{64}{subsection.2.5.4}%
+\contentsline {paragraph}{Homo Economicus vs. Bounded Rationality}{64}{paragraph*.33}%
+\contentsline {paragraph}{Max Weber: The Protestant Ethic and the Spirit of Capitalism}{65}{paragraph*.34}%
+\contentsline {chapter}{\numberline {3}Sociology as Science: Methodologies, Positivism \& Critiques}{67}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Answer Writing Practice and the Foundations of Reasoning}{67}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Setting the Frame: Science as a Way of Life}{67}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}The Classroom Exercise: ``Is Sociology Common Sense?''}{67}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.3}Step 1 and 2 --- Identify the Keywords, Then Define Them}{68}{subsection.3.1.3}%
+\contentsline {subsection}{\numberline {3.1.4}Building the Body: Sociology as a Scientific Study}{69}{subsection.3.1.4}%
+\contentsline {paragraph}{The reasoning chain written in the answer}{69}{paragraph*.35}%
+\contentsline {paragraph}{André Béteille and the new scholars}{69}{paragraph*.36}%
+\contentsline {paragraph}{Why these features separate sociology from common sense}{69}{paragraph*.37}%
+\contentsline {subsection}{\numberline {3.1.5}The Turn: Writing ``However'' and Bringing in Social Action}{70}{subsection.3.1.5}%
+\contentsline {paragraph}{The ``however'' half of the answer}{70}{paragraph*.38}%
+\contentsline {subsection}{\numberline {3.1.6}Writing the Conclusion and the Lesson on Form over Content}{71}{subsection.3.1.6}%
+\contentsline {paragraph}{What was deliberately left out --- and why}{72}{paragraph*.39}%
+\contentsline {subsection}{\numberline {3.1.7}Entering Unit 2 --- Syllabus Map and Scope of the Discipline}{73}{subsection.3.1.7}%
+\contentsline {paragraph}{Sociology versus other disciplines --- what will and will not be covered}{73}{paragraph*.40}%
+\contentsline {subsection}{\numberline {3.1.8}Reasoning in Everyday Life: The Car That Would Not Start}{74}{subsection.3.1.8}%
+\contentsline {subsection}{\numberline {3.1.9}Hypothesis, Prediction, Experimentation --- The Steps of Reasoning}{75}{subsection.3.1.9}%
+\contentsline {paragraph}{The dictated definition of reasoning}{75}{paragraph*.41}%
+\contentsline {subsection}{\numberline {3.1.10}Reasoning in History: The Middle Ages and the Break From It}{76}{subsection.3.1.10}%
+\contentsline {subsection}{\numberline {3.1.11}Scientific Method and the Test of Testability}{77}{subsection.3.1.11}%
+\contentsline {subsection}{\numberline {3.1.12}Inductive Reasoning and the Problem of Hasty Generalisation}{78}{subsection.3.1.12}%
+\contentsline {paragraph}{The dictated characteristics of inductive reasoning}{79}{paragraph*.42}%
+\contentsline {subsection}{\numberline {3.1.13}Deductive (Hypothetico-Deductive) Reasoning}{80}{subsection.3.1.13}%
+\contentsline {subsection}{\numberline {3.1.14}Verifiability, Falsifiability and the Provisional Nature of Science}{80}{subsection.3.1.14}%
+\contentsline {paragraph}{The dictated chain}{81}{paragraph*.43}%
+\contentsline {paragraph}{Newton, Einstein and falsification}{81}{paragraph*.44}%
+\contentsline {subsection}{\numberline {3.1.15}Doubts Discussed in Session 1}{82}{subsection.3.1.15}%
+\contentsline {paragraph}{1. Can you explain social psychology with reference to Unit 1?}{82}{paragraph*.45}%
+\contentsline {paragraph}{2. Is the theory of the presence of life on other planets scientific?}{83}{paragraph*.46}%
+\contentsline {paragraph}{3. Why should we define social action in an answer on sociology and common sense?}{83}{paragraph*.47}%
+\contentsline {paragraph}{4. Are hypothesis and reasoning the same or different?}{83}{paragraph*.48}%
+\contentsline {paragraph}{5. What is romantic ethics?}{83}{paragraph*.49}%
+\contentsline {paragraph}{6. Can we say the inductive method creates new theories and the deductive method reforms old theories?}{84}{paragraph*.50}%
+\contentsline {paragraph}{7. Can we say inductive knowledge is closer to common sense?}{84}{paragraph*.51}%
+\contentsline {paragraph}{8. Does that not mean that the values and morals of a person will affect theory and study?}{84}{paragraph*.52}%
+\contentsline {section}{\numberline {3.2}Features of Science, Norms of Science and the Scientific Method}{85}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Opening Question: Is Mathematics a Philosophy?}{85}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}How the Question Is Framed: The Problem With Survey Data}{85}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}What Is Science? The Five Features}{86}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.2.4}Testability Examined: Hypnosis and Aliens}{87}{subsection.3.2.4}%
+\contentsline {subsection}{\numberline {3.2.5}Norms Governing Science --- Merton's Kudos Principle}{88}{subsection.3.2.5}%
+\contentsline {subsection}{\numberline {3.2.6}The Scientific Method: From Observation to Publication}{90}{subsection.3.2.6}%
+\contentsline {paragraph}{Step 1 --- Observe and define the problem}{91}{paragraph*.53}%
+\contentsline {paragraph}{Step 2 --- Review the literature}{91}{paragraph*.54}%
+\contentsline {paragraph}{Framing the research question precisely}{91}{paragraph*.55}%
+\contentsline {paragraph}{Step 3 --- Formulation of hypothesis}{92}{paragraph*.56}%
+\contentsline {paragraph}{Step 4 --- Data collection and analysis}{92}{paragraph*.57}%
+\contentsline {paragraph}{Classification and pattern}{93}{paragraph*.58}%
+\contentsline {paragraph}{Step 5 --- Publication of the findings}{93}{paragraph*.59}%
+\contentsline {subsection}{\numberline {3.2.7}Critique of Scientific Method I --- Karl Popper and Demarcation Principle}{94}{subsection.3.2.7}%
+\contentsline {paragraph}{Popper's criteria}{94}{paragraph*.60}%
+\contentsline {paragraph}{The dictated critique of the classical scientific method}{95}{paragraph*.61}%
+\contentsline {subsection}{\numberline {3.2.8}Science and Pseudoscience: Worked Examples}{96}{subsection.3.2.8}%
+\contentsline {subsection}{\numberline {3.2.9}Critique of Scientific Method II --- Paul Feyerabend}{97}{subsection.3.2.9}%
+\contentsline {paragraph}{The dictated propositions of Feyerabend}{98}{paragraph*.62}%
+\contentsline {subsection}{\numberline {3.2.10}Doubts Discussed in Session 2}{98}{subsection.3.2.10}%
+\contentsline {paragraph}{1. If Nobel thought about a solution, how can it be chance?}{98}{paragraph*.63}%
+\contentsline {paragraph}{2. Chanting in COVID treatment --- is it pseudoscience?}{98}{paragraph*.64}%
+\contentsline {paragraph}{3. Please explain epistemological anarchism}{99}{paragraph*.65}%
+\contentsline {paragraph}{4. Does gravitational force exist? Newton versus Einstein}{99}{paragraph*.66}%
+\contentsline {paragraph}{5. Does a discovery made by accident follow inductive reasoning?}{99}{paragraph*.67}%
+\contentsline {paragraph}{6. Since scientific knowledge is provisional, is it reliable?}{100}{paragraph*.68}%
+\contentsline {paragraph}{7. Newton's theory was rejected by Einstein --- then how is it scientific?}{100}{paragraph*.69}%
+\contentsline {section}{\numberline {3.3}Provisional Knowledge, Kuhn, Feminist Critique \& Theoretical Strands}{100}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Testing Everyday Statements: Light, Sound and Photons}{101}{subsection.3.3.1}%
+\contentsline {paragraph}{``Light travels faster than sound''}{101}{paragraph*.70}%
+\contentsline {paragraph}{``Nothing travels faster than light''}{101}{paragraph*.71}%
+\contentsline {paragraph}{``Light consists of particles''}{101}{paragraph*.72}%
+\contentsline {subsection}{\numberline {3.3.2}Falling Bodies: Aristotle to Einstein}{102}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}Gravitational Waves and the Tests That Confirmed Einstein}{103}{subsection.3.3.3}%
+\contentsline {subsection}{\numberline {3.3.4}Is Marxism Scientific or Pseudoscience?}{103}{subsection.3.3.4}%
+\contentsline {subsection}{\numberline {3.3.5}Thomas Kuhn --- Science as a Social Process}{104}{subsection.3.3.5}%
+\contentsline {subsection}{\numberline {3.3.6}The Structure of Scientific Revolutions}{105}{subsection.3.3.6}%
+\contentsline {paragraph}{The Kuhnian Cycle}{105}{paragraph*.73}%
+\contentsline {subsection}{\numberline {3.3.7}Who Decides the Dominant Paradigm?}{106}{subsection.3.3.7}%
+\contentsline {subsection}{\numberline {3.3.8}Feminist Critique of Scientific Method}{107}{subsection.3.3.8}%
+\contentsline {paragraph}{Biology I --- Active sperm, passive egg}{107}{paragraph*.74}%
+\contentsline {paragraph}{Biology II --- Charles Darwin}{107}{paragraph*.75}%
+\contentsline {paragraph}{Psychology --- Sigmund Freud and Carl Jung}{108}{paragraph*.76}%
+\contentsline {paragraph}{Numbers, socialisation and detached observation}{108}{paragraph*.77}%
+\contentsline {subsection}{\numberline {3.3.9}Yoga: Science or Pseudoscience?}{109}{subsection.3.3.9}%
+\contentsline {subsection}{\numberline {3.3.10}Major Theoretical Strands: The Macro or Structural Approach}{110}{subsection.3.3.10}%
+\contentsline {paragraph}{The three dictated points}{110}{paragraph*.78}%
+\contentsline {subsection}{\numberline {3.3.11}Positivism}{111}{subsection.3.3.11}%
+\contentsline {subsection}{\numberline {3.3.12}Structural Functionalism}{111}{subsection.3.3.12}%
+\contentsline {subsection}{\numberline {3.3.13}Marxism as a Positivist Philosophy}{112}{subsection.3.3.13}%
+\contentsline {subsection}{\numberline {3.3.14}The Micro Approach and Non-Positivism}{113}{subsection.3.3.14}%
+\contentsline {subsection}{\numberline {3.3.15}Social Action Theory --- Max Weber}{113}{subsection.3.3.15}%
+\contentsline {subsection}{\numberline {3.3.16}Phenomenology --- Alfred Schutz}{114}{subsection.3.3.16}%
+\contentsline {section}{\numberline {3.4}Non-Positivist Methodologies: Phenomenology, Ethnomethodology, Symbolic Interactionism \& Dramaturgy}{115}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Phenomenology Restated: The Four Propositions}{115}{subsection.3.4.1}%
+\contentsline {paragraph}{The four propositions to be written}{116}{paragraph*.79}%
+\contentsline {subsection}{\numberline {3.4.2}Objectivity as Illusion: Reading the Crime Data}{116}{subsection.3.4.2}%
+\contentsline {paragraph}{The feminist question: What counts as crime?}{117}{paragraph*.80}%
+\contentsline {subsection}{\numberline {3.4.3}Ethnomethodology --- Harold Garfinkel}{118}{subsection.3.4.3}%
+\contentsline {subsection}{\numberline {3.4.4}The Experiments: Breaching, Conversation Analysis, Documentary Method}{119}{subsection.3.4.4}%
+\contentsline {subsection}{\numberline {3.4.5}Symbolic Interactionism}{120}{subsection.3.4.5}%
+\contentsline {subsection}{\numberline {3.4.6}One Phenomenon, Five Perspectives: Two People Decide to Marry}{120}{subsection.3.4.6}%
+\contentsline {paragraph}{1. Auguste Comte --- Positivism}{120}{paragraph*.81}%
+\contentsline {paragraph}{2. Max Weber --- Social Action}{121}{paragraph*.82}%
+\contentsline {paragraph}{3. Alfred Schutz --- Phenomenology}{121}{paragraph*.83}%
+\contentsline {paragraph}{4. Harold Garfinkel --- Ethnomethodology}{121}{paragraph*.84}%
+\contentsline {paragraph}{5. George Herbert Mead --- Symbolic Interactionism}{121}{paragraph*.85}%
+\contentsline {subsection}{\numberline {3.4.7}Dramaturgy --- Erving Goffman}{122}{subsection.3.4.7}%
+\contentsline {subsection}{\numberline {3.4.8}Conclusion: Grounds on Which Non-Positivism Critiques Positivism}{122}{subsection.3.4.8}%
+\contentsline {paragraph}{Impression Management and Contextual Order}{123}{paragraph*.86}%
+\contentsline {subsection}{\numberline {3.4.9}Doubts Discussed in Session 4}{123}{subsection.3.4.9}%
+\contentsline {paragraph}{1. How do Schutz and Weber relate in the marriage example?}{123}{paragraph*.87}%
+\contentsline {paragraph}{2. Further breaching examples discussed}{123}{paragraph*.88}%
+\contentsline {section}{\numberline {3.5}Applying the Perspectives, Positivism in Depth and Its Critique}{124}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}Applying the Perspectives I --- Is the Nation Real or an Illusion?}{124}{subsection.3.5.1}%
+\contentsline {subsection}{\numberline {3.5.2}Applying the Perspectives II --- Sex, Gender and Performance}{125}{subsection.3.5.2}%
+\contentsline {subsection}{\numberline {3.5.3}Positivism: The Philosophy and Its Laws}{125}{subsection.3.5.3}%
+\contentsline {subsection}{\numberline {3.5.4}The Law of Three Stages}{126}{subsection.3.5.4}%
+\contentsline {subsection}{\numberline {3.5.5}Social Statics and Social Dynamics}{126}{subsection.3.5.5}%
+\contentsline {paragraph}{The Historical Dialectic of Statics and Dynamics}{126}{paragraph*.89}%
+\contentsline {subsection}{\numberline {3.5.6}Prediction: The Power Comte Claimed for Sociology}{127}{subsection.3.5.6}%
+\contentsline {subsection}{\numberline {3.5.7}Applying Scientific Method to Society --- ``We Are Apples''}{127}{subsection.3.5.7}%
+\contentsline {subsection}{\numberline {3.5.8}Positivism, Non-Positivism and Anti-Positivism}{128}{subsection.3.5.8}%
+\contentsline {subsection}{\numberline {3.5.9}Critique of Positivism and the Opening of Critical Theory}{129}{subsection.3.5.9}%
+\contentsline {section}{\numberline {3.6}Answer-Writing Toolkit}{129}{section.3.6}%
+\contentsline {subsection}{\numberline {3.6.1}How to Attack the Question}{129}{subsection.3.6.1}%
+\contentsline {subsection}{\numberline {3.6.2}Presentation, Length and Language}{129}{subsection.3.6.2}%
+\contentsline {subsection}{\numberline {3.6.3}Exam Framing, Sources and Statements to Remember}{130}{subsection.3.6.3}%
+\contentsline {chapter}{\numberline {4}Critiques of Positivism, Objectivity \& Émile Durkheim}{131}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Critical Theory --- A Critique of Positivism}{131}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Origins: The Frankfurt School and the Marx--Freud Synthesis}{131}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}The Cultural Industry and Pseudo-Individualization}{131}{subsection.4.1.2}%
+\contentsline {paragraph}{Consequences of the Cultural Industry}{132}{paragraph*.90}%
+\contentsline {subsection}{\numberline {4.1.3}Critical Theory's Critique of Positivism}{133}{subsection.4.1.3}%
+\contentsline {paragraph}{The Core Critique}{133}{paragraph*.91}%
+\contentsline {section}{\numberline {4.2}Post-Positivism}{133}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Karl Popper and the Revision of Positivism}{134}{subsection.4.2.1}%
+\contentsline {paragraph}{Epistemological Nuances of Post-Positivism}{134}{paragraph*.92}%
+\contentsline {subsection}{\numberline {4.2.2}Nudge Theory as an Illustration of Post-Positivism}{135}{subsection.4.2.2}%
+\contentsline {paragraph}{Post-Positivist Attributes of Nudge Theory}{135}{paragraph*.93}%
+\contentsline {section}{\numberline {4.3}Fact, Value and Objectivity}{135}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Positivism, Non-Positivism and the Fact--Value Question}{135}{subsection.4.3.1}%
+\contentsline {paragraph}{Working Definitions}{136}{paragraph*.94}%
+\contentsline {subsection}{\numberline {4.3.2}Objectivity: Meaning and Problems in Social Research}{136}{subsection.4.3.2}%
+\contentsline {paragraph}{How Values Infiltrate Every Stage of the Scientific Method}{136}{paragraph*.95}%
+\contentsline {paragraph}{Objectivity as an Illusion (Gunnar Myrdal and Alvin Gouldner)}{137}{paragraph*.96}%
+\contentsline {subsection}{\numberline {4.3.3}Value-Free versus Value-Neutral Sociology (Max Weber)}{137}{subsection.4.3.3}%
+\contentsline {subsection}{\numberline {4.3.4}Further Critiques of Objectivity}{137}{subsection.4.3.4}%
+\contentsline {section}{\numberline {4.4}Émile Durkheim --- Life, Context and Anomie}{138}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Life and Formative Influences}{138}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}France in Transition: Enlightenment, Revolution, Industrial Revolution}{139}{subsection.4.4.2}%
+\contentsline {paragraph}{Traditional Pre-Revolutionary Order}{139}{paragraph*.97}%
+\contentsline {paragraph}{The Three Modern Disruptive Forces}{139}{paragraph*.98}%
+\contentsline {paragraph}{Institutional Lag and Moral Vacuum}{139}{paragraph*.99}%
+\contentsline {subsection}{\numberline {4.4.3}Anomie}{140}{subsection.4.4.3}%
+\contentsline {paragraph}{Manifestations of Anomic Breakdown}{140}{paragraph*.100}%
+\contentsline {section}{\numberline {4.5}Division of Labour in Society}{141}{section.4.5}%
+\contentsline {subsection}{\numberline {4.5.1}Adam Smith: Division of Labour as an Economic Force}{141}{subsection.4.5.1}%
+\contentsline {subsection}{\numberline {4.5.2}Durkheim: Division of Labour as a Moral Force}{141}{subsection.4.5.2}%
+\contentsline {subsection}{\numberline {4.5.3}Mechanical and Organic Solidarity}{142}{subsection.4.5.3}%
+\contentsline {subsection}{\numberline {4.5.4}Material Density and Dynamic (Moral) Density}{142}{subsection.4.5.4}%
+\contentsline {paragraph}{Methodological Underpinnings}{143}{paragraph*.101}%
+\contentsline {subsection}{\numberline {4.5.5}Abnormal Division of Labour}{143}{subsection.4.5.5}%
+\contentsline {paragraph}{(a) Anomic Division of Labour}{143}{paragraph*.102}%
+\contentsline {paragraph}{(b) Forced Division of Labour}{143}{paragraph*.103}%
+\contentsline {paragraph}{(c) Inadequately Coordinated Division of Labour}{143}{paragraph*.104}%
+\contentsline {subsection}{\numberline {4.5.6}Restoring Solidarity: State, Professional Associations, Moral Education}{143}{subsection.4.5.6}%
+\contentsline {subsection}{\numberline {4.5.7}Measuring Solidarity: Law as Indicator Species}{144}{subsection.4.5.7}%
+\contentsline {subsection}{\numberline {4.5.8}The Jajmani System --- A Critique of the Model}{144}{subsection.4.5.8}%
+\contentsline {subsection}{\numberline {4.5.9}Critique of Durkheim's Objectivity}{145}{subsection.4.5.9}%
+\contentsline {section}{\numberline {4.6}Social Facts}{145}{section.4.6}%
+\contentsline {subsection}{\numberline {4.6.1}Meaning, Purpose and Examples of Social Fact}{145}{subsection.4.6.1}%
+\contentsline {paragraph}{Ontological Status: Sui Generis Reality}{146}{paragraph*.105}%
+\contentsline {paragraph}{Two Primary Objectives of Durkheim's Project}{146}{paragraph*.106}%
+\contentsline {subsection}{\numberline {4.6.2}General Features of Social Facts}{146}{subsection.4.6.2}%
+\contentsline {subsection}{\numberline {4.6.3}Rule of Observing Social Facts}{146}{subsection.4.6.3}%
+\contentsline {subsection}{\numberline {4.6.4}Rule of Classifying Normal and Pathological Facts}{147}{subsection.4.6.4}%
+\contentsline {paragraph}{Crime as a Normal Social Fact}{147}{paragraph*.107}%
+\contentsline {subsection}{\numberline {4.6.5}Rule of Constructing Social Types}{147}{subsection.4.6.5}%
+\contentsline {subsection}{\numberline {4.6.6}Rule of Explaining Cause and Function of Social Facts}{147}{subsection.4.6.6}%
+\contentsline {paragraph}{1. The Cause of a Social Fact}{147}{paragraph*.108}%
+\contentsline {paragraph}{2. The Function of a Social Fact}{148}{paragraph*.109}%
+\contentsline {subsection}{\numberline {4.6.7}Rule of Testing Social Facts: The Comparative Method}{148}{subsection.4.6.7}%
+\contentsline {section}{\numberline {4.7}Answer-Writing Toolkit}{149}{section.4.7}%
+\contentsline {subsection}{\numberline {4.7.1}General Approach to Any Theory Question}{149}{subsection.4.7.1}%
+\contentsline {subsection}{\numberline {4.7.2}PYQ 1: ``Is sociology a value-free science? Discuss.'' (10 Marks / 150 Words)}{149}{subsection.4.7.2}%
+\contentsline {subsection}{\numberline {4.7.3}PYQ 2: ``Phenomenological perspectives in sociology reject many of the assumptions of positivism. Comment.''}{149}{subsection.4.7.3}%
+\contentsline {subsection}{\numberline {4.7.4}PYQ 3: ``Is sociology a science?''}{150}{subsection.4.7.4}%
+\contentsline {subsection}{\numberline {4.7.5}General Exam-Strategy Points}{150}{subsection.4.7.5}%
+\contentsline {chapter}{\numberline {5}Religion, Suicide, and the Foundations of Marxism}{151}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Emile Durkheim --- Elementary Forms of Religious Life}{151}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}The ``Person from Mars'' Method and the Melanesian Totem Story}{151}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.1.2}Competing Definitions of Religion}{152}{subsection.5.1.2}%
+\contentsline {subsection}{\numberline {5.1.3}Durkheim's Definition: The Sacred and the Profane}{153}{subsection.5.1.3}%
+\contentsline {paragraph}{The Anatomy of the ``Sacred''}{153}{paragraph*.110}%
+\contentsline {subsection}{\numberline {5.1.4}Totemism among the Arunta Clan}{153}{subsection.5.1.4}%
+\contentsline {subsection}{\numberline {5.1.5}Collective Effervescence --- The Cause of Religion}{154}{subsection.5.1.5}%
+\contentsline {subsection}{\numberline {5.1.6}Functions of Religion}{155}{subsection.5.1.6}%
+\contentsline {subsection}{\numberline {5.1.7}Modern Totems and ``Society Apotheosized''}{155}{subsection.5.1.7}%
+\contentsline {subsection}{\numberline {5.1.8}Religion as a Force of Division and Conflict}{156}{subsection.5.1.8}%
+\contentsline {subsection}{\numberline {5.1.9}Material and Non-Material Social Facts}{156}{subsection.5.1.9}%
+\contentsline {subsection}{\numberline {5.1.10}Applying Durkheim to Contemporary Movements}{157}{subsection.5.1.10}%
+\contentsline {section}{\numberline {5.2}Emile Durkheim --- Suicide (\textit {Le Suicide})}{158}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Why a Sociologist Studies Suicide}{158}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}Pre-Durkheimian Explanations of Suicide}{158}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5.2.3}Durkheim's Statistical Observations}{159}{subsection.5.2.3}%
+\contentsline {subsection}{\numberline {5.2.4}Rapid Industrialization and Social Cohesion}{159}{subsection.5.2.4}%
+\contentsline {subsection}{\numberline {5.2.5}Method: Classification, Correlation, and Multivariate Analysis}{160}{subsection.5.2.5}%
+\contentsline {subsection}{\numberline {5.2.6}The Two Laws of Suicide}{161}{subsection.5.2.6}%
+\contentsline {subsection}{\numberline {5.2.7}Typology of Suicide}{161}{subsection.5.2.7}%
+\contentsline {subsection}{\numberline {5.2.8}Conclusion --- Suicide as a Social Fact}{161}{subsection.5.2.8}%
+\contentsline {section}{\numberline {5.3}Applying Durkheim to Contemporary India, and Critique}{162}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}COVID-19 through a Durkheimian Lens}{162}{subsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.3.2}Farmer Suicides --- Empirical Case Studies (B.\,B. Mohanty, EPW)}{163}{subsection.5.3.2}%
+\contentsline {paragraph}{Case Study 1: Egoism Leading Directly into Anomie}{163}{paragraph*.111}%
+\contentsline {paragraph}{Case Study 2: Family Separation and Individualized Risk}{163}{paragraph*.112}%
+\contentsline {subsection}{\numberline {5.3.3}Critique of Durkheim}{164}{subsection.5.3.3}%
+\contentsline {subsection}{\numberline {5.3.4}Was Durkheim a Positivist? A Rule-by-Rule Assessment}{165}{subsection.5.3.4}%
+\contentsline {section}{\numberline {5.4}Answer-Writing Toolkit}{165}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}Model Structure for a 150-Word / 10-Mark Answer}{165}{subsection.5.4.1}%
+\contentsline {paragraph}{Question Demonstration:}{165}{paragraph*.113}%
+\contentsline {section}{\numberline {5.5}Karl Marx --- The Hegelian Background}{167}{section.5.5}%
+\contentsline {subsection}{\numberline {5.5.1}Life and Intellectual Formation of Karl Marx}{167}{subsection.5.5.1}%
+\contentsline {subsection}{\numberline {5.5.2}Hegel's Philosophy of History}{168}{subsection.5.5.2}%
+\contentsline {paragraph}{World-Historical Figures}{168}{paragraph*.114}%
+\contentsline {subsection}{\numberline {5.5.3}Idealism and Dialectical Idealism}{169}{subsection.5.5.3}%
+\contentsline {paragraph}{The Dialectical Triad: Thesis, Antithesis, Synthesis}{169}{paragraph*.115}%
+\contentsline {subsection}{\numberline {5.5.4}Napoleon as World-Historical Figure and the ``End of History''}{169}{subsection.5.5.4}%
+\contentsline {subsection}{\numberline {5.5.5}Ludwig Feuerbach's Critique --- Materialism and Alienation}{170}{subsection.5.5.5}%
+\contentsline {subsection}{\numberline {5.5.6}Sigmund Freud on Religion}{170}{subsection.5.5.6}%
+\contentsline {subsection}{\numberline {5.5.7}Marx's Departure --- ``The Point Is to Change It''}{171}{subsection.5.5.7}%
+\contentsline {section}{\numberline {5.6}Dialectical and Historical Materialism}{171}{section.5.6}%
+\contentsline {subsection}{\numberline {5.6.1}Consciousness versus Being --- Hegel and Marx Compared}{171}{subsection.5.6.1}%
+\contentsline {subsection}{\numberline {5.6.2}Three Strands of Marxian Dialectics}{172}{subsection.5.6.2}%
+\contentsline {paragraph}{Historical Illustration: The Transition Across Modes of Production}{172}{paragraph*.116}%
+\contentsline {subsection}{\numberline {5.6.3}Engels' Three Laws of Dialectics}{172}{subsection.5.6.3}%
+\contentsline {paragraph}{1. The Law of the Transformation of Quantity into Quality (and Vice Versa)}{172}{paragraph*.117}%
+\contentsline {paragraph}{2. The Law of the Interpenetration (Union and Conflict) of Opposites}{173}{paragraph*.118}%
+\contentsline {paragraph}{3. The Law of the Negation of the Negation}{173}{paragraph*.119}%
+\contentsline {subsection}{\numberline {5.6.4}Basic Assumptions of Historical Materialism}{173}{subsection.5.6.4}%
+\contentsline {subsection}{\numberline {5.6.5}From Survival Needs to Social Relations of Production}{173}{subsection.5.6.5}%
+\contentsline {subsection}{\numberline {5.6.6}Emergence of Social Classes --- The Cage Parable}{174}{subsection.5.6.6}%
+\contentsline {subsection}{\numberline {5.6.7}Capitalism's Inherent Contradictions}{174}{subsection.5.6.7}%
+\contentsline {chapter}{\numberline {6}Karl Marx --- Historical Materialism, Class Struggle and Alienation}{177}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Historical Materialism and the Mode of Production}{177}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Why Historical Materialism Comes First}{177}{subsection.6.1.1}%
+\contentsline {paragraph}{Note-making --- there is no single correct method}{177}{paragraph*.120}%
+\contentsline {paragraph}{Why this concept is the foundation}{177}{paragraph*.121}%
+\contentsline {paragraph}{Engels on historical materialism}{178}{paragraph*.122}%
+\contentsline {subsection}{\numberline {6.1.2}The First Historical Act --- Production and Primitive Communism}{178}{subsection.6.1.2}%
+\contentsline {paragraph}{The model this produces: primitive communism}{179}{paragraph*.123}%
+\contentsline {subsection}{\numberline {6.1.3}Secondary Needs, New Technology and the Birth of Ownership}{179}{subsection.6.1.3}%
+\contentsline {paragraph}{The lion and the iron cage}{179}{paragraph*.124}%
+\contentsline {paragraph}{How ownership was born}{180}{paragraph*.125}%
+\contentsline {paragraph}{The chain to remember}{180}{paragraph*.126}%
+\contentsline {subsection}{\numberline {6.1.4}The Laws of Dialectics Operating in the Social World}{181}{subsection.6.1.4}%
+\contentsline {paragraph}{First law --- quantitative change leading to qualitative change}{181}{paragraph*.127}%
+\contentsline {paragraph}{Second law --- union of opposites, and conflict}{181}{paragraph*.128}%
+\contentsline {subsection}{\numberline {6.1.5}From Primitive Communism to Slavery}{182}{subsection.6.1.5}%
+\contentsline {paragraph}{What ``mode of production'' means}{182}{paragraph*.129}%
+\contentsline {paragraph}{The shift to slavery}{182}{paragraph*.130}%
+\contentsline {subsection}{\numberline {6.1.6}From Slavery to Feudalism}{183}{subsection.6.1.6}%
+\contentsline {paragraph}{The discovery of precious stones and the birth of mining}{183}{paragraph*.131}%
+\contentsline {paragraph}{New needs, new technology, new relations}{183}{paragraph*.132}%
+\contentsline {paragraph}{What each mode owned}{183}{paragraph*.133}%
+\contentsline {paragraph}{The summary lines dictated in class}{184}{paragraph*.134}%
+\contentsline {subsection}{\numberline {6.1.7}Forms of Consciousness --- How Inequality Gets Justified}{184}{subsection.6.1.7}%
+\contentsline {paragraph}{Illustration 1 --- how the Bible was read to justify slavery}{185}{paragraph*.135}%
+\contentsline {paragraph}{Illustration 2 --- the Laws of Manu}{185}{paragraph*.136}%
+\contentsline {subsection}{\numberline {6.1.8}The Motor of History and the Superstructure}{186}{subsection.6.1.8}%
+\contentsline {paragraph}{How the motor turns}{186}{paragraph*.137}%
+\contentsline {paragraph}{Why the conflict does not become revolution}{187}{paragraph*.138}%
+\contentsline {paragraph}{Infrastructure and superstructure}{188}{paragraph*.139}%
+\contentsline {paragraph}{Marx's place in the disciplines}{188}{paragraph*.140}%
+\contentsline {subsection}{\numberline {6.1.9}Doubts Taken in Class --- Terminology and the Origin of Ownership}{189}{subsection.6.1.9}%
+\contentsline {paragraph}{Can we call infrastructure ``base''?}{189}{paragraph*.141}%
+\contentsline {paragraph}{Why could some people own the means of production and others could not?}{189}{paragraph*.142}%
+\contentsline {subsection}{\numberline {6.1.10}Mode of Production --- Full Definition}{189}{subsection.6.1.10}%
+\contentsline {paragraph}{The motor analogy}{189}{paragraph*.143}%
+\contentsline {paragraph}{The three definitions to write down}{189}{paragraph*.144}%
+\contentsline {paragraph}{Mode of production}{189}{paragraph*.145}%
+\contentsline {paragraph}{Means of production}{190}{paragraph*.146}%
+\contentsline {paragraph}{Relations of production}{190}{paragraph*.147}%
+\contentsline {paragraph}{``Forces of production'' --- a translation artefact}{190}{paragraph*.148}%
+\contentsline {paragraph}{A note on abbreviations}{191}{paragraph*.149}%
+\contentsline {subsection}{\numberline {6.1.11}The Cycle of Modes of Production}{191}{subsection.6.1.11}%
+\contentsline {paragraph}{The crux line to write down}{191}{paragraph*.150}%
+\contentsline {paragraph}{Where the line falls between history and prophecy}{191}{paragraph*.151}%
+\contentsline {paragraph}{Dialectics inside the cycle}{192}{paragraph*.152}%
+\contentsline {paragraph}{Socialism and communism are not the same}{192}{paragraph*.153}%
+\contentsline {paragraph}{The Asiatic mode of production}{192}{paragraph*.154}%
+\contentsline {subsection}{\numberline {6.1.12}Feudalism in Detail}{193}{subsection.6.1.12}%
+\contentsline {paragraph}{Definition dictated in class}{193}{paragraph*.155}%
+\contentsline {paragraph}{The French Revolution estate system as illustration}{193}{paragraph*.156}%
+\contentsline {paragraph}{Why landlords appear}{193}{paragraph*.157}%
+\contentsline {paragraph}{Who gets the produce}{194}{paragraph*.158}%
+\contentsline {subsection}{\numberline {6.1.13}Peasant Struggles Read as Class Struggle}{194}{subsection.6.1.13}%
+\contentsline {paragraph}{Tebhaga Struggle}{194}{paragraph*.159}%
+\contentsline {paragraph}{Who led it}{195}{paragraph*.160}%
+\contentsline {paragraph}{Indigo Revolt, Champaran and the Moplah Rebellion}{195}{paragraph*.161}%
+\contentsline {subsection}{\numberline {6.1.14}The Collapse of Feudalism and the Bourgeois Revolution}{196}{subsection.6.1.14}%
+\contentsline {paragraph}{What the new needs were --- the trade evidence}{196}{paragraph*.162}%
+\contentsline {paragraph}{The process in France}{196}{paragraph*.163}%
+\contentsline {paragraph}{The chain of consequences}{196}{paragraph*.164}%
+\contentsline {paragraph}{The birth of the merchant class}{197}{paragraph*.165}%
+\contentsline {paragraph}{Doubts on this section}{197}{paragraph*.166}%
+\contentsline {paragraph}{Does ``inherent contradiction'' in the French Revolution mean the conflict between nobility and merchants?}{197}{paragraph*.167}%
+\contentsline {paragraph}{Why did merchants and nobility struggle?}{197}{paragraph*.168}%
+\contentsline {subsection}{\numberline {6.1.15}Capitalism, Socialism and Communism --- Working Meanings}{198}{subsection.6.1.15}%
+\contentsline {paragraph}{Capitalism}{198}{paragraph*.169}%
+\contentsline {paragraph}{Socialism}{198}{paragraph*.170}%
+\contentsline {paragraph}{From capitalism to socialism to communism}{198}{paragraph*.171}%
+\contentsline {paragraph}{Why this is the materialist interpretation of history}{199}{paragraph*.172}%
+\contentsline {subsection}{\numberline {6.1.16}Remaining Doubts from the Class}{199}{subsection.6.1.16}%
+\contentsline {paragraph}{Relations of production in socialism}{199}{paragraph*.173}%
+\contentsline {paragraph}{Meaning of consciousness according to Marx}{200}{paragraph*.174}%
+\contentsline {paragraph}{Do the three laws function among the working class in socialism?}{200}{paragraph*.175}%
+\contentsline {paragraph}{How does the third law of dialectics define the origin and evolution of patriarchy in the family?}{200}{paragraph*.176}%
+\contentsline {paragraph}{Commodity fetishism --- brief introduction}{200}{paragraph*.177}%
+\contentsline {paragraph}{Are needs also a form of consciousness?}{200}{paragraph*.178}%
+\contentsline {paragraph}{Terminology caution}{201}{paragraph*.179}%
+\contentsline {section}{\numberline {6.2}Understanding, Scientific Method and the Foundations of Class}{201}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Why the Paper Takes Time --- Diagnosis from the First Test}{201}{subsection.6.2.1}%
+\contentsline {paragraph}{The main problem reported: time constraint}{201}{paragraph*.180}%
+\contentsline {subsection}{\numberline {6.2.2}The Concrete Test of Understanding}{202}{subsection.6.2.2}%
+\contentsline {paragraph}{How to run this process on your own}{202}{paragraph*.181}%
+\contentsline {subsection}{\numberline {6.2.3}Positivism Illustrated --- Two Cases of the Nuclear Family}{203}{subsection.6.2.3}%
+\contentsline {paragraph}{Case 1 --- the actor at the centre}{203}{paragraph*.182}%
+\contentsline {paragraph}{Case 2 --- the structure at the centre}{203}{paragraph*.183}%
+\contentsline {paragraph}{Which case explains positivism?}{203}{paragraph*.184}%
+\contentsline {paragraph}{The 1920s counterfactual}{203}{paragraph*.185}%
+\contentsline {subsection}{\numberline {6.2.4}Durkheim --- Positivist in One Place, Not in Another}{204}{subsection.6.2.4}%
+\contentsline {subsection}{\numberline {6.2.5}Why ``Elementary Forms''? --- The Power of Basic Questions}{205}{subsection.6.2.5}%
+\contentsline {paragraph}{Why this could not have been taught earlier}{205}{paragraph*.186}%
+\contentsline {paragraph}{Why the test mattered}{205}{paragraph*.187}%
+\contentsline {subsection}{\numberline {6.2.6}Always Write Examples}{206}{subsection.6.2.6}%
+\contentsline {subsection}{\numberline {6.2.7}Where the Syllabus Sits --- BA, BA Honours or MA?}{206}{subsection.6.2.7}%
+\contentsline {subsection}{\numberline {6.2.8}Which Mode of Production Does India Have?}{206}{subsection.6.2.8}%
+\contentsline {paragraph}{Why ``model'' is the right word --- the light analogy}{207}{paragraph*.188}%
+\contentsline {subsection}{\numberline {6.2.9}The Steps of the Scientific Method}{208}{subsection.6.2.9}%
+\contentsline {subsection}{\numberline {6.2.10}What ``Scientific'' Means --- Testability and Falsifiability}{208}{subsection.6.2.10}%
+\contentsline {paragraph}{Remove the preconceived notion}{208}{paragraph*.189}%
+\contentsline {paragraph}{Whose concept is this?}{208}{paragraph*.190}%
+\contentsline {paragraph}{Testing a social-science statement}{209}{paragraph*.191}%
+\contentsline {paragraph}{Generalisation}{209}{paragraph*.192}%
+\contentsline {paragraph}{Induction, deduction and the swans}{210}{paragraph*.193}%
+\contentsline {paragraph}{Testing means trying to prove wrong}{210}{paragraph*.194}%
+\contentsline {paragraph}{Two contrasting examples}{210}{paragraph*.195}%
+\contentsline {subsection}{\numberline {6.2.11}Applying It to a Previous Year Question}{210}{subsection.6.2.11}%
+\contentsline {paragraph}{The PYQ that was deferred}{210}{paragraph*.196}%
+\contentsline {paragraph}{How to think through the unemployment--crime statement in an answer}{211}{paragraph*.197}%
+\contentsline {paragraph}{The answer-writing method for such a question}{211}{paragraph*.198}%
+\contentsline {subsection}{\numberline {6.2.12}Class Struggle Begins --- What is Class?}{212}{subsection.6.2.12}%
+\contentsline {paragraph}{The historical sequence recalled}{212}{paragraph*.199}%
+\contentsline {paragraph}{How did classes come into existence?}{212}{paragraph*.200}%
+\contentsline {paragraph}{The definition}{212}{paragraph*.201}%
+\contentsline {paragraph}{A note on the two words}{212}{paragraph*.202}%
+\contentsline {paragraph}{Applying the definition}{212}{paragraph*.203}%
+\contentsline {subsection}{\numberline {6.2.13}Class as Objective Experience and as Subjective Condition}{213}{subsection.6.2.13}%
+\contentsline {subsection}{\numberline {6.2.14}Labour Power, Use Value and Exchange Value}{214}{subsection.6.2.14}%
+\contentsline {paragraph}{Every commodity has two values}{214}{paragraph*.204}%
+\contentsline {subsection}{\numberline {6.2.15}The Source of Profit}{214}{subsection.6.2.15}%
+\contentsline {paragraph}{The question Marx set himself}{214}{paragraph*.205}%
+\contentsline {paragraph}{Worked illustration}{215}{paragraph*.206}%
+\contentsline {paragraph}{What exploitation means}{215}{paragraph*.207}%
+\contentsline {subsection}{\numberline {6.2.16}The Working Day}{216}{subsection.6.2.16}%
+\contentsline {subsection}{\numberline {6.2.17}Value of Commodity = C + V + S}{216}{subsection.6.2.17}%
+\contentsline {paragraph}{The most important line here}{217}{paragraph*.208}%
+\contentsline {subsection}{\numberline {6.2.18}Capitalism as an Inverted World}{217}{subsection.6.2.18}%
+\contentsline {paragraph}{Homo Faber}{217}{paragraph*.209}%
+\contentsline {paragraph}{Living labour and dead capital}{218}{paragraph*.210}%
+\contentsline {subsection}{\numberline {6.2.19}Doubts Taken in Class}{218}{subsection.6.2.19}%
+\contentsline {paragraph}{State the definition of surplus value clearly}{218}{paragraph*.211}%
+\contentsline {paragraph}{What do the extra working hours have to do with it?}{218}{paragraph*.212}%
+\contentsline {paragraph}{Is Durkheim's division of labour a source of solidarity a law?}{219}{paragraph*.213}%
+\contentsline {paragraph}{If firms underpay us and the government also takes a portion, are we doubly exploited?}{219}{paragraph*.214}%
+\contentsline {paragraph}{Is the value of wage in surplus value the same as variable capital?}{219}{paragraph*.215}%
+\contentsline {paragraph}{In this era of heavy industrialisation, is it right to assume constant capital is negligible?}{219}{paragraph*.216}%
+\contentsline {paragraph}{One more numerical}{219}{paragraph*.217}%
+\contentsline {section}{\numberline {6.3}Surplus Value, the Law of Motion of Capitalism and Class Struggle}{220}{section.6.3}%
+\contentsline {subsection}{\numberline {6.3.1}What the Test Was Actually For}{220}{subsection.6.3.1}%
+\contentsline {paragraph}{Why the test used new questions}{220}{paragraph*.218}%
+\contentsline {subsection}{\numberline {6.3.2}Everything Has a Price Tag --- Use Value Turned into Exchange Value}{221}{subsection.6.3.2}%
+\contentsline {subsection}{\numberline {6.3.3}What Counts as Labour, and What Counts as a Commodity}{221}{subsection.6.3.3}%
+\contentsline {paragraph}{Commodity does not mean physical object}{221}{paragraph*.219}%
+\contentsline {subsection}{\numberline {6.3.4}How is Exchange Value Determined?}{222}{subsection.6.3.4}%
+\contentsline {subsection}{\numberline {6.3.5}Value of Commodity = C + V + S --- Worked Through a Smartphone}{222}{subsection.6.3.5}%
+\contentsline {paragraph}{Definitions dictated in class}{222}{paragraph*.220}%
+\contentsline {paragraph}{The chain of reasoning}{223}{paragraph*.221}%
+\contentsline {paragraph}{Rate of exploitation}{223}{paragraph*.222}%
+\contentsline {subsection}{\numberline {6.3.6}Why Capitalism Gets the Detailed Treatment}{223}{subsection.6.3.6}%
+\contentsline {subsection}{\numberline {6.3.7}The Two Modes of Exploitation}{224}{subsection.6.3.7}%
+\contentsline {paragraph}{Absolute surplus value}{224}{paragraph*.223}%
+\contentsline {paragraph}{Why this route is blocked}{224}{paragraph*.224}%
+\contentsline {paragraph}{The second route to absolute surplus value}{225}{paragraph*.225}%
+\contentsline {paragraph}{The lines to write}{225}{paragraph*.226}%
+\contentsline {paragraph}{Relative surplus value}{225}{paragraph*.227}%
+\contentsline {paragraph}{How relative surplus value is achieved in reality}{225}{paragraph*.228}%
+\contentsline {paragraph}{What machines then do}{226}{paragraph*.229}%
+\contentsline {subsection}{\numberline {6.3.8}The Industrial Reserve Army}{226}{subsection.6.3.8}%
+\contentsline {paragraph}{What the pool does to bargaining power}{227}{paragraph*.230}%
+\contentsline {subsection}{\numberline {6.3.9}Dead Labour Dominates Living Labour}{227}{subsection.6.3.9}%
+\contentsline {paragraph}{The conclusion}{227}{paragraph*.231}%
+\contentsline {subsection}{\numberline {6.3.10}Commodity Fetishism}{228}{subsection.6.3.10}%
+\contentsline {paragraph}{The Feuerbach parallel}{228}{paragraph*.232}%
+\contentsline {paragraph}{What ``fetishism'' means}{228}{paragraph*.233}%
+\contentsline {paragraph}{The extension by the neo-Marxists}{228}{paragraph*.234}%
+\contentsline {paragraph}{The line to write and the underlying argument}{229}{paragraph*.235}%
+\contentsline {subsection}{\numberline {6.3.11}The Law of Motion of Capitalism}{229}{subsection.6.3.11}%
+\contentsline {paragraph}{Capitalism rewards efficiency --- and you cannot beat a machine}{229}{paragraph*.236}%
+\contentsline {paragraph}{Why capitalism digs its own grave}{230}{paragraph*.237}%
+\contentsline {paragraph}{The lines to write}{230}{paragraph*.238}%
+\contentsline {subsection}{\numberline {6.3.12}The Three Laws Within the Law of Motion}{231}{subsection.6.3.12}%
+\contentsline {paragraph}{First --- the law of capital accumulation}{231}{paragraph*.239}%
+\contentsline {paragraph}{Second --- the law of concentration of capital}{231}{paragraph*.240}%
+\contentsline {paragraph}{Downward mobility and proletarianisation}{231}{paragraph*.241}%
+\contentsline {paragraph}{Third --- the law of increasing misery}{232}{paragraph*.242}%
+\contentsline {subsection}{\numberline {6.3.13}Class Struggle --- Class in Itself and Class for Itself}{232}{subsection.6.3.13}%
+\contentsline {paragraph}{The subjective dimension --- class in itself}{233}{paragraph*.243}%
+\contentsline {paragraph}{The objective dimension --- class for itself}{233}{paragraph*.244}%
+\contentsline {subsection}{\numberline {6.3.14}False Consciousness and the Chains That Divide Workers}{234}{subsection.6.3.14}%
+\contentsline {paragraph}{Why it has become so difficult --- the chains}{234}{paragraph*.245}%
+\contentsline {paragraph}{Chain 1 --- the nation}{234}{paragraph*.246}%
+\contentsline {paragraph}{Chains 2 to 5 --- race, caste, gender, sexuality}{234}{paragraph*.247}%
+\contentsline {subsection}{\numberline {6.3.15}The Three Prerequisites --- Homogenisation, Pauperisation, Depression}{235}{subsection.6.3.15}%
+\contentsline {paragraph}{Homogenisation}{235}{paragraph*.248}%
+\contentsline {paragraph}{Pauperisation}{236}{paragraph*.249}%
+\contentsline {paragraph}{Depression}{236}{paragraph*.250}%
+\contentsline {subsection}{\numberline {6.3.16}Why the Revolution Has Not Happened}{236}{subsection.6.3.16}%
+\contentsline {subsection}{\numberline {6.3.17}Alienation Introduced --- Species Being and the Circuit of Commodity}{237}{subsection.6.3.17}%
+\contentsline {paragraph}{Species being at its extreme potential}{237}{paragraph*.251}%
+\contentsline {paragraph}{The decline across modes of production}{237}{paragraph*.252}%
+\contentsline {paragraph}{The circuit of commodity}{237}{paragraph*.253}%
+\contentsline {paragraph}{The fisherman illustration}{238}{paragraph*.254}%
+\contentsline {subsection}{\numberline {6.3.18}Doubts Taken in Class}{238}{subsection.6.3.18}%
+\contentsline {paragraph}{Is depression the same as the formation of the petty bourgeois and lumpen proletariat?}{238}{paragraph*.255}%
+\contentsline {paragraph}{Lumpen proletariat}{239}{paragraph*.256}%
+\contentsline {paragraph}{The worker has dissatisfaction and disinterest at work --- how does Marx cater to that?}{239}{paragraph*.257}%
+\contentsline {paragraph}{Difference between unemployment and underemployment according to Marx}{239}{paragraph*.258}%
+\contentsline {paragraph}{If capitalists are already making losses and some are becoming petty bourgeois, why will workers revolt against them?}{239}{paragraph*.259}%
+\contentsline {paragraph}{The point at which Marxism could be proven wrong}{240}{paragraph*.260}%
+\contentsline {paragraph}{Is ours an investment-oriented society?}{240}{paragraph*.261}%
+\contentsline {paragraph}{Why did Marx not discuss the work process in the administrative arena, since government employees are also proletariat?}{240}{paragraph*.262}%
+\contentsline {section}{\numberline {6.4}Alienation, Socialism and the First Criticisms}{241}{section.6.4}%
+\contentsline {subsection}{\numberline {6.4.1}The Essence of Marx, and What Alienation Means}{241}{subsection.6.4.1}%
+\contentsline {paragraph}{The meaning of alienation}{241}{paragraph*.263}%
+\contentsline {subsection}{\numberline {6.4.2}Alienation is Not Exclusive to the Proletariat}{241}{subsection.6.4.2}%
+\contentsline {paragraph}{Two illustrations of proletarian alienation}{242}{paragraph*.264}%
+\contentsline {paragraph}{Why the job itself was never a choice}{242}{paragraph*.265}%
+\contentsline {subsection}{\numberline {6.4.3}The Four Types of Alienation}{243}{subsection.6.4.3}%
+\contentsline {paragraph}{1 \& 2 --- Species being and the product}{243}{paragraph*.266}%
+\contentsline {paragraph}{3 --- Alienation from the production process}{243}{paragraph*.267}%
+\contentsline {paragraph}{4 --- Alienation from production relations, or sociability}{244}{paragraph*.268}%
+\contentsline {subsection}{\numberline {6.4.4}How the Bourgeoisie are Alienated and in False Consciousness}{244}{subsection.6.4.4}%
+\contentsline {paragraph}{The false consciousness of the bourgeoisie}{244}{paragraph*.269}%
+\contentsline {paragraph}{The alienation of the bourgeoisie}{245}{paragraph*.270}%
+\contentsline {subsection}{\numberline {6.4.5}Which Type of Alienation is Commodity Fetishism?}{245}{subsection.6.4.5}%
+\contentsline {paragraph}{The global value chain}{245}{paragraph*.271}%
+\contentsline {paragraph}{What happens at the point of purchase}{246}{paragraph*.272}%
+\contentsline {paragraph}{The religious parallel and Freud}{246}{paragraph*.273}%
+\contentsline {subsection}{\numberline {6.4.6}The Contradiction Inside Marx --- Orthodox and Hegelian Marxists}{247}{subsection.6.4.6}%
+\contentsline {paragraph}{Why ``Hegelian''?}{247}{paragraph*.274}%
+\contentsline {subsection}{\numberline {6.4.7}Liberalism and the Three Reactions to It}{248}{subsection.6.4.7}%
+\contentsline {paragraph}{Liberalism}{248}{paragraph*.275}%
+\contentsline {paragraph}{Reaction 1 --- the Luddites (1800 to the 1810s)}{248}{paragraph*.276}%
+\contentsline {paragraph}{Reaction 2 --- Chartism}{248}{paragraph*.277}%
+\contentsline {paragraph}{Reaction 3 --- socialism}{249}{paragraph*.278}%
+\contentsline {paragraph}{What socialism means}{249}{paragraph*.279}%
+\contentsline {paragraph}{The word ``utopia''}{249}{paragraph*.280}%
+\contentsline {subsection}{\numberline {6.4.8}The Utopian Socialists}{250}{subsection.6.4.8}%
+\contentsline {paragraph}{Robert Owen (Owenism)}{250}{paragraph*.281}%
+\contentsline {paragraph}{The New Lanark experiment}{250}{paragraph*.282}%
+\contentsline {paragraph}{Charles Fourier and Claude Henri de Saint-Simon}{251}{paragraph*.283}%
+\contentsline {paragraph}{Why ``utopian''}{251}{paragraph*.284}%
+\contentsline {subsection}{\numberline {6.4.9}Scientific Socialism}{251}{subsection.6.4.9}%
+\contentsline {paragraph}{The definition}{252}{paragraph*.285}%
+\contentsline {paragraph}{Why is it called ``scientific''?}{252}{paragraph*.286}%
+\contentsline {paragraph}{The principles of scientific socialism}{252}{paragraph*.287}%
+\contentsline {paragraph}{The socialist state}{252}{paragraph*.288}%
+\contentsline {subsection}{\numberline {6.4.10}Democratic Socialism}{253}{subsection.6.4.10}%
+\contentsline {subsection}{\numberline {6.4.11}Communism as Full Expression of the Self}{254}{subsection.6.4.11}%
+\contentsline {paragraph}{Why we cannot pursue two passions equally --- the working day again}{254}{paragraph*.289}%
+\contentsline {subsection}{\numberline {6.4.12}Doubts on Socialism and Communism}{255}{subsection.6.4.12}%
+\contentsline {paragraph}{We develop efficient growth through competition, which is not in communism}{255}{paragraph*.290}%
+\contentsline {paragraph}{Does Marx not talk about incentivising merit, talent and hard work?}{255}{paragraph*.291}%
+\contentsline {paragraph}{Tribal societies have communism, but we see power relations there}{255}{paragraph*.292}%
+\contentsline {subsection}{\numberline {6.4.13}Criticism of Alienation --- Framing, and C. Wright Mills}{256}{subsection.6.4.13}%
+\contentsline {paragraph}{What ``classical scholar'' means}{256}{paragraph*.293}%
+\contentsline {paragraph}{C. Wright Mills}{256}{paragraph*.294}%
+\contentsline {paragraph}{The argument}{256}{paragraph*.295}%
+\contentsline {paragraph}{Prostituting the personality}{256}{paragraph*.296}%
+\contentsline {subsection}{\numberline {6.4.14}Andr\'e Gorz and Herbert Marcuse --- Leisure Shaped by Capitalism}{257}{subsection.6.4.14}%
+\contentsline {paragraph}{The argument}{258}{paragraph*.297}%
+\contentsline {paragraph}{Herbert Marcuse}{258}{paragraph*.298}%
+\contentsline {paragraph}{Cultural industries and cultural goods}{258}{paragraph*.299}%
+\contentsline {subsection}{\numberline {6.4.15}Welfare Capitalism, Keynes, Beveridge and the Welfare State}{258}{subsection.6.4.15}%
+\contentsline {paragraph}{The liberals' response to the responders}{258}{paragraph*.300}%
+\contentsline {paragraph}{Why it failed --- the Great Depression}{259}{paragraph*.301}%
+\contentsline {paragraph}{What led to the Great Depression}{259}{paragraph*.302}%
+\contentsline {paragraph}{Why the revolution still did not happen --- John Maynard Keynes}{259}{paragraph*.303}%
+\contentsline {paragraph}{From welfare capitalism to the welfare state}{260}{paragraph*.304}%
+\contentsline {paragraph}{Keynes and Beveridge}{260}{paragraph*.305}%
+\contentsline {subsection}{\numberline {6.4.16}A Doubt on Fascism}{260}{subsection.6.4.16}%
+\contentsline {paragraph}{What fascism is}{261}{paragraph*.306}%
+\contentsline {paragraph}{Gramsci and the Prison Notebooks}{261}{paragraph*.307}%
+\contentsline {section}{\numberline {6.5}The Criticism of Marx}{262}{section.6.5}%
+\contentsline {subsection}{\numberline {6.5.1}Opening Doubts}{262}{subsection.6.5.1}%
+\contentsline {paragraph}{How exactly are the bourgeoisie alienated?}{262}{paragraph*.308}%
+\contentsline {paragraph}{Why is Marxism known as a romantic philosophy?}{262}{paragraph*.309}%
+\contentsline {paragraph}{Apart from communism, is there any solution to alienation?}{262}{paragraph*.310}%
+\contentsline {paragraph}{Was Marx vindictive because of his own suffering, or did he really want equality?}{262}{paragraph*.311}%
+\contentsline {subsection}{\numberline {6.5.2}Criticism of Alienation --- Max Weber}{263}{subsection.6.5.2}%
+\contentsline {paragraph}{What rationalisation means (in brief)}{263}{paragraph*.312}%
+\contentsline {paragraph}{Bureaucrats as the highest manifestation of rationality}{263}{paragraph*.313}%
+\contentsline {paragraph}{The line}{264}{paragraph*.314}%
+\contentsline {subsection}{\numberline {6.5.3}Robert Blauner --- Alienation is Relative, Not Universal}{264}{subsection.6.5.3}%
+\contentsline {paragraph}{The survey}{265}{paragraph*.315}%
+\contentsline {paragraph}{The problem of measurement --- operationalisation}{265}{paragraph*.316}%
+\contentsline {paragraph}{The four dimensions Blauner used}{265}{paragraph*.317}%
+\contentsline {paragraph}{The result}{265}{paragraph*.318}%
+\contentsline {subsection}{\numberline {6.5.4}Goldthorpe and Lockwood --- Ask What Meaning They Attach}{266}{subsection.6.5.4}%
+\contentsline {subsection}{\numberline {6.5.5}Simone de Beauvoir and Arlie Hochschild}{266}{subsection.6.5.5}%
+\contentsline {paragraph}{Simone de Beauvoir}{266}{paragraph*.319}%
+\contentsline {paragraph}{Arlie Hochschild --- emotional labour}{267}{paragraph*.320}%
+\contentsline {subsection}{\numberline {6.5.6}Critique of Class in Itself / Class for Itself --- Vladimir Lenin}{267}{subsection.6.5.6}%
+\contentsline {paragraph}{Recap of the problem}{267}{paragraph*.321}%
+\contentsline {paragraph}{The Russian problem}{268}{paragraph*.322}%
+\contentsline {paragraph}{The All-Russia newspaper and the Vanguard Party}{268}{paragraph*.323}%
+\contentsline {paragraph}{Why this is not a critique either}{269}{paragraph*.324}%
+\contentsline {subsection}{\numberline {6.5.7}Nancy Hartsock --- Women as Commodities}{269}{subsection.6.5.7}%
+\contentsline {paragraph}{The circuit of commodity, recalled}{269}{paragraph*.325}%
+\contentsline {paragraph}{The argument}{269}{paragraph*.326}%
+\contentsline {paragraph}{The manifestations she lists}{269}{paragraph*.327}%
+\contentsline {paragraph}{The circuit applied to the gender wage gap}{270}{paragraph*.328}%
+\contentsline {subsection}{\numberline {6.5.8}Nancy Hartsock --- Women as the Real Source of Surplus Value}{270}{subsection.6.5.8}%
+\contentsline {paragraph}{First, why machines cannot be the source of surplus}{270}{paragraph*.329}%
+\contentsline {paragraph}{The argument}{271}{paragraph*.330}%
+\contentsline {subsection}{\numberline {6.5.9}Critique of Scientific Socialism --- Does Socialism Exist?}{271}{subsection.6.5.9}%
+\contentsline {paragraph}{The sequence did not hold}{271}{paragraph*.331}%
+\contentsline {paragraph}{Do we really have socialism today? --- the case of China}{272}{paragraph*.332}%
+\contentsline {paragraph}{When are you actually categorised as socialist?}{272}{paragraph*.333}%
+\contentsline {paragraph}{Power is also a resource}{272}{paragraph*.334}%
+\contentsline {paragraph}{The alternatives are no different}{273}{paragraph*.335}%
+\contentsline {subsection}{\numberline {6.5.10}Critique of the Mode of Production --- Anthony Giddens}{274}{subsection.6.5.10}%
+\contentsline {paragraph}{Fault line conflict}{274}{paragraph*.336}%
+\contentsline {paragraph}{How the world we live in was actually produced}{274}{paragraph*.337}%
+\contentsline {subsection}{\numberline {6.5.11}Ernesto Laclau and Chantal Mouffe}{275}{subsection.6.5.11}%
+\contentsline {paragraph}{Their three points}{275}{paragraph*.338}%
+\contentsline {paragraph}{1. For every revolution to happen, there has to be a discourse --- and it has to be a democratic discourse}{275}{paragraph*.339}%
+\contentsline {paragraph}{2. Revolutions are not limited to class struggle}{276}{paragraph*.340}%
+\contentsline {paragraph}{3. Do empirical study instead of prediction}{276}{paragraph*.341}%
+\contentsline {subsection}{\numberline {6.5.12}J\"urgen Habermas --- Legitimation Crisis}{276}{subsection.6.5.12}%
+\contentsline {paragraph}{His answer}{277}{paragraph*.342}%
+\contentsline {paragraph}{How the discontent gets redirected}{277}{paragraph*.343}%
+\contentsline {subsection}{\numberline {6.5.13}Erik Olin Wright --- Contradictory Class Location}{277}{subsection.6.5.13}%
+\contentsline {paragraph}{The contradiction}{278}{paragraph*.344}%
+\contentsline {subsection}{\numberline {6.5.14}Laclau and Mouffe Again --- The Complexity of Identities}{278}{subsection.6.5.14}%
+\contentsline {subsection}{\numberline {6.5.15}Pierre Bourdieu --- Four Forms of Capital}{279}{subsection.6.5.15}%
+\contentsline {subsection}{\numberline {6.5.16}Why Capitalism Sustained Itself --- Gramsci and Digital Capitalism}{280}{subsection.6.5.16}%
+\contentsline {paragraph}{Antonio Gramsci and cultural hegemony}{280}{paragraph*.345}%
+\contentsline {paragraph}{Ursula Huws --- i-capitalism / digital capitalism}{281}{paragraph*.346}%
+\contentsline {subsection}{\numberline {6.5.17}Final Doubts}{282}{subsection.6.5.17}%
+\contentsline {paragraph}{Wage for housework}{282}{paragraph*.347}%
+\contentsline {paragraph}{What does ``dominant discourse'' mean?}{282}{paragraph*.348}%
+\contentsline {paragraph}{False consciousness --- one line}{282}{paragraph*.349}%
+\contentsline {paragraph}{How can we convert symbolic capital into economic capital?}{282}{paragraph*.350}%
+\contentsline {paragraph}{Why does the Chinese party keep the communist tag and not the socialist tag?}{282}{paragraph*.351}%
+\contentsline {paragraph}{Why can we not compare Marxian socialism with the socialism of Russia and China?}{282}{paragraph*.352}%
+\contentsline {paragraph}{Did Marx know he was a sociologist?}{283}{paragraph*.353}%
+\contentsline {paragraph}{Restating Lenin's position}{283}{paragraph*.354}%
+\contentsline {section}{\numberline {6.6}Answer-Writing Toolkit}{284}{section.6.6}%
+\contentsline {subsection}{\numberline {6.6.1}The Standard of Understanding an Answer Must Reflect}{284}{subsection.6.6.1}%
+\contentsline {subsection}{\numberline {6.6.2}Examples are Compulsory}{284}{subsection.6.6.2}%
+\contentsline {subsection}{\numberline {6.6.3}Managing Time in the Paper}{284}{subsection.6.6.3}%
+\contentsline {subsection}{\numberline {6.6.4}Handling the Previous-Year Question Flagged in Class}{285}{subsection.6.6.4}%
+\contentsline {paragraph}{The method demonstrated on ``higher unemployment is the source of higher crime rate''}{285}{paragraph*.355}%
+\contentsline {subsection}{\numberline {6.6.5}Lines the Teacher Dictated to be Written Down Verbatim}{285}{subsection.6.6.5}%
+\contentsline {subsection}{\numberline {6.6.6}Terminology Cautions}{286}{subsection.6.6.6}%
+\contentsline {subsection}{\numberline {6.6.7}Strategy Notes}{286}{subsection.6.6.7}%
+\contentsline {subsection}{\numberline {6.6.8}Ready-Made Answer Frames from These Classes}{287}{subsection.6.6.8}%
+\contentsline {chapter}{\numberline {7}Marx, Durkheim and Max Weber: PYQ Approach and Weberian Methodology}{295}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Marx and Durkheim: Previous Year Questions and Answer-Writing Approach}{295}{section.7.1}%
+\contentsline {subsection}{\numberline {7.1.1}Surveillance Capitalism --- Shoshana Zuboff}{295}{subsection.7.1.1}%
+\contentsline {subsection}{\numberline {7.1.2}Directives, Dimensions and the Universal Answer Structure}{296}{subsection.7.1.2}%
+\contentsline {paragraph}{The Universal Seven-Step Body}{297}{paragraph*.356}%
+\contentsline {paragraph}{Structural Flexibility and Word Limits}{297}{paragraph*.357}%
+\contentsline {subsection}{\numberline {7.1.3}PYQ: Critically Assess the Marxian Theory of Alienation}{298}{subsection.7.1.3}%
+\contentsline {paragraph}{Step-by-Step Answer Structure}{298}{paragraph*.358}%
+\contentsline {subsection}{\numberline {7.1.4}PYQ: What is the Marxist Concept of Fetishism of Commodities?}{299}{subsection.7.1.4}%
+\contentsline {paragraph}{Primary Analytical Approach}{299}{paragraph*.359}%
+\contentsline {paragraph}{Critical Evaluation and Feminist Counter-Perspective}{300}{paragraph*.360}%
+\contentsline {paragraph}{Secondary Analytical Approach (Labour Theory of Value)}{300}{paragraph*.361}%
+\contentsline {subsection}{\numberline {7.1.5}PYQ: Alienation from Human Potential and Marx's Solution}{301}{subsection.7.1.5}%
+\contentsline {paragraph}{Key Analytical Terms}{301}{paragraph*.362}%
+\contentsline {paragraph}{Substantive Argument}{301}{paragraph*.363}%
+\contentsline {subsection}{\numberline {7.1.6}PYQ: Evaluate Marx's Idea on Mode of Production}{302}{subsection.7.1.6}%
+\contentsline {paragraph}{Definition and Structural Model}{302}{paragraph*.364}%
+\contentsline {paragraph}{Critical Evaluation}{302}{paragraph*.365}%
+\contentsline {paragraph}{Feminist Critiques}{303}{paragraph*.366}%
+\contentsline {paragraph}{Methodological Critique: Karl Popper and Pseudoscience}{303}{paragraph*.367}%
+\contentsline {subsection}{\numberline {7.1.7}PYQ: Similarities and Differences between Alienation and Anomie}{304}{subsection.7.1.7}%
+\contentsline {paragraph}{Foundational Definitions}{304}{paragraph*.368}%
+\contentsline {paragraph}{Core Theoretical Similarities}{304}{paragraph*.369}%
+\contentsline {paragraph}{Structural Differences}{304}{paragraph*.370}%
+\contentsline {subsection}{\numberline {7.1.8}PYQ: Capitalism and Personal Relationships between Men and Women}{305}{subsection.7.1.8}%
+\contentsline {paragraph}{Transformation under Industrial Capitalism}{306}{paragraph*.371}%
+\contentsline {subsection}{\numberline {7.1.9}Remaining Marx and Durkheim PYQs for Self-Practice}{306}{subsection.7.1.9}%
+\contentsline {paragraph}{Methodological Challenges in Observing Social Facts}{306}{paragraph*.372}%
+\contentsline {paragraph}{Durkheimian Sociology of Religion}{307}{paragraph*.373}%
+\contentsline {paragraph}{Sociology of Suicide: Positivist Method and Critiques}{307}{paragraph*.374}%
+\contentsline {paragraph}{Comparative Division of Labour}{308}{paragraph*.375}%
+\contentsline {subsection}{\numberline {7.1.10}Neo-Marxism: Superstructure, Critical Theory and the Frankfurt School}{308}{subsection.7.1.10}%
+\contentsline {paragraph}{Base, Superstructure and the Myth of Meritocracy}{308}{paragraph*.376}%
+\contentsline {paragraph}{Orthodox Marxism vs. Neo-Marxism}{308}{paragraph*.377}%
+\contentsline {paragraph}{Mechanisms of Cultural Hegemony}{309}{paragraph*.378}%
+\contentsline {section}{\numberline {7.2}Max Weber: Intellectual Background and Overview of His Concepts}{309}{section.7.2}%
+\contentsline {subsection}{\numberline {7.2.1}Handouts, Doubts and the Rule for Conflicting Versions}{310}{subsection.7.2.1}%
+\contentsline {subsection}{\numberline {7.2.2}French Sociology, German Sociology and the Split}{310}{subsection.7.2.2}%
+\contentsline {paragraph}{The Conservative Unity of French Sociology}{310}{paragraph*.379}%
+\contentsline {paragraph}{The Radicalism of Karl Marx}{310}{paragraph*.380}%
+\contentsline {paragraph}{The German Methodological Split}{310}{paragraph*.381}%
+\contentsline {subsection}{\numberline {7.2.3}The Life History of Max Weber}{311}{subsection.7.2.3}%
+\contentsline {subsection}{\numberline {7.2.4}Major Works and the Political Context}{311}{subsection.7.2.4}%
+\contentsline {paragraph}{The Protestant Ethic and the Spirit of Capitalism (1904--1905)}{311}{paragraph*.382}%
+\contentsline {paragraph}{Economic Ethics of World Religions (1913--1919)}{311}{paragraph*.383}%
+\contentsline {paragraph}{Economy and Society (1920)}{312}{paragraph*.384}%
+\contentsline {subsection}{\numberline {7.2.5}Social Action as a Critique of Economic Action}{312}{subsection.7.2.5}%
+\contentsline {paragraph}{Work as Worship: The Absence of Proletarian Revolt}{312}{paragraph*.385}%
+\contentsline {subsection}{\numberline {7.2.6}Against Positivism and Against Subjectivism}{313}{subsection.7.2.6}%
+\contentsline {subsection}{\numberline {7.2.7}Authority and Power: The First Overview}{314}{subsection.7.2.7}%
+\contentsline {paragraph}{The Three Ideal Types of Authority}{314}{paragraph*.386}%
+\contentsline {paragraph}{Power vs. Authority}{314}{paragraph*.387}%
+\contentsline {subsection}{\numberline {7.2.8}Methodology: Verstehen, Empathy and Social Action}{315}{subsection.7.2.8}%
+\contentsline {paragraph}{Verstehen (Interpretive Understanding)}{315}{paragraph*.388}%
+\contentsline {paragraph}{Definition of Social Action}{316}{paragraph*.389}%
+\contentsline {section}{\numberline {7.3}Kant, Objectivity in Social Research and the Ideal Type}{316}{section.7.3}%
+\contentsline {subsection}{\numberline {7.3.1}Immanuel Kant: Empiricism and Rationalism}{317}{subsection.7.3.1}%
+\contentsline {subsection}{\numberline {7.3.2}The Image Exercise: Accentuation of Features}{317}{subsection.7.3.2}%
+\contentsline {subsection}{\numberline {7.3.3}Objectivity in Social Research}{318}{subsection.7.3.3}%
+\contentsline {subsection}{\numberline {7.3.4}Ideal Type: Definition and Features}{319}{subsection.7.3.4}%
+\contentsline {paragraph}{Illustration: Models vs. Empirical Realities}{319}{paragraph*.390}%
+\contentsline {paragraph}{Typology of Terrorism (Analytical Accentuation)}{319}{paragraph*.391}%
+\contentsline {paragraph}{Core Methodological Features of the Ideal Type}{319}{paragraph*.392}%
+\contentsline {paragraph}{Classification of Ideal Types}{319}{paragraph*.393}%
+\contentsline {subsection}{\numberline {7.3.5}Types of Social Action}{320}{subsection.7.3.5}%
+\contentsline {paragraph}{Application: Selecting Sociology as an Optional Subject}{320}{paragraph*.394}%
+\contentsline {section}{\numberline {7.4}Verstehen, Value Neutrality and the Process of Rationalization}{321}{section.7.4}%
+\contentsline {subsection}{\numberline {7.4.1}Ideal Type Crystallized: Capitalism and Secularism}{321}{subsection.7.4.1}%
+\contentsline {subsection}{\numberline {7.4.2}Why Social Action? The Critique of Homo Economicus}{322}{subsection.7.4.2}%
+\contentsline {paragraph}{The Neoclassical Fallacy of Homo Economicus}{322}{paragraph*.395}%
+\contentsline {subsection}{\numberline {7.4.3}Verstehen, Hermeneutics and Value Neutrality}{322}{subsection.7.4.3}%
+\contentsline {paragraph}{Hermeneutic Roots}{322}{paragraph*.396}%
+\contentsline {paragraph}{Rescuing the Individual from Structural Determinism}{323}{paragraph*.397}%
+\contentsline {subsection}{\numberline {7.4.4}Rationality and Rationalization}{323}{subsection.7.4.4}%
+\contentsline {paragraph}{Sociological Conceptions of Modernity}{323}{paragraph*.398}%
+\contentsline {paragraph}{The Four Core Dimensions of Rationalization}{324}{paragraph*.399}%
+\contentsline {paragraph}{Bureaucracy as the Epitome of Rationalization}{324}{paragraph*.400}%
+\contentsline {paragraph}{Disenchantment of the World (\textit {Entzauberung})}{324}{paragraph*.401}%
+\contentsline {subsection}{\numberline {7.4.5}McDonaldization --- George Ritzer}{325}{subsection.7.4.5}%
+\contentsline {paragraph}{The Four Principles of McDonaldization}{325}{paragraph*.402}%
+\contentsline {paragraph}{Institutional Applications of McDonaldization}{325}{paragraph*.403}%
+\contentsline {section}{\numberline {7.5}Types of Rationality, Causality and the Theory of Authority}{325}{section.7.5}%
+\contentsline {subsection}{\numberline {7.5.1}Class Schedule and Prelims Strategy}{326}{subsection.7.5.1}%
+\contentsline {subsection}{\numberline {7.5.2}Why Weber Studies Rationalization}{326}{subsection.7.5.2}%
+\contentsline {subsection}{\numberline {7.5.3}The Four Ideal Types of Rationality}{326}{subsection.7.5.3}%
+\contentsline {subsection}{\numberline {7.5.4}Causality: From Mono-causality to Adequate Causality}{327}{subsection.7.5.4}%
+\contentsline {paragraph}{Rejection of Mono-Causality}{327}{paragraph*.404}%
+\contentsline {subsection}{\numberline {7.5.5}Power, Legitimacy and Authority}{328}{subsection.7.5.5}%
+\contentsline {paragraph}{Intellectual Context of Economy and Society}{328}{paragraph*.405}%
+\contentsline {paragraph}{Definitions: Power, Legitimacy, and Domination}{328}{paragraph*.406}%
+\contentsline {subsection}{\numberline {7.5.6}The Three Ideal Types of Authority}{329}{subsection.7.5.6}%
+\contentsline {paragraph}{Analytical Features of the Authority Types}{329}{paragraph*.407}%
+\contentsline {subsection}{\numberline {7.5.7}The Confluence: Social Action, Rationality and Authority}{330}{subsection.7.5.7}%
+\contentsline {paragraph}{Integration of the System}{330}{paragraph*.408}%
+\contentsline {section}{\numberline {7.6}Answer-Writing Toolkit}{331}{section.7.6}%
+\contentsline {subsection}{\numberline {7.6.1}The Standard Body of a Sociology Answer}{331}{subsection.7.6.1}%
+\contentsline {subsection}{\numberline {7.6.2}Essential Keywords and Conceptual Anchors}{331}{subsection.7.6.2}%
+\contentsline {subsection}{\numberline {7.6.3}Core Diagrams and Comparative Models}{332}{subsection.7.6.3}%
+\contentsline {subsection}{\numberline {7.6.4}Examination Strategy and Time Management}{332}{subsection.7.6.4}%
+\contentsline {chapter}{\numberline {8}Max Weber and Talcott Parsons}{333}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Max Weber: Disenchantment, Authority and Bureaucracy}{333}{section.8.1}%
+\contentsline {subsection}{\numberline {8.1.1}Disenchantment (Revision of a Student Doubt)}{333}{subsection.8.1.1}%
+\contentsline {paragraph}{The Candlelight Dinner Analogy}{333}{paragraph*.409}%
+\contentsline {paragraph}{The Bureaucrat Speaks the Same Way}{333}{paragraph*.410}%
+\contentsline {subsection}{\numberline {8.1.2}Authority and the Basis of Legitimacy}{334}{subsection.8.1.2}%
+\contentsline {paragraph}{Why Do You Obey the Prime Minister?}{334}{paragraph*.411}%
+\contentsline {paragraph}{The American Example: Trump versus Hillary Clinton}{334}{paragraph*.412}%
+\contentsline {paragraph}{Why We Obey Charismatic Figures}{335}{paragraph*.413}%
+\contentsline {paragraph}{The Legitimacy of Traditional Rulers}{335}{paragraph*.414}%
+\contentsline {subsection}{\numberline {8.1.3}Ideal Types of Traditional Authority}{336}{subsection.8.1.3}%
+\contentsline {paragraph}{Gerontocracy---Rule of the Elderly}{336}{paragraph*.415}%
+\contentsline {paragraph}{Primary Patriarchalism}{337}{paragraph*.416}%
+\contentsline {paragraph}{Patrimonialism---The Most Important Concept}{337}{paragraph*.417}%
+\contentsline {paragraph}{Features of Patrimonialism}{337}{paragraph*.418}%
+\contentsline {paragraph}{Ideal Type as Mental Construct}{338}{paragraph*.419}%
+\contentsline {paragraph}{Patrimonial Bureaucracy: Examples}{338}{paragraph*.420}%
+\contentsline {paragraph}{Sultanism}{338}{paragraph*.421}%
+\contentsline {subsection}{\numberline {8.1.4}Charismatic Authority}{339}{subsection.8.1.4}%
+\contentsline {paragraph}{Illustrations from the Lecture}{340}{paragraph*.422}%
+\contentsline {paragraph}{Features of Charismatic Authority}{340}{paragraph*.423}%
+\contentsline {paragraph}{Routinization of Charisma}{340}{paragraph*.424}%
+\contentsline {subsection}{\numberline {8.1.5}Legal-Rational Authority}{341}{subsection.8.1.5}%
+\contentsline {paragraph}{What Modern Bureaucracies Have}{341}{paragraph*.425}%
+\contentsline {subsection}{\numberline {8.1.6}Bureaucracy: Definition and Scope}{342}{subsection.8.1.6}%
+\contentsline {paragraph}{Bureaucracy Is Not Limited to Government}{343}{paragraph*.426}%
+\contentsline {paragraph}{Why an Ideal Type Is Needed}{343}{paragraph*.427}%
+\contentsline {subsection}{\numberline {8.1.7}Features of the Ideal Type of Bureaucracy}{343}{subsection.8.1.7}%
+\contentsline {subsection}{\numberline {8.1.8}Bureaucracy in Reality: The Distance from the Model}{345}{subsection.8.1.8}%
+\contentsline {subsection}{\numberline {8.1.9}The Iron Cage and the Irrationality of Rationality}{347}{subsection.8.1.9}%
+\contentsline {paragraph}{The Trajectory of Rationalization}{347}{paragraph*.428}%
+\contentsline {paragraph}{What the Rational Individual Has Become}{347}{paragraph*.429}%
+\contentsline {paragraph}{Examples of the Irrationality of Rationality}{347}{paragraph*.430}%
+\contentsline {subsection}{\numberline {8.1.10}Weber's Ambivalence and the Bridge to Protestant Ethics}{349}{subsection.8.1.10}%
+\contentsline {paragraph}{Where Does All of This Come From?}{349}{paragraph*.431}%
+\contentsline {subsection}{\numberline {8.1.11}Doubts Answered in Class}{350}{subsection.8.1.11}%
+\contentsline {paragraph}{Is the irrationality of rationality simply the loss of the human element because of rules?}{350}{paragraph*.432}%
+\contentsline {paragraph}{Did Weber, in the end, become a positivist?}{350}{paragraph*.433}%
+\contentsline {paragraph}{How Marx Was Presented in This Contrast}{350}{paragraph*.434}%
+\contentsline {paragraph}{How Weber Reads Action Differently}{350}{paragraph*.435}%
+\contentsline {section}{\numberline {8.2}The Protestant Ethic and the Spirit of Capitalism}{351}{section.8.2}%
+\contentsline {subsection}{\numberline {8.2.1}Irrationality of Rationality: The Student's Own Case}{351}{subsection.8.2.1}%
+\contentsline {subsection}{\numberline {8.2.2}The One-Crore Thought Experiment: Formal versus Practical Rationality}{351}{subsection.8.2.2}%
+\contentsline {subsection}{\numberline {8.2.3}A Detour: How to Read History for the Examination}{352}{subsection.8.2.3}%
+\contentsline {paragraph}{Ancient History---What to Read}{353}{paragraph*.436}%
+\contentsline {paragraph}{Medieval and Modern History}{353}{paragraph*.437}%
+\contentsline {paragraph}{Art and Culture}{354}{paragraph*.438}%
+\contentsline {subsection}{\numberline {8.2.4}Buddhism as Protest: The Analogy for Protestantism}{354}{subsection.8.2.4}%
+\contentsline {paragraph}{Reformation in Hinduism}{354}{paragraph*.439}%
+\contentsline {paragraph}{Reformation within Buddhism}{354}{paragraph*.440}%
+\contentsline {subsection}{\numberline {8.2.5}The Doctrines of Catholicism}{355}{subsection.8.2.5}%
+\contentsline {paragraph}{What Was an Indulgence?}{356}{paragraph*.441}%
+\contentsline {subsection}{\numberline {8.2.6}Martin Luther and the Protestant Reformation}{356}{subsection.8.2.6}%
+\contentsline {paragraph}{What Luther Proposed}{357}{paragraph*.442}%
+\contentsline {paragraph}{The Bible in German}{357}{paragraph*.443}%
+\contentsline {paragraph}{From Protest to Protestantism}{357}{paragraph*.444}%
+\contentsline {subsection}{\numberline {8.2.7}The Doctrines of Protestantism}{358}{subsection.8.2.7}%
+\contentsline {paragraph}{1. Predestination}{358}{paragraph*.445}%
+\contentsline {paragraph}{2. Calling}{358}{paragraph*.446}%
+\contentsline {paragraph}{3. Asceticism---Ascetic Materialism}{359}{paragraph*.447}%
+\contentsline {paragraph}{4. Denial of Worldly Pleasures}{359}{paragraph*.448}%
+\contentsline {paragraph}{Profit Reconsidered}{359}{paragraph*.449}%
+\contentsline {subsection}{\numberline {8.2.8}Weber's Question and the Ideal Type of Capitalism}{360}{subsection.8.2.8}%
+\contentsline {subsection}{\numberline {8.2.9}The Four Ideal Types of Capitalism}{361}{subsection.8.2.9}%
+\contentsline {paragraph}{Booty Capitalism}{361}{paragraph*.450}%
+\contentsline {paragraph}{Traditional (Merchant) Capitalism}{361}{paragraph*.451}%
+\contentsline {paragraph}{Pariah Capitalism}{361}{paragraph*.452}%
+\contentsline {paragraph}{Legal-Rational Capitalism}{362}{paragraph*.453}%
+\contentsline {subsection}{\numberline {8.2.10}Protestants and the Industrial Revolution: Weber's Sources}{363}{subsection.8.2.10}%
+\contentsline {paragraph}{Benjamin Franklin}{363}{paragraph*.454}%
+\contentsline {paragraph}{Weber's Mother}{363}{paragraph*.455}%
+\contentsline {subsection}{\numberline {8.2.11}The Ideal Type of Protestant Ethics}{364}{subsection.8.2.11}%
+\contentsline {subsection}{\numberline {8.2.12}Elective Affinity and Adequate Causality}{364}{subsection.8.2.12}%
+\contentsline {paragraph}{Is This a Monocausal Claim?}{365}{paragraph*.456}%
+\contentsline {paragraph}{The Other Factors}{365}{paragraph*.457}%
+\contentsline {paragraph}{Turning Marx Upside Down}{366}{paragraph*.458}%
+\contentsline {subsection}{\numberline {8.2.13}Why Not India? The Ideal Type of Hinduism}{366}{subsection.8.2.13}%
+\contentsline {paragraph}{Elements of the Ideal Type of Hinduism}{367}{paragraph*.459}%
+\contentsline {paragraph}{The Dharma of Each Varna}{367}{paragraph*.460}%
+\contentsline {paragraph}{Consequences}{368}{paragraph*.461}%
+\contentsline {subsection}{\numberline {8.2.14}Answer-Writing Guidance and Doubts from This Class}{368}{subsection.8.2.14}%
+\contentsline {paragraph}{The Printing Press: A Point Added at the End}{369}{paragraph*.462}%
+\contentsline {paragraph}{Were Protestants Only in England and the Netherlands?}{369}{paragraph*.463}%
+\contentsline {paragraph}{Is Weber a Pseudoscientist, Since All His Theories Are Irrefutable?}{369}{paragraph*.464}%
+\contentsline {paragraph}{According to Weber, Was Capitalism Not Exploitative?}{369}{paragraph*.465}%
+\contentsline {section}{\numberline {8.3}Critique of Max Weber and the Comparison of Marx, Weber and Durkheim}{370}{section.8.3}%
+\contentsline {subsection}{\numberline {8.3.1}Placing the Protestant Ethic at the Centre of Weber's Work}{370}{subsection.8.3.1}%
+\contentsline {subsection}{\numberline {8.3.2}Catholicism, Protestantism and Capitalism: The Three-Box Comparison}{370}{subsection.8.3.2}%
+\contentsline {paragraph}{Why the Protestant Was the Productive Worker}{371}{paragraph*.466}%
+\contentsline {subsection}{\numberline {8.3.3}Why Not the Jews, Muslims and Sikhs?}{372}{subsection.8.3.3}%
+\contentsline {subsection}{\numberline {8.3.4}From Calling to Compulsion: Secularization}{373}{subsection.8.3.4}%
+\contentsline {paragraph}{What the Line Means}{373}{paragraph*.467}%
+\contentsline {subsection}{\numberline {8.3.5}Micro to Macro: Weber as a Substantive Sociologist}{374}{subsection.8.3.5}%
+\contentsline {paragraph}{Bureaucracy in the Same Line}{375}{paragraph*.468}%
+\contentsline {subsection}{\numberline {8.3.6}Critique of the Protestant Ethic Thesis}{376}{subsection.8.3.6}%
+\contentsline {paragraph}{1. R. H. Tawney}{376}{paragraph*.469}%
+\contentsline {paragraph}{2. Kurt Samuelson}{376}{paragraph*.470}%
+\contentsline {paragraph}{3. Reinhard Bendix}{377}{paragraph*.471}%
+\contentsline {paragraph}{4. Milton Singer}{377}{paragraph*.472}%
+\contentsline {subsection}{\numberline {8.3.7}Critique of Bureaucracy}{379}{subsection.8.3.7}%
+\contentsline {paragraph}{1. Robert Merton---Dysfunctions of Bureaucracy}{379}{paragraph*.473}%
+\contentsline {paragraph}{2. Michel Crozier}{379}{paragraph*.474}%
+\contentsline {paragraph}{3. Alvin Gouldner}{380}{paragraph*.475}%
+\contentsline {paragraph}{4. Jerry Pournelle---The Iron Law of Bureaucracy}{380}{paragraph*.476}%
+\contentsline {paragraph}{Mechanical and Organic Models of Bureaucracy}{380}{paragraph*.477}%
+\contentsline {subsection}{\numberline {8.3.8}Critique of Verstehen}{381}{subsection.8.3.8}%
+\contentsline {paragraph}{1. Crisis of Representation}{381}{paragraph*.478}%
+\contentsline {paragraph}{2. Intersubjectivity}{381}{paragraph*.479}%
+\contentsline {subsection}{\numberline {8.3.9}Comparison I: Paradigm, Tradition and Methodology}{382}{subsection.8.3.9}%
+\contentsline {paragraph}{Sociological Tradition}{383}{paragraph*.480}%
+\contentsline {paragraph}{Methodology}{384}{paragraph*.481}%
+\contentsline {subsection}{\numberline {8.3.10}Comparison II: Modernity, Division of Labour and Religion}{386}{subsection.8.3.10}%
+\contentsline {paragraph}{Subject Matter of Modernity}{387}{paragraph*.482}%
+\contentsline {paragraph}{Division of Labour}{388}{paragraph*.483}%
+\contentsline {paragraph}{Religion}{389}{paragraph*.484}%
+\contentsline {subsection}{\numberline {8.3.11}Comparison III: The Solutions They Proposed}{390}{subsection.8.3.11}%
+\contentsline {subsection}{\numberline {8.3.12}Doubts Answered at the End of Class}{391}{subsection.8.3.12}%
+\contentsline {paragraph}{How do we differentiate paradigm from methodology?}{391}{paragraph*.485}%
+\contentsline {paragraph}{Is Weber in between Durkheim and Marx when it comes to ideology?}{391}{paragraph*.486}%
+\contentsline {paragraph}{Subject matter of sociology according to Marx, in one word?}{391}{paragraph*.487}%
+\contentsline {section}{\numberline {8.4}Answer Writing, American Sociology and Talcott Parsons}{392}{section.8.4}%
+\contentsline {subsection}{\numberline {8.4.1}Answer Practice: Weber's Concepts for Analysing Legitimate Domination}{392}{subsection.8.4.1}%
+\contentsline {paragraph}{Step 1---Look at the Keywords, Not the Sentence}{392}{paragraph*.488}%
+\contentsline {paragraph}{Step 2---Define Domination}{392}{paragraph*.489}%
+\contentsline {paragraph}{Step 3---Explain How Domination Becomes Legitimate}{392}{paragraph*.490}%
+\contentsline {paragraph}{Step 4---Answer the Actual Question: Which Concepts?}{393}{paragraph*.491}%
+\contentsline {subsection}{\numberline {8.4.2}Reading the Newspaper Sociologically I: The Cult of the Topper}{394}{subsection.8.4.2}%
+\contentsline {paragraph}{The Argument of the Article, in Summary}{394}{paragraph*.492}%
+\contentsline {subsection}{\numberline {8.4.3}Reading the Newspaper Sociologically II: The Age of Instant Enlightenment}{395}{subsection.8.4.3}%
+\contentsline {subsection}{\numberline {8.4.4}The Origins of American Sociology}{396}{subsection.8.4.4}%
+\contentsline {paragraph}{The Reasons for Its Origin}{397}{paragraph*.493}%
+\contentsline {paragraph}{The Golden Triangle}{397}{paragraph*.494}%
+\contentsline {paragraph}{The Immigration Timeline Shown in Class}{398}{paragraph*.495}%
+\contentsline {subsection}{\numberline {8.4.5}The Chicago School and Its Founders}{398}{subsection.8.4.5}%
+\contentsline {paragraph}{The Founders and Their Debate}{399}{paragraph*.496}%
+\contentsline {paragraph}{The Four Challenges}{399}{paragraph*.497}%
+\contentsline {subsection}{\numberline {8.4.6}The Reformers: Jane Addams and Du Bois}{400}{subsection.8.4.6}%
+\contentsline {paragraph}{Jane Addams---Poverty and Homelessness}{400}{paragraph*.498}%
+\contentsline {paragraph}{W. E. B. Du Bois---Racism}{400}{paragraph*.499}%
+\contentsline {paragraph}{Chicago as a Laboratory}{401}{paragraph*.500}%
+\contentsline {subsection}{\numberline {8.4.7}How American Sociology Differs from European Sociology}{401}{subsection.8.4.7}%
+\contentsline {subsection}{\numberline {8.4.8}From Chicago to Harvard: Sorokin and Parsons}{402}{subsection.8.4.8}%
+\contentsline {paragraph}{Parsons versus Sorokin at Harvard}{402}{paragraph*.501}%
+\contentsline {paragraph}{How Parsons Met Weber}{403}{paragraph*.502}%
+\contentsline {subsection}{\numberline {8.4.9}Talcott Parsons: The Structure of Social Action}{403}{subsection.8.4.9}%
+\contentsline {paragraph}{The Unit Act}{403}{paragraph*.503}%
+\contentsline {paragraph}{The Marriage Example}{404}{paragraph*.504}%
+\contentsline {paragraph}{Five Choices, and How Four Were Eliminated}{405}{paragraph*.505}%
+\contentsline {subsection}{\numberline {8.4.10}Normative and Situational Constraints}{405}{subsection.8.4.10}%
+\contentsline {paragraph}{Even the Goal Is Not Yours}{406}{paragraph*.506}%
+\contentsline {paragraph}{The IAS Example: Five Means and the Constraints on Them}{407}{paragraph*.507}%
+\contentsline {subsection}{\numberline {8.4.11}The Three Influences on Parsons}{408}{subsection.8.4.11}%
+\contentsline {paragraph}{Utilitarianism}{408}{paragraph*.508}%
+\contentsline {paragraph}{The Dinner Example}{408}{paragraph*.509}%
+\contentsline {paragraph}{The Gutter Cleaner and the Limits of Historical Context}{409}{paragraph*.510}%
+\contentsline {section}{\numberline {8.5}Objectivity in Weber, and Parsons on Pattern Variables and the Social System}{409}{section.8.5}%
+\contentsline {subsection}{\numberline {8.5.1}Answer Practice: Weber's Method of Maintaining Objectivity}{409}{subsection.8.5.1}%
+\contentsline {paragraph}{Step 1---Identify the Keyword}{410}{paragraph*.511}%
+\contentsline {paragraph}{Step 2---Where Does Objectivity Come From?}{410}{paragraph*.512}%
+\contentsline {paragraph}{Step 3---The Lines to Write}{410}{paragraph*.513}%
+\contentsline {paragraph}{Step 4---The Ideal Type as the Device of Value Neutrality}{411}{paragraph*.514}%
+\contentsline {paragraph}{Step 5---Adequate Causality and the Claim to Science}{411}{paragraph*.515}%
+\contentsline {paragraph}{Step 6---The Critics}{411}{paragraph*.516}%
+\contentsline {subsection}{\numberline {8.5.2}Weber's Objectivity versus Positivist Objectivity}{413}{subsection.8.5.2}%
+\contentsline {subsection}{\numberline {8.5.3}Parsons on Orientation, and His Five Questions}{414}{subsection.8.5.3}%
+\contentsline {paragraph}{The Five Questions in Parsons' Mind}{414}{paragraph*.517}%
+\contentsline {subsection}{\numberline {8.5.4}Pattern Variables}{415}{subsection.8.5.4}%
+\contentsline {paragraph}{The Five Pattern Variables}{416}{paragraph*.518}%
+\contentsline {subsection}{\numberline {8.5.5}Significance of Pattern Variables and the Classification of Societies}{418}{subsection.8.5.5}%
+\contentsline {paragraph}{How Each Scholar Classified Society}{419}{paragraph*.519}%
+\contentsline {paragraph}{Traditional and Modern Society by Scholar}{420}{paragraph*.520}%
+\contentsline {subsection}{\numberline {8.5.6}Modes of Control and the Problem of Social Order}{420}{subsection.8.5.6}%
+\contentsline {paragraph}{A Second Application: Entering Politics}{421}{paragraph*.521}%
+\contentsline {subsection}{\numberline {8.5.7}The Social System and the Four Needs}{422}{subsection.8.5.7}%
+\contentsline {paragraph}{The Shimla Illustration}{423}{paragraph*.522}%
+\contentsline {paragraph}{The Same Applied to Indian Society after 1990}{423}{paragraph*.523}%
+\contentsline {subsection}{\numberline {8.5.8}Doubts Answered at the End of Class}{424}{subsection.8.5.8}%
+\contentsline {paragraph}{What is the difference between situational and normative constraints and the modes of control?}{424}{paragraph*.524}%
+\contentsline {paragraph}{Parsons was influenced by the idealism school of thought---is it the same idealism?}{424}{paragraph*.525}%
+\contentsline {section}{\numberline {8.6}Answer-Writing Toolkit}{425}{section.8.6}%
+\contentsline {subsection}{\numberline {8.6.1}How to Approach the Question}{425}{subsection.8.6.1}%
+\contentsline {subsection}{\numberline {8.6.2}Length, Time and the Use of Scholars}{425}{subsection.8.6.2}%
+\contentsline {subsection}{\numberline {8.6.3}Dimensions and Structure for the Two Questions Practised}{425}{subsection.8.6.3}%
+\contentsline {paragraph}{Which concept did Weber use to analyse the forms of legitimate domination? (2015, 10 marks)}{425}{paragraph*.526}%
+\contentsline {paragraph}{Examine Max Weber's method of maintaining objectivity in social research (2016)}{426}{paragraph*.527}%
+\contentsline {subsection}{\numberline {8.6.4}Keywords to Carry Into the Answer}{426}{subsection.8.6.4}%
+\contentsline {subsection}{\numberline {8.6.5}Specific Instructions Given for Particular Topics}{426}{subsection.8.6.5}%
+\contentsline {subsection}{\numberline {8.6.6}How to Read for the Examination (Stated in the Second Lecture)}{427}{subsection.8.6.6}%
+\contentsline {subsection}{\numberline {8.6.7}Applying the Syllabus to the Newspaper}{427}{subsection.8.6.7}%

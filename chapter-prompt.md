@@ -17,8 +17,8 @@
 
 | Parameter | Value |
 |---|---|
-| `CHAPTER_TITLE` | e.g. Intellectual Property Rights: TKDL and the Indian Patents Act |
-| `CHAPTER_LABEL` | short slug for `\label{ch:...}`, e.g. `tkdl-patents-act` |
+| `CHAPTER_TITLE` | e.g. Sociology as a Discipline |
+| `CHAPTER_LABEL` | short slug for `\label{ch:...}`, e.g. `sociology-discipline` |
 | `TRANSCRIPT_COUNT` | e.g. 2 |
 | `LANGUAGE_OF_OUTPUT` | English (default) / Hindi |
 
@@ -30,7 +30,7 @@ If `CHAPTER_TITLE` is blank, infer it from the transcript and state your inferen
 
 1. Output is **one LaTeX fragment**, starting with `\chapter{CHAPTER_TITLE}` and ending after the Chapter Glossary. Nothing before it, nothing after it.
 2. **Never include:** `\documentclass`, any `\usepackage`, colour/environment definitions, `\begin{document}`/`\end{document}`, a title page, `\tableofcontents`. All of that already exists once in the template's `preamble.tex` and `main.tex` — repeating it here is exactly the wasted work this prompt exists to avoid.
-3. Use **only** the environments already defined in the template's `preamble.tex`: `KeyConcept`, `DataFact`, `GovtPolicy`, `CriticalPoint`, `ExampleBox`, `ComparisonBox`, `PYQLink`, `QuickRevision`, plus the standard `itemize`/`enumerate`/`tabularx`/`\paragraph{Label.}`. Do not invent a new box type — if content doesn't fit the eight categories, use plain prose or a bullet instead.
+3. Use **only** the environments already defined in the template's `preamble.tex`: `KeyConcept`, `DataFact`, `TheoristView`, `CriticalAnalysis`, `CaseStudy`, `ComparisonBox`, `DebateBox`, `IndianContext`, `PYQLink`, `QuickRevision`, plus the standard `itemize`/`enumerate`/`tabularx`/`\paragraph{Label.}`. Do not invent a new box type — if content doesn't fit the eleven categories, use plain prose or a bullet instead.
 4. Structure levels are fixed by the template: `\chapter` (this whole file, used once) → `\section` (sub-topics) → `\subsection` (sub-sub-topics). Do not use `\subsubsection` — the template only styles down to `\subsection`.
 5. Show the full fragment as one fenced code block. No partial output, no "continue similarly" placeholders.
 6. No brand names, channel names, teacher names, or platform references anywhere, including comments.
@@ -40,13 +40,13 @@ If `CHAPTER_TITLE` is blank, infer it from the transcript and state your inferen
 
 ## PART 2 — TRANSCRIPT INTAKE & CLEANING
 
-**Always keep:** every fact, figure, statistic, percentage, rank, year, date; every name — person, committee, commission, report, act, scheme, treaty, organisation, court case, article/section number; every definition, cause, consequence, advantage, limitation, criticism; every example, analogy, anecdote, case study; every mnemonic or memory hook; every answer-writing instruction; every exam-relevance remark or PYQ reference; every student doubt and its answer.
+**Always keep:** every fact, figure, statistic, percentage, rank, year, date; every name — person, thinker, sociologist, committee, commission, report, act, scheme, treaty, organisation, court case, article/section number; every definition, cause, consequence, advantage, limitation, criticism; every example, analogy, anecdote, case study; every mnemonic or memory hook; every answer-writing instruction; every exam-relevance remark or PYQ reference; every student doubt and its answer; every sociological perspective or theoretical viewpoint.
 
 **Always drop:** greetings, attendance/audio checks, class logistics, batch/app promotion, subscribe/like requests, filler and repetition (keep only the corrected version of a self-correction), off-topic chit-chat. Dropping noise is not an exception to zero-information-loss — zero loss applies to substance, and noise carries none.
 
-**ASR errors:** fix silently when unambiguous from context (restore official spellings of acts, schemes, articles, committees, organisations, place names). Never substitute what you believe is factually correct for what the teacher actually said — reproduce the teacher's stated figure even if you think it's wrong. If a term is unsafe to reconstruct, write your best reading + `[as stated in lecture]` and flag it in the delivery note.
+**ASR errors:** fix silently when unambiguous from context (restore official spellings of thinker names, sociological terms, acts, schemes, articles, committees, organisations, place names). Never substitute what you believe is factually correct for what the teacher actually said — reproduce the teacher's stated figure even if you think it's wrong. If a term is unsafe to reconstruct, write your best reading + `[as stated in lecture]` and flag it in the delivery note.
 
-**Translation:** entirely in `LANGUAGE_OF_OUTPUT`, formal register. Preserve untranslated: act names, scheme names, article/section numbers, committee names, report titles, organisation names, legal maxims, and any Hindi term the teacher explicitly glosses. Keep Indian numbering alongside a readable form: `\rupee 1.5 lakh crore`. Preserve emphasis force. Translate analogies faithfully — don't substitute your own.
+**Translation:** entirely in `LANGUAGE_OF_OUTPUT`, formal register. Preserve untranslated: act names, scheme names, article/section numbers, committee names, report titles, organisation names, legal maxims, sociological terms of art (e.g. Gemeinschaft, Gesellschaft, anomie), and any Hindi term the teacher explicitly glosses. Keep Indian numbering alongside a readable form: `\rupee 1.5 lakh crore`. Preserve emphasis force. Translate analogies faithfully — don't substitute your own.
 
 **Uncertainty:** never guess to fill a gap. Write what is recoverable, flag the gap in the delivery note.
 
@@ -56,7 +56,7 @@ If `CHAPTER_TITLE` is blank, infer it from the transcript and state your inferen
 
 ## PART 3 — EXTRACTION PROTOCOL
 
-**Pass 1 — Ledger (internal, not in the output):** read the transcript(s) start to finish; list every extractable item in order, tagged `DEF` `FACT` `NAME` `CAUSE` `EFFECT` `EX` `CMP` `CRIT` `SOL` `EXAM` `TERM`. One line per item, no compression.
+**Pass 1 — Ledger (internal, not in the output):** read the transcript(s) start to finish; list every extractable item in order, tagged `DEF` `FACT` `NAME` `CAUSE` `EFFECT` `EX` `CMP` `CRIT` `SOL` `EXAM` `TERM` `THEORY` `DEBATE` `INDIA`. One line per item, no compression.
 
 **Pass 2 — Write the chapter:** convert every ledger line into content, in ledger order. No line may vanish.
 
@@ -97,7 +97,7 @@ If `CHAPTER_TITLE` is blank, infer it from the transcript and state your inferen
 ```
 
 - Every `\section` ends with a `QuickRevision` note before the next `\section` starts — mandatory, same as the full master prompt.
-- `\paragraph{Label.}` (run-in, bold italic) is for a single named provision worth calling out by name (e.g. "Section 3(p)."), not a heading level of its own.
+- `\paragraph{Label.}` (run-in, bold italic) is for a single named provision or thinker's specific contribution worth calling out by name (e.g. "Durkheim on Suicide.", "Section 3(p)."), not a heading level of its own.
 - If the lecture gave answer-writing guidance (dimensions, keywords, intro/conclusion lines, diagram suggestions), add a `\section*{Answer-Writing Pointers}` (same `\addcontentsline` treatment as Glossary) before the Chapter Glossary. Omit it entirely if the lecture had none — don't manufacture one.
 - No `\clearpage`, no `\sectiondivider` needed inside a chapter — `\chapter` already forces a fresh page in the template, and a divider between `\section`s within one chapter usually just adds clutter. Only reach for `\sectiondivider` if a chapter has a genuinely large tonal break mid-way (rare).
 
@@ -107,14 +107,16 @@ If `CHAPTER_TITLE` is blank, infer it from the transcript and state your inferen
 
 | When the teacher… | Use |
 |---|---|
-| Defines a term or explains a core idea | `KeyConcept` |
-| States a number, statistic, rank, date, index position | `DataFact` |
-| Names a scheme, act, committee, article, policy, treaty, judgment | `GovtPolicy` |
-| Names one specific numbered provision worth setting off | `\paragraph{Label.}` run-in, then normal text |
-| Flags exam importance or draws a fine distinction | `CriticalPoint` |
-| Gives a real-world example, case study, or analogy | `ExampleBox` |
-| Compares 2+ items on 1–2 attributes | `ComparisonBox` |
+| Defines a term or explains a core sociological idea | `KeyConcept` |
+| States a number, statistic, rank, date, index position, census data | `DataFact` |
+| Presents a thinker's perspective — Durkheim, Weber, Marx, Merton, etc. | `TheoristView` |
+| Names one specific thinker's contribution worth setting off | `\paragraph{Label.}` run-in, then normal text |
+| Draws a fine distinction, flags exam importance, or offers a critical evaluation | `CriticalAnalysis` |
+| Gives a real-world example, case study, ethnographic instance, or analogy | `CaseStudy` |
+| Compares 2+ items on 1–2 attributes (e.g. functionalism vs conflict theory) | `ComparisonBox` |
 | Compares 2+ items on 3+ attributes | Plain `tabularx` comparison table (booktabs rules, `Y` columns, no colour fill — matches the template) |
+| Presents opposing sociological perspectives or a contested debate | `DebateBox` |
+| Discusses India-specific sociological phenomena (caste, tribe, village, kinship, etc.) | `IndianContext` |
 | Mentions a past-year question or exam framing | `PYQLink` |
 | Ends a `\section` | `QuickRevision` (mandatory) |
 | Explains a process, chain, or sequence of stages | `enumerate`, one stage per `\item` |

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.26)  4 SEP 2026 21:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.26)  27 SEP 2026 15:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -712,7 +712,7 @@ File: t1bch.fd 2004/10/18 font definitions for T1/bch.
 ) (C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count362
-) (main.aux (chapters/01-the-sociological-perspective-and-modernity.aux) (chapters/02-emergence-theoretical-foundations-and-scope.aux) (chapters/03-sociology-as-science.aux) (chapters/04-critiques-of-positivism-objectivity-durkheim.aux) (chapters/05-religion-suicide-and-the-foundations-of-marxism.aux) (chapters/06-karl-marx-historical-materialism-class-struggle-and-alienation.aux) (chapters/07-marx-durkheim-weber-pyq-methodology.aux) (chapters/08-max-weber-and-talcott-parsons.aux))
+) (main.aux (chapters/01-the-sociological-perspective-and-modernity.aux) (chapters/02-emergence-theoretical-foundations-and-scope.aux) (chapters/03-sociology-as-science.aux) (chapters/04-critiques-of-positivism-objectivity-durkheim.aux) (chapters/05-religion-suicide-and-the-foundations-of-marxism.aux) (chapters/06-karl-marx-historical-materialism-class-struggle-and-alienation.aux) (chapters/07-marx-durkheim-weber-pyq-methodology.aux) (chapters/08-max-weber-and-talcott-parsons.aux) (chapters/09-talcott-parsons-robert-merton.aux) (chapters/10-merton-mead-religions.aux) (chapters/11-secularism-politics.aux) (chapters/12-civil-society-stratification.aux) (chapters/13-social-change-development-work.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
@@ -841,18 +841,22 @@ Underfull \vbox (badness 1292) has occurred while \output is active []
  [4]
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.95> not available
 (Font)              Font shape `T1/phv/m/sl' tried instead on input line 301.
- [5] [6] [7] [8] [9] [10])
+ [5] [6] [7] [8] [9] [10] [11]
+Underfull \vbox (badness 1292) has occurred while \output is active []
+
+ [12] [13]
+Overfull \hbox (1.6879pt too wide) detected at line 1129
+\T1/bch/m/n/10.95 12.4.10 
+ []
+
+)
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
- [11]
+ [14]
 \openout2 = `chapters/01-the-sociological-perspective-and-modernity.aux'.
 
- (chapters/01-the-sociological-perspective-and-modernity.tex [12
-
-
-
-]
+ (chapters/01-the-sociological-perspective-and-modernity.tex
 Chapter 1.
 LaTeX Font Info:    Font shape `T1/phv/b/it' in size <10.95> not available
 (Font)              Font shape `T1/phv/b/sl' tried instead on input line 10.
@@ -864,30 +868,34 @@ File: ts1bch.fd 2004/10/18 font definitions for TS1/bch.
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [13]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+ [15
 
- [14]
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [15]
-LaTeX Font Info:    Font shape `T1/phv/b/it' in size <10.5> not available
-(Font)              Font shape `T1/phv/b/sl' tried instead on input line 144.
 
+]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [16]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [17]
+LaTeX Font Info:    Font shape `T1/phv/b/it' in size <10.5> not available
+(Font)              Font shape `T1/phv/b/sl' tried instead on input line 144.
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [18]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [19]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [20]
 LaTeX Font Info:    Calculating math sizes for size <10.4> on input line 243.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [19]
+ [21]
 Underfull \hbox (badness 2582) in paragraph at lines 279--280
 []\T1/bch/m/n/10.4 (+20) Individual abil-ity or cre-ativ-ity was not acknowledged---painters could only paint
  []
@@ -900,26 +908,15 @@ Underfull \hbox (badness 1789) in paragraph at lines 288--289
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [20]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [21]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
  [22]
-Overfull \hbox (7.87978pt too wide) in paragraph at lines 358--359
-\T1/bch/m/n/10.95 (-20) Enlightenment (``age of rea-son'') again in-volves man us-ing rea-son, ob-ser-va-tion and experimentation---
- []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [23]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [24]
-Underfull \hbox (badness 1215) in paragraph at lines 453--454
-[]\T1/bch/b/n/10.4 (+20) Post-Fordism \T1/bch/m/n/10.4 (+20) (men-tioned in pass-ing, to be de-vel-oped later in the syl-labus un-der
+Overfull \hbox (7.87978pt too wide) in paragraph at lines 358--359
+\T1/bch/m/n/10.95 (-20) Enlightenment (``age of rea-son'') again in-volves man us-ing rea-son, ob-ser-va-tion and experimentation---
  []
 
 
@@ -929,6 +926,17 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [26]
+Underfull \hbox (badness 1215) in paragraph at lines 453--454
+[]\T1/bch/b/n/10.4 (+20) Post-Fordism \T1/bch/m/n/10.4 (+20) (men-tioned in pass-ing, to be de-vel-oped later in the syl-labus un-der
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [27]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [28]
 Underfull \hbox (badness 3428) in paragraph at lines 523--523
 \T1/bch/m/n/10.95 (+20) (earls, dukes, knights,
  []
@@ -951,24 +959,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 523--523
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [27]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [28]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
  [29]
-Overfull \hbox (210.01471pt too wide) detected at line 600
-[] [][]\OMS/cmsy/m/n/10.95 ! [] [][]! [] [][]! [] [][]! [] [][]! [] [][]! []
- []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [30]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [31]
+Overfull \hbox (210.01471pt too wide) detected at line 600
+[] [][]\OMS/cmsy/m/n/10.95 ! [] [][]! [] [][]! [] [][]! [] [][]! [] [][]! []
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [32]
@@ -989,10 +991,16 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [37]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [38]) [39]
+ [38]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [39]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [40]) [41]
 \openout2 = `chapters/02-emergence-theoretical-foundations-and-scope.aux'.
 
- (chapters/02-emergence-theoretical-foundations-and-scope.tex [40
+ (chapters/02-emergence-theoretical-foundations-and-scope.tex [42
 
 
 
@@ -1002,18 +1010,12 @@ Chapter 2.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [41]
+ [43]
 Overfull \hbox (107.72546pt too wide) detected at line 44
 [] [][]\OMS/cmsy/m/n/10.95 ! [] [][]! [] [][]! [] [][]! []
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [42]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [43]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [44]
@@ -1062,17 +1064,17 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [59]
-Overfull \hbox (6.50192pt too wide) detected at line 730
-[] \OT1/cmr/m/n/10 = [][] + [][]
- []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [60]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [61]
+Overfull \hbox (6.50192pt too wide) detected at line 730
+[] \OT1/cmr/m/n/10 = [][] + [][]
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [62]
@@ -1081,10 +1083,16 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [63]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [64]) [65]
+ [64]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [65]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [66]) [67]
 \openout2 = `chapters/03-sociology-as-science.aux'.
 
- (chapters/03-sociology-as-science.tex [66
+ (chapters/03-sociology-as-science.tex [68
 
 
 
@@ -1092,12 +1100,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 ]
 Chapter 3.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [67]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [68]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [69]
@@ -1179,17 +1181,17 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [95]
-Underfull \hbox (badness 10000) in paragraph at lines 1015--1015
-[]|\T1/bch/b/n/10.95 (+20) Newton's grav-i-ta-
- []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [96]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [97]
+Underfull \hbox (badness 10000) in paragraph at lines 1015--1015
+[]|\T1/bch/b/n/10.95 (+20) Newton's grav-i-ta-
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [98]
@@ -1199,6 +1201,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [100]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [101]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [102]
 Underfull \hbox (badness 6944) in paragraph at lines 1179--1179
 []|\T1/bch/b/n/10.95 (+20) Light con-sists of
  []
@@ -1231,12 +1239,6 @@ Overfull \hbox (139.89839pt too wide) in paragraph at lines 1169--1181
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [101]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [102]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
  [103]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -1265,17 +1267,17 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [112]
-Underfull \hbox (badness 6094) in paragraph at lines 1588--1589
-[]\T1/bch/m/n/10.4 (+20) Diagram: $[] [][]\OMS/cmsy/m/n/10 ! [] [][]!
- []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [113]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [114]
+Underfull \hbox (badness 6094) in paragraph at lines 1588--1589
+[]\T1/bch/m/n/10.4 (+20) Diagram: $[] [][]\OMS/cmsy/m/n/10 ! [] [][]!
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [115]
@@ -1309,6 +1311,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [125]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [126]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [127]
 Underfull \hbox (badness 10000) in paragraph at lines 2047--2047
 []|\T1/bch/b/n/10.95 (+20) Metaphysical
  []
@@ -1321,10 +1329,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 2047--2047
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [126]
+ [128]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [127]
+ [129]
 Underfull \hbox (badness 10000) in paragraph at lines 2146--2146
 []|\T1/bch/b/n/10.95 (+20) Non-Positivism \T1/bch/m/n/10.95 (+20) (Max
  []
@@ -1347,15 +1355,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 2146--2146
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [128]
+ [130]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [129]
+ [131]
 Overfull \hbox (1.59973pt too wide) in paragraph at lines 2203--2204
 \T1/bch/m/n/10.95 (-20) method-olo-gies (plu-ral) = Anti-positivism (Phe-nomenol-ogy, Eth-nomethod-ol-ogy, SI, Dra-maturgy)
  []
 
-) [130]
+) [132]
 \openout2 = `chapters/04-critiques-of-positivism-objectivity-durkheim.aux'.
 
  (chapters/04-critiques-of-positivism-objectivity-durkheim.tex
@@ -1368,7 +1376,7 @@ Overfull \hbox (27.95425pt too wide) in paragraph at lines 5--5
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [131
+ [133
 
 
 
@@ -1376,26 +1384,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [132]
+ [134]
 Underfull \hbox (badness 1237) in paragraph at lines 77--78
 []\T1/bch/m/n/10.4 (+20) The cul-tural in-dus-try mass-produces stan-dard-ized cul-tural com-modi-ties via pseudo-
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-Package fancyhdr Warning: \headheight is too small (21.0pt): 
-(fancyhdr)                Make it at least 21.08394pt, for example:
-(fancyhdr)                \setlength{\headheight}{21.08394pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-0.08394pt}.
-
-[133]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [134]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -1449,11 +1443,6 @@ Package fancyhdr Warning: \headheight is too small (21.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.08394pt}.
 
 [141]
-Overfull \hbox (80.212pt too wide) detected at line 379
-[] [][]\OMS/cmsy/m/n/10 !" [] [][]! [] [][]! [] [][]!" [] [][]! []
- []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [142]
@@ -1468,18 +1457,8 @@ Package fancyhdr Warning: \headheight is too small (21.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.08394pt}.
 
 [143]
-Underfull \hbox (badness 10000) in paragraph at lines 439--439
-[]|\T1/phv/b/n/10 (+20) Collective Con-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 439--439
-[]|\T1/bch/b/n/10.95 (+20) Repressive Law
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 439--439
-[]|\T1/bch/b/n/10.95 (+20) Restitutive Law
+Overfull \hbox (80.212pt too wide) detected at line 379
+[] [][]\OMS/cmsy/m/n/10 !" [] [][]! [] [][]! [] [][]!" [] [][]! []
  []
 
 
@@ -1497,6 +1476,21 @@ Package fancyhdr Warning: \headheight is too small (21.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.08394pt}.
 
 [145]
+Underfull \hbox (badness 10000) in paragraph at lines 439--439
+[]|\T1/phv/b/n/10 (+20) Collective Con-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 439--439
+[]|\T1/bch/b/n/10.95 (+20) Repressive Law
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 439--439
+[]|\T1/bch/b/n/10.95 (+20) Restitutive Law
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [146]
@@ -1525,11 +1519,25 @@ Package fancyhdr Warning: \headheight is too small (21.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.08394pt}.
 
 [149]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [150]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (21.0pt): 
+(fancyhdr)                Make it at least 21.08394pt, for example:
+(fancyhdr)                \setlength{\headheight}{21.08394pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-0.08394pt}.
+
+[151]
 Overfull \hbox (5.86398pt too wide) in paragraph at lines 640--641
 []\T1/bch/b/n/10.95 (-20) Step 3 --- Non-Positivist Refu-ta-tion: \T1/bch/m/n/10.95 (-20) No, so-cial re-al-ity is sub-jec-tive, fluid, and non-deterministic;
  []
 
-) [150]
+) [152]
 \openout2 = `chapters/05-religion-suicide-and-the-foundations-of-marxism.aux'.
 
  (chapters/05-religion-suicide-and-the-foundations-of-marxism.tex
@@ -1537,7 +1545,7 @@ Chapter 5.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [151
+ [153
 
 
 
@@ -1545,10 +1553,10 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [152]
+ [154]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [153]
+ [155]
 Overfull \hbox (76.28667pt too wide) detected at line 119
 [] [][]\OMS/cmsy/m/n/10 ! [] [][]! [] [][]! []
  []
@@ -1556,31 +1564,31 @@ Overfull \hbox (76.28667pt too wide) detected at line 119
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [154]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [155]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
  [156]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [157]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [158]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [159]
 LaTeX Font Info:    Font shape `T1/phv/b/it' in size <13> not available
 (Font)              Font shape `T1/phv/b/sl' tried instead on input line 252.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [158] [159]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [160]
-Underfull \vbox (badness 2134) has occurred while \output is active []
-
- [161]
+ [160] [161]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [162]
+Underfull \vbox (badness 2134) has occurred while \output is active []
+
+ [163]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [164]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\leavevmode@ifvmode' on input line 416.
@@ -1593,10 +1601,10 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [163]
+ [165]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [164]
+ [166]
 Overfull \hbox (1.98242pt too wide) in paragraph at lines 498--498
 []|\T1/bch/b/n/10 (-20) Descriptive/Hermeneutic: 
  []
@@ -1604,31 +1612,31 @@ Overfull \hbox (1.98242pt too wide) in paragraph at lines 498--498
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [165] [166]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [167]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [168]
+ [167] [168]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [169]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [170] [171]
+ [170]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [172]
+ [171]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [173]
+ [172] [173]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [174] [175])
+ [174]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [175]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [176] [177])
 \openout2 = `chapters/06-karl-marx-historical-materialism-class-struggle-and-alienation.aux'.
 
- (chapters/06-karl-marx-historical-materialism-class-struggle-and-alienation.tex [176
+ (chapters/06-karl-marx-historical-materialism-class-struggle-and-alienation.tex [178
 
 
 
@@ -1637,12 +1645,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 ]
 Chapter 6.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [177]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [178]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [179]
@@ -1655,20 +1657,20 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [182]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [183]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [184]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [183]
-Underfull \vbox (badness 4832) has occurred while \output is active []
-
- [184]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
  [185]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 4832) has occurred while \output is active []
 
  [186]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1688,13 +1690,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [191]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [192] [193]
+ [192]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [194]
+ [193]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [195]
+ [194] [195]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [196]
@@ -1725,35 +1727,31 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [205]
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [206]
-Underfull \vbox (badness 4254) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [207]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [208]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [209]
-
-LaTeX Warning: Float too large for page by 51.64299pt on input line 1283.
-
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [208]
+Underfull \vbox (badness 4254) has occurred while \output is active []
+
+ [209]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [210]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [211]
+
+LaTeX Warning: Float too large for page by 51.64299pt on input line 1283.
+
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
@@ -1774,35 +1772,45 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [215]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [216]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [216]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [217]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [218]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [219]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [220]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [219]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [220]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [221]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [222]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [223]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [224]
 Underfull \hbox (badness 10000) in paragraph at lines 1857--1858
 []$\OML/cmm/m/it/10 C \OT1/cmr/m/n/10 = []$\T1/bch/m/n/10.4 (+20) ; $\OML/cmm/m/it/10 V \OT1/cmr/m/n/10 =
  []
@@ -1815,20 +1823,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 1857--1858
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [223]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [224]
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
  [225]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [226]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [227]
@@ -1859,16 +1861,16 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [236]
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [237]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [238]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [239]
@@ -1893,16 +1895,16 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [246]
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [247]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [248]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [249]
@@ -1915,16 +1917,16 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [252]
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [253]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [254]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [255]
@@ -1949,16 +1951,16 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [262]
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [263]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [264]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [265]
@@ -1971,19 +1973,19 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [268]
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [269]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [270]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [271]
@@ -2008,16 +2010,16 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [278]
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [279]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [280]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [281]
@@ -2035,10 +2037,16 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [285]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [286]) [287] [288] [289] [290] [291] [292] [293]
+ [286]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [287]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [288]) [289] [290] [291] [292] [293] [294] [295]
 \openout2 = `chapters/07-marx-durkheim-weber-pyq-methodology.aux'.
 
- (chapters/07-marx-durkheim-weber-pyq-methodology.tex [294
+ (chapters/07-marx-durkheim-weber-pyq-methodology.tex [296
 
 
 
@@ -2046,12 +2054,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 ]
 Chapter 7.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [295]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [296]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [297]
@@ -2073,6 +2075,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [303]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [304]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [305]
 Underfull \hbox (badness 10000) in paragraph at lines 362--362
 []|\T1/phv/b/n/10 (+20) Analytical Di-men-
  []
@@ -2085,13 +2093,13 @@ Underfull \hbox (badness 1412) in paragraph at lines 362--362
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [304] [305]
+ [306] [307]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [306]
+ [308]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [307]
+ [309]
 Underfull \hbox (badness 10000) in paragraph at lines 525--525
 []|\T1/bch/b/n/10.95 (+20) Adorno, Horkheimer,
  []
@@ -2099,10 +2107,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 525--525
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [308]
+ [310]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [309]
+ [311]
 Underfull \hbox (badness 2393) in paragraph at lines 597--597
 []|\T1/bch/b/n/10.95 (+20) Foundational Fo-
  []
@@ -2112,13 +2120,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 597--597
 []|\T1/bch/b/n/10.95 (+20) Core Epis-te-mol-
  []
 
-[310]
+[312]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [311]
+ [313]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [312]
+ [314]
 Underfull \hbox (badness 10000) in paragraph at lines 728--728
 []|\T1/bch/b/n/10.95 (+20) Key Rep-re-sen-ta-
  []
@@ -2128,7 +2136,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 728--728
 []|\T1/bch/b/n/10.95 (+20) Methodological
  []
 
-[313]
+[315]
 Overfull \hbox (10.54529pt too wide) in paragraph at lines 751--752
 \T1/bch/m/n/10.95 (-20) Weber drew a fun-da-men-tal an-a-lyt-i-cal dis-tinc-tion be-tween \T1/bch/b/n/10.95 (-20) Power \T1/bch/m/n/10.95 (-20) (\T1/bch/m/it/10.95 (-20) Macht\T1/bch/m/n/10.95 (-20) ) and \T1/bch/b/n/10.95 (-20) Dom-i-na-tion/Authority
  []
@@ -2146,18 +2154,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 776--776
 
 Underfull \vbox (badness 3657) has occurred while \output is active []
 
- [314]
+ [316]
 Underfull \hbox (badness 10000) in paragraph at lines 817--817
 []|\T1/bch/b/n/10.95 (+20) Epistemological
  []
 
-[315]
+[317]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [316] [317]
+ [318] [319]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [318]
+ [320]
 Underfull \hbox (badness 1616) in paragraph at lines 1010--1010
 []|\T1/phv/b/n/10 (+20) Historical / Po-lit-i-cal Move-
  []
@@ -2175,21 +2183,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 1033--1033
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [319]
+ [321]
 Underfull \vbox (badness 2158) has occurred while \output is active []
 
- [320] [321]
+ [322] [323]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [322]
+ [324]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [323]
+ [325]
 Underfull \hbox (badness 7486) in paragraph at lines 1229--1229
 []|\T1/bch/b/n/10.95 (+20) Non-Human Tech-
  []
 
-[324]
+[326]
 Underfull \hbox (badness 10000) in paragraph at lines 1282--1282
 []|\T1/bch/b/n/10.95 (+20) Mass Me-dia &
  []
@@ -2197,7 +2205,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1282--1282
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [325]
+ [327]
 Underfull \hbox (badness 3138) in paragraph at lines 1337--1337
 []|\T1/bch/b/n/10.95 (+20) Practical Ra-tio-nal-
  []
@@ -2212,13 +2220,13 @@ Underfull \hbox (badness 4505) in paragraph at lines 1337--1337
 []|\T1/bch/b/n/10.95 (+20) Substantive Ra-tio-
  []
 
-[326]
+[328]
 Underfull \vbox (badness 4242) has occurred while \output is active []
 
- [327]
+ [329]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [328]
+ [330]
 Underfull \hbox (badness 2435) in paragraph at lines 1456--1456
 []|\T1/bch/b/n/10.95 (+20) Charismatic Au-thor-
  []
@@ -2231,7 +2239,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1456--1456
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [329]
+ [331]
 Underfull \hbox (badness 10000) in paragraph at lines 1490--1490
 []|\T1/bch/b/n/10.95 (+20) Affective & Value-
  []
@@ -2241,10 +2249,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 1490--1490
 []|\T1/bch/b/n/10.95 (+20) Goal-Rational Ac-tion
  []
 
-[330]
+[332]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [331]) [332]
+ [333]) [334]
 \openout2 = `chapters/08-max-weber-and-talcott-parsons.aux'.
 
  (chapters/08-max-weber-and-talcott-parsons.tex
@@ -2252,7 +2260,7 @@ Chapter 8.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [333
+ [335
 
 
 
@@ -2260,18 +2268,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [334]
+ [336]
 Overfull \hbox (4.67802pt too wide) in paragraph at lines 89--90
 []\T1/bch/m/n/10.95 (-20) In the Greek texts one finds a con-nec-tion es-tab-lished be-tween the Greek and In-dian civilisations---
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [335]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [336]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [337]
@@ -2317,17 +2319,17 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [351]
-Underfull \hbox (badness 10000) in alignment at lines 569--569
-[][][] 
- []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [352]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [353]
+Underfull \hbox (badness 10000) in alignment at lines 569--569
+[][][] 
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [354]
@@ -2343,6 +2345,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [358]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [359]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [360]
 Underfull \hbox (badness 10000) in alignment at lines 809--809
 [][][] 
  []
@@ -2355,13 +2363,13 @@ Overfull \hbox (100.93008pt too wide) in paragraph at lines 797--811
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [359]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [360]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
  [361]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [362]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [363]
 Underfull \hbox (badness 10000) in alignment at lines 904--904
 [][][] 
  []
@@ -2369,16 +2377,16 @@ Underfull \hbox (badness 10000) in alignment at lines 904--904
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [362]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [363]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
  [364]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [365]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [366]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [367]
 Underfull \hbox (badness 10000) in alignment at lines 1033--1033
 [][][] 
  []
@@ -2391,7 +2399,7 @@ Overfull \hbox (134.20705pt too wide) in paragraph at lines 1021--1035
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [366]
+ [368]
 Overfull \hbox (131.67589pt too wide) in paragraph at lines 1073--1089
  []\T1/phv/b/sl/10.5 (-20) The Dharma of Each Varna[] []
  []
@@ -2399,13 +2407,13 @@ Overfull \hbox (131.67589pt too wide) in paragraph at lines 1073--1089
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [367]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [368]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
  [369]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [370]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [371]
 Overfull \hbox (1.31198pt too wide) in paragraph at lines 1160--1160
 |[]\T1/phv/b/n/13 (-20) Critique of Max We-ber and the Com-par-i-son of Marx, We-ber and Durkheim| 
  []
@@ -2416,12 +2424,6 @@ Underfull \hbox (badness 10000) in alignment at lines 1198--1198
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [370]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [371]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [372]
@@ -2440,6 +2442,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [377]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [378]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [379]
 Underfull \hbox (badness 10000) in paragraph at lines 1402--1403
 []\T1/bch/m/n/10.4 (+20) Four crit-ics: Tawney (spirit ab-sorbed, ori-gin in ra-tio-nal-ity from Ref-or-ma-
  []
@@ -2447,10 +2455,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 1402--1403
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [378]
+ [380]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [379]
+ [381]
 Underfull \hbox (badness 10000) in alignment at lines 1467--1467
 [][][] 
  []
@@ -2463,13 +2471,13 @@ Overfull \hbox (234.91483pt too wide) in paragraph at lines 1453--1469
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [380]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [381]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
  [382]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [383]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [384]
 Overfull \hbox (68.02394pt too wide) in paragraph at lines 1556--1570
  []\T1/phv/b/sl/10.5 (-20) Method-ol-ogy[] []
  []
@@ -2477,13 +2485,13 @@ Overfull \hbox (68.02394pt too wide) in paragraph at lines 1556--1570
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [383]
+ [385]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [384]
+ [386]
 Overfull \vbox (59.43742pt too high) has occurred while \output is active []
 
- [385]
+ [387]
 Overfull \hbox (137.59352pt too wide) in paragraph at lines 1591--1605
  []\T1/phv/b/sl/10.5 (-20) Sub-ject Mat-ter of Moder-nity[] []
  []
@@ -2491,7 +2499,7 @@ Overfull \hbox (137.59352pt too wide) in paragraph at lines 1591--1605
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [386]
+ [388]
 Overfull \hbox (93.06578pt too wide) in paragraph at lines 1613--1623
  []\T1/phv/b/sl/10.5 (-20) Di-vi-sion of Labour[] []
  []
@@ -2499,18 +2507,12 @@ Overfull \hbox (93.06578pt too wide) in paragraph at lines 1613--1623
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [387]
+ [389]
 Overfull \hbox (44.59354pt too wide) in paragraph at lines 1631--1645
  []\T1/phv/b/sl/10.5 (-20) Re-li-gion[] []
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [388]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [389]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [390]
@@ -2532,6 +2534,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [396]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [397]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [398]
 Overfull \hbox (204.2342pt too wide) in paragraph at lines 1886--1908
  []\T1/phv/b/sl/10.5 (-20) The Im-mi-gra-tion Time-line Shown in Class[] []
  []
@@ -2539,18 +2547,12 @@ Overfull \hbox (204.2342pt too wide) in paragraph at lines 1886--1908
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [397]
+ [399]
 Underfull \hbox (badness 5231) in paragraph at lines 1918--1919
 []\T1/bch/m/n/10.4 (+20) Immigration pro-duced ur-ban-iza-tion and anomie---crime, poverty, homelessness---
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [398]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [399]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [400]
@@ -2563,19 +2565,14 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [403]
-Overfull \hbox (220.52414pt too wide) in paragraph at lines 2087--2105
- []\T1/phv/b/sl/10.5 (-20) Five Choices, and How Four Were Elim-i-nated[] []
- []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [404]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [405]
-Overfull \hbox (289.80086pt too wide) in paragraph at lines 2135--2153
- []\T1/phv/b/sl/10.5 (-20) The IAS Ex-am-ple: Five Means and the Con-straints on Them[] []
+Overfull \hbox (220.52414pt too wide) in paragraph at lines 2087--2105
+ []\T1/phv/b/sl/10.5 (-20) Five Choices, and How Four Were Elim-i-nated[] []
  []
 
 
@@ -2585,12 +2582,23 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [407]
+Overfull \hbox (289.80086pt too wide) in paragraph at lines 2135--2153
+ []\T1/phv/b/sl/10.5 (-20) The IAS Ex-am-ple: Five Means and the Con-straints on Them[] []
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [408]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [409]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [410]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [411]
 Underfull \hbox (badness 10000) in alignment at lines 2260--2260
 [][][] 
  []
@@ -2603,10 +2611,10 @@ Overfull \hbox (271.36426pt too wide) in paragraph at lines 2248--2262
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [410]
+ [412]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [411]
+ [413]
 Underfull \hbox (badness 10000) in alignment at lines 2313--2313
 [][][] 
  []
@@ -2614,13 +2622,13 @@ Underfull \hbox (badness 10000) in alignment at lines 2313--2313
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [412]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [413]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
  [414]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [415]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [416]
 Overfull \hbox (129.72115pt too wide) in paragraph at lines 2377--2395
  []\T1/phv/b/sl/10.5 (-20) The Five Pat-tern Vari-ables[] []
  []
@@ -2628,13 +2636,13 @@ Overfull \hbox (129.72115pt too wide) in paragraph at lines 2377--2395
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [415]
+ [417]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [416]
+ [418]
 Overfull \vbox (242.13689pt too high) has occurred while \output is active []
 
- [417]
+ [419]
 Underfull \hbox (badness 3977) in paragraph at lines 2406--2407
 []\T1/bch/m/n/10.4 (+20) The five pairs: as-crip-tion/achievement, af-fec-tiv-ity/affective neu-tral-ity, par-tic-u-lar-
  []
@@ -2642,7 +2650,7 @@ Underfull \hbox (badness 3977) in paragraph at lines 2406--2407
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [418]
+ [420]
 Overfull \hbox (181.80515pt too wide) in paragraph at lines 2429--2445
  []\T1/phv/b/sl/10.5 (-20) How Each Scholar Clas-si-fied So-ci-ety[] []
  []
@@ -2655,10 +2663,10 @@ Overfull \hbox (208.38196pt too wide) in paragraph at lines 2453--2467
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [419]
+ [421]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [420]
+ [422]
 Overfull \hbox (195.91086pt too wide) in paragraph at lines 2493--2509
  []\T1/phv/b/sl/10.5 (-20) A Sec-ond Ap-pli-ca-tion: En-ter-ing Pol-i-tics[] []
  []
@@ -2666,18 +2674,12 @@ Overfull \hbox (195.91086pt too wide) in paragraph at lines 2493--2509
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [421]
+ [423]
 Overfull \hbox (113.08954pt too wide) in paragraph at lines 2539--2555
  []\T1/phv/b/sl/10.5 (-20) The Shimla Il-lus-tra-tion[] []
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [422]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [423]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [424]
@@ -2686,28 +2688,526 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [425]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [426]) [427] 
+ [426]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [427]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [428]) [429]
+\openout2 = `chapters/09-talcott-parsons-robert-merton.aux'.
+
+ (chapters/09-talcott-parsons-robert-merton.tex [430
+
+
+
+
+]
+Chapter 9.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [431]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [432]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [433]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [434]
+Underfull \hbox (badness 10000) in paragraph at lines 198--198
+[]|\T1/bch/m/n/10.95 (-7) Coordinating/integrating
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 198--198
+[]|\T1/bch/m/n/10.95 (+20) Religion, ed-u-ca-
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [435]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [436]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [437]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [438]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [439]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [440]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [441]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [442]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [443]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [444]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [445]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [446]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [447]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [448]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [449]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [450]
+Underfull \hbox (badness 6173) in paragraph at lines 800--801
+[]\T1/bch/m/n/10.4 (+20) Marriage is still largely caste-based (one do-main caste re-tains), but oc-cu-pa-
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [451]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [452]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [453]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [454]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [455]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [456]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [457]
+Overfull \hbox (29.06529pt too wide) in paragraph at lines 1083--1084
+[]\T1/bch/b/n/10.95 (-20) Locate so-ci-ol-ogy \T1/bch/m/n/10.95 (-20) --- so-ci-ol-ogy fits \T1/bch/b/n/10.95 (-20) both\T1/bch/m/n/10.95 (-20) : phe-nomenol-ogy/symbolic in-ter-ac-tion-ism/ethnomethodology
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [458]
+Underfull \hbox (badness 10000) in paragraph at lines 1110--1111
+[]\T1/bch/m/n/10.4 (+20) Ethnomethodology $\OMS/cmsy/m/n/10 !$ \T1/bch/m/n/10.4 (+20) de-fine + phe-nomenol-ogy + Garfinkel + breach-
+ []
+
+
+Underfull \hbox (badness 1286) in paragraph at lines 1150--1150
+[]|\T1/bch/m/n/10.4 (+20) Setting and achiev-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1150--1150
+[]|\T1/bch/m/n/10.4 (+20) Motivating, dif-fus-ing
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [459]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [460]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [461]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [462]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [463]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [464]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [465]
+Underfull \hbox (badness 10000) in paragraph at lines 1378--1378
+[]|$\OMS/cmsy/m/n/10.95 ^^@$\T1/bch/m/n/10.95 (+20) /+ (new
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1378--1378
+[]|$\OMS/cmsy/m/n/10.95 ^^@$\T1/bch/m/n/10.95 (+20) /+ (new
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [466]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [467]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [468]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [469]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [470]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [471]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [472]
+Underfull \hbox (badness 10000) in paragraph at lines 1656--1656
+[]|\T1/bch/m/n/10.95 (+20) Testable
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1656--1656
+\T1/bch/m/n/10.95 (+20) (low/zero
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1656--1656
+[]|\T1/bch/b/n/10.95 (+20) Middle-range
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1656--1656
+[]|\T1/bch/b/n/10.95 (+20) Group be-haviour
+ []
+
+
+Underfull \hbox (badness 5050) in paragraph at lines 1656--1656
+\T1/bch/m/n/10.95 (+20) (why women drop
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1656--1656
+[]|\T1/bch/b/n/10.95 (+20) Structures and
+ []
+
+
+Underfull \hbox (badness 7981) in paragraph at lines 1656--1656
+\T1/bch/b/n/10.95 (+20) changes in struc-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1656--1656
+[]|\T1/bch/b/n/10.95 (+20) Non-testable
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [473]) [474]
+\openout2 = `chapters/10-merton-mead-religions.aux'.
+
+
+No file chapters/10-merton-mead-religions.tex.
+\openout2 = `chapters/11-secularism-politics.aux'.
+
+(chapters/11-secularism-politics.tex
+Chapter 10.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [475
+
+
+
+
+
+
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [476]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [477]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [478]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [479]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [480]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [481]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [482]
+Underfull \hbox (badness 10000) in paragraph at lines 326--327
+[]\T1/bch/b/n/10.4 (+20) Evolutionary model \T1/bch/m/n/10.4 (+20) (Comte --- the-o-log-i-cal/metaphysical/scientific; Frazer ---
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [483]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [484]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [485]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [486]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [487]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [488]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [489]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [490]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [491]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [492]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [493]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [494]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [495]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [496]) [497]
+\openout2 = `chapters/12-civil-society-stratification.aux'.
+
+ (chapters/12-civil-society-stratification.tex [498
+
+
+
+
+]
+Chapter 11.
+
+Overfull \hbox (23.83795pt too wide) in paragraph at lines 1--1
+|\T1/phv/b/n/20 (-20) Civil So-ci-ety, Cit-i-zen-ship, Ide-ol-ogy, Pres-sure Groups
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [499]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [500]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [501]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [502]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [503]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [504]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [505]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [506]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [507]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [508]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [509]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [510]
+Underfull \hbox (badness 1810) in paragraph at lines 448--449
+[]\T1/bch/m/n/10.4 (+20) These strata are \T1/bch/b/n/10.4 (+20) mod-els/ideal types \T1/bch/m/n/10.4 (+20) (We-ber) --- not re-al-ity. Class-based strata
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [511]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [512]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [513]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [514]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [515]) [516]
+\openout2 = `chapters/13-social-change-development-work.aux'.
+
+ (chapters/13-social-change-development-work.tex
+Chapter 12.
+
+Overfull \hbox (8.9292pt too wide) in paragraph at lines 1--1
+|\T1/phv/b/n/20 (-20) Social Change, De-vel-op-ment, Glob-al-iza-tion & Work
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+[]\T1/bch/m/n/10.4 (+20) Oxford Mo-bil-ity Study (Goldthorpe, 1972): 10,000 males, 3 clus-ters (ser-
+ []
+
+
+Underfull \hbox (badness 1515) in paragraph at lines 18--19
+\T1/bch/m/n/10.4 (+20) vice/intermediate/working); high \T1/bch/m/it/10.4 (+20) ab-so-lute \T1/bch/m/n/10.4 (+20) but un-changed \T1/bch/m/it/10.4 (+20) rel-a-tive \T1/bch/m/n/10.4 (+20) mo-bil-ity; Britain
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [517
+
+
+
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [518]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [519]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [520]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [521]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [522]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [523]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [524]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [525]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [526]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [527]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [528]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [529]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [530]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [531]
+Underfull \hbox (badness 10000) in paragraph at lines 547--548
+[]\T1/bch/m/n/10.4 (+20) Mainstream (growth/accumulation/market) vs al-ter-na-tive (trans-for-ma-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 565--566
+[]\T1/bch/b/n/10.4 (+20) Liberalization \T1/bch/m/n/10.4 (+20) (min-i-mum reg-u-la-tion, free mar-ket, dereg-u-la-tion); \T1/bch/b/n/10.4 (+20) mod-ern-iza-
+ []
+
+
+Underfull \hbox (badness 2707) in paragraph at lines 565--566
+\T1/bch/b/n/10.4 (+20) tion/westernization \T1/bch/m/n/10.4 (+20) (re-place-ment of tra-di-tional by mod-ern ideas --- na-tion-al-ism
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [532]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [533]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [534]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [535]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [536]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [537]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [538]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [539]) [540] 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
-(main.aux (chapters/01-the-sociological-perspective-and-modernity.aux) (chapters/02-emergence-theoretical-foundations-and-scope.aux) (chapters/03-sociology-as-science.aux) (chapters/04-critiques-of-positivism-objectivity-durkheim.aux) (chapters/05-religion-suicide-and-the-foundations-of-marxism.aux) (chapters/06-karl-marx-historical-materialism-class-struggle-and-alienation.aux) (chapters/07-marx-durkheim-weber-pyq-methodology.aux) (chapters/08-max-weber-and-talcott-parsons.aux))
+(main.aux (chapters/01-the-sociological-perspective-and-modernity.aux) (chapters/02-emergence-theoretical-foundations-and-scope.aux) (chapters/03-sociology-as-science.aux) (chapters/04-critiques-of-positivism-objectivity-durkheim.aux) (chapters/05-religion-suicide-and-the-foundations-of-marxism.aux) (chapters/06-karl-marx-historical-materialism-class-struggle-and-alienation.aux) (chapters/07-marx-durkheim-weber-pyq-methodology.aux) (chapters/08-max-weber-and-talcott-parsons.aux) (chapters/09-talcott-parsons-robert-merton.aux) (chapters/10-merton-mead-religions.aux) (chapters/11-secularism-politics.aux) (chapters/12-civil-society-stratification.aux) (chapters/13-social-change-development-work.aux))
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-11-06>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: CC7245D83D49AD1332EB6D1375AADAAE;130277.
+(rerunfilecheck)             Checksum: E524EF1D9D54DBFF6C956723AC75C2C6;166556.
  ) 
 Here is how much of TeX's memory you used:
- 35543 strings out of 467871
- 689672 string characters out of 5418375
- 1119382 words of memory out of 5000000
- 60793 multiletter control sequences out of 15000+600000
- 830726 words of font info for 855 fonts, out of 8000000 for 9000
+ 36680 strings out of 467871
+ 712036 string characters out of 5418375
+ 1122370 words of memory out of 5000000
+ 61487 multiletter control sequences out of 15000+600000
+ 831548 words of font info for 863 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  121i,13n,124p,1240b,1070s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchb8a.pfb><C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchbi8a.pfb><C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchri8a.pfb><C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvbo8a.pfb><C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on main.pdf (428 pages, 2367997 bytes).
+Output written on main.pdf (541 pages, 2941956 bytes).
 PDF statistics:
- 6375 PDF objects out of 7423 (max. 8388607)
- 1897 named destinations out of 2073 (max. 500000)
- 156245 words of extra memory for PDF output out of 184870 (max. 10000000)
+ 7981 PDF objects out of 8907 (max. 8388607)
+ 2295 named destinations out of 2487 (max. 500000)
+ 157333 words of extra memory for PDF output out of 184870 (max. 10000000)
 

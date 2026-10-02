@@ -67,9 +67,9 @@ Two things worth knowing in `preamble.tex`:
 Near the top of `main.tex`:
 ```latex
 \newcommand{\BookExamEyebrow}{CIVIL SERVICES EXAMINATION}
-\newcommand{\BookExamLine}{UPSC \textbullet\ SOCIOLOGY (OPTIONAL) --- PAPER 1}
-\newcommand{\BookTitle}{Sociology --- Paper 1}
-\newcommand{\BookSubtitle}{Fundamentals of Sociology}
+\newcommand{\BookExamLine}{UPSC \textbullet\ SOCIOLOGY (OPTIONAL) --- PAPER 2}
+\newcommand{\BookTitle}{Sociology --- Paper 2}
+\newcommand{\BookSubtitle}{Indian Society}
 \newcommand{\BookDate}{2026}
 ```
 Edit these for the title page. One book = one subject/paper; start a fresh copy of the

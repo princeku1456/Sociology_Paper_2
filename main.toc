@@ -1,0 +1,542 @@
+\contentsline {chapter}{\numberline {1}Introduction to the Sociology of India}{17}{chapter.1}%
+\contentsline {section}{\numberline {1.1}The Structure of Paper 2}{17}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Studying India: Western Theories vs Indian Perspective}{18}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Structural Functionalism}{18}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Marxism}{19}{section.1.4}%
+\contentsline {section}{\numberline {1.5}The Subaltern Perspective}{19}{section.1.5}%
+\contentsline {subsection}{\numberline {1.5.1}What does ``subaltern'' mean?}{19}{subsection.1.5.1}%
+\contentsline {section}{\numberline {1.6}The Feminist Perspective}{20}{section.1.6}%
+\contentsline {subsection}{\numberline {1.6.1}Women as Gateway to Caste (Leela Dube)}{21}{subsection.1.6.1}%
+\contentsline {subsection}{\numberline {1.6.2}Structuralism (a new theoretical perspective)}{21}{subsection.1.6.2}%
+\contentsline {section}{\numberline {1.7}The Indian Perspective: Indology \& Orientalism}{22}{section.1.7}%
+\contentsline {subsection}{\numberline {1.7.1}The founders of Indology}{22}{subsection.1.7.1}%
+\contentsline {section}{\numberline {1.8}How We Know India: Travellers, Missionaries, Orientalists}{23}{section.1.8}%
+\contentsline {subsection}{\numberline {1.8.1}Travellers}{23}{subsection.1.8.1}%
+\contentsline {subsection}{\numberline {1.8.2}Missionaries}{24}{subsection.1.8.2}%
+\contentsline {subsection}{\numberline {1.8.3}Orientalists}{24}{subsection.1.8.3}%
+\contentsline {section}{\numberline {1.9}Book View vs Field View}{24}{section.1.9}%
+\contentsline {section}{\numberline {1.10}Section B: Village, Tribe, Caste, Kinship}{25}{section.1.10}%
+\contentsline {subsection}{\numberline {1.10.1}Tribe}{25}{subsection.1.10.1}%
+\contentsline {subsection}{\numberline {1.10.2}Caste}{25}{subsection.1.10.2}%
+\contentsline {subsection}{\numberline {1.10.3}Kinship}{25}{subsection.1.10.3}%
+\contentsline {section}{\numberline {1.11}Section C: Social Change in India}{26}{section.1.11}%
+\contentsline {subsection}{\numberline {1.11.1}Village}{26}{subsection.1.11.1}%
+\contentsline {subsection}{\numberline {1.11.2}Tribe}{26}{subsection.1.11.2}%
+\contentsline {subsection}{\numberline {1.11.3}Kinship / family}{26}{subsection.1.11.3}%
+\contentsline {subsection}{\numberline {1.11.4}Secularism \& globalisation}{27}{subsection.1.11.4}%
+\contentsline {section}{\numberline {1.12}Misconceptions About Paper 2}{27}{section.1.12}%
+\contentsline {section}{\numberline {1.13}Preview: Louis Dumont}{27}{section.1.13}%
+\contentsline {chapter}{\numberline {2}The Origin of Caste}{29}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Caste, Varna \& the Theories of Origin}{29}{section.2.1}%
+\contentsline {section}{\numberline {2.2}The Traditional (Divine) Theory}{29}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Karma \& Transmigration of Soul}{30}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Broken Man Theory (Ambedkar)}{30}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}The sacred thread and the Dvija--Ekaja divide}{30}{subsection.2.4.1}%
+\contentsline {section}{\numberline {2.5}Racial Theory of Caste}{31}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Occupational Theory of Caste}{32}{section.2.6}%
+\contentsline {section}{\numberline {2.7}Political (Brahmanical) Theory}{33}{section.2.7}%
+\contentsline {section}{\numberline {2.8}The Two Most Important Theories}{33}{section.2.8}%
+\contentsline {section}{\numberline {2.9}Senart's Caution: Caste vs Varna}{34}{section.2.9}%
+\contentsline {section}{\numberline {2.10}Varna Model vs Jati Model (M. N. Srinivas)}{34}{section.2.10}%
+\contentsline {subsection}{\numberline {2.10.1}The Rampura village study}{34}{subsection.2.10.1}%
+\contentsline {subsection}{\numberline {2.10.2}Mobility in caste}{35}{subsection.2.10.2}%
+\contentsline {section}{\numberline {2.11}Varna Vyavastha \& Related Concepts}{35}{section.2.11}%
+\contentsline {subsection}{\numberline {2.11.1}Who are the Dalits?}{36}{subsection.2.11.1}%
+\contentsline {section}{\numberline {2.12}Dalits, Scheduled Castes \& OBCs}{36}{section.2.12}%
+\contentsline {subsection}{\numberline {2.12.1}Scheduled Castes}{36}{subsection.2.12.1}%
+\contentsline {subsection}{\numberline {2.12.2}Dalit elites}{37}{subsection.2.12.2}%
+\contentsline {subsection}{\numberline {2.12.3}OBCs and the ``backward-forward''}{37}{subsection.2.12.3}%
+\contentsline {section}{\numberline {2.13}Caste Census}{38}{section.2.13}%
+\contentsline {subsection}{\numberline {2.13.1}Nicholas Dirks and Foucault}{38}{subsection.2.13.1}%
+\contentsline {section}{\numberline {2.14}Orientalism, Indology \& Occidentalism}{39}{section.2.14}%
+\contentsline {subsection}{\numberline {2.14.1}Orientalism}{39}{subsection.2.14.1}%
+\contentsline {subsection}{\numberline {2.14.2}Occidentalism}{39}{subsection.2.14.2}%
+\contentsline {chapter}{\numberline {3}The Indological Perspective}{41}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Indology as Method: The Orientalist Background}{41}{section.3.1}%
+\contentsline {section}{\numberline {3.2}From Indomania to Indophobia}{42}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Nationalist / Indigenous Indology (Bombay School)}{42}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}The Bombay school}{43}{subsection.3.3.1}%
+\contentsline {section}{\numberline {3.4}G. S. Ghurye: Cultural Unity \& Composite Culture}{44}{section.3.4}%
+\contentsline {section}{\numberline {3.5}The Triad}{45}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Diffusionism \& the Aryanization of the South}{45}{section.3.6}%
+\contentsline {subsection}{\numberline {3.6.1}Syncretism}{46}{subsection.3.6.1}%
+\contentsline {section}{\numberline {3.7}Ghurye on Caste}{47}{section.3.7}%
+\contentsline {section}{\numberline {3.8}Joint Family, Gotra \& Charana}{47}{section.3.8}%
+\contentsline {subsection}{\numberline {3.8.1}Joint family}{48}{subsection.3.8.1}%
+\contentsline {subsection}{\numberline {3.8.2}Gotra \& Charana}{48}{subsection.3.8.2}%
+\contentsline {section}{\numberline {3.9}The Indian Knowledge System (Vidyas)}{49}{section.3.9}%
+\contentsline {section}{\numberline {3.10}Subject Matter: Social History}{49}{section.3.10}%
+\contentsline {section}{\numberline {3.11}Assumptions \& Features of Indology}{50}{section.3.11}%
+\contentsline {subsection}{\numberline {3.11.1}Assumptions}{50}{subsection.3.11.1}%
+\contentsline {subsection}{\numberline {3.11.2}Features}{50}{subsection.3.11.2}%
+\contentsline {section}{\numberline {3.12}Indological Explanations of Contemporary Issues}{50}{section.3.12}%
+\contentsline {subsection}{\numberline {3.12.1}Untouchability}{50}{subsection.3.12.1}%
+\contentsline {subsection}{\numberline {3.12.2}Tribals \& environmentalism}{50}{subsection.3.12.2}%
+\contentsline {subsection}{\numberline {3.12.3}Women's position}{51}{subsection.3.12.3}%
+\contentsline {subsection}{\numberline {3.12.4}Communalism}{51}{subsection.3.12.4}%
+\contentsline {section}{\numberline {3.13}A Note on the Critique of Indology}{51}{section.3.13}%
+\contentsline {chapter}{\numberline {4}The Critique of Indology}{53}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Ghurye Ignored Material Conditions}{53}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Book View vs Field View}{53}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Undue Importance to Brahmins}{54}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Vedic Hinduism Equated with Indian Culture}{54}{section.4.4}%
+\contentsline {section}{\numberline {4.5}P. V. Kane: ``Ought'' vs ``Is''}{54}{section.4.5}%
+\contentsline {section}{\numberline {4.6}Acceptance of the Aryan Invasion Theory}{55}{section.4.6}%
+\contentsline {section}{\numberline {4.7}Edward Said \& Inden: Propaganda, Not a Discipline}{55}{section.4.7}%
+\contentsline {section}{\numberline {4.8}Carol Upadhyay: Brahmanical \& Savarna Outlook}{56}{section.4.8}%
+\contentsline {section}{\numberline {4.9}Lack of Objectivity \& Empiricism}{56}{section.4.9}%
+\contentsline {section}{\numberline {4.10}T. K. Oommen: A West European Notion of Nation}{56}{section.4.10}%
+\contentsline {section}{\numberline {4.11}The Brahmin Reflexivity Problem}{56}{section.4.11}%
+\contentsline {section}{\numberline {4.12}Conclusion: Dumont \& Pocock}{57}{section.4.12}%
+\contentsline {section}{\numberline {4.13}The Contribution of Indology to Indian Sociology (PYQ)}{57}{section.4.13}%
+\contentsline {chapter}{\numberline {5}Structural Functionalism: M. N. Srinivas}{59}{chapter.5}%
+\contentsline {section}{\numberline {5.1}M. N. Srinivas: Background \& Mentors}{59}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Why Coorg (Kurg)?}{60}{section.5.2}%
+\contentsline {section}{\numberline {5.3}The Coorg Study (1952)}{60}{section.5.3}%
+\contentsline {section}{\numberline {5.4}The Four Levels of Hinduism}{61}{section.5.4}%
+\contentsline {section}{\numberline {5.5}The Village Structure of Coorg}{61}{section.5.5}%
+\contentsline {section}{\numberline {5.6}Structural Functionalism Applied}{61}{section.5.6}%
+\contentsline {section}{\numberline {5.7}Sanskritization}{62}{section.5.7}%
+\contentsline {section}{\numberline {5.8}The Remembered Village}{63}{section.5.8}%
+\contentsline {section}{\numberline {5.9}Dominant Caste \& the Two Hierarchies}{63}{section.5.9}%
+\contentsline {section}{\numberline {5.10}Sanskritization Revisited (Conceptual Issues)}{64}{section.5.10}%
+\contentsline {section}{\numberline {5.11}The Critique of Structural Functionalism}{65}{section.5.11}%
+\contentsline {chapter}{\numberline {6}The Marxist Perspective: A. R. Desai}{67}{chapter.6}%
+\contentsline {section}{\numberline {6.1}A. R. Desai: Life \& Influences}{67}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Feudalism, Colonialism \& Capitalism}{67}{section.6.2}%
+\contentsline {section}{\numberline {6.3}The Critique of the Indian State}{68}{section.6.3}%
+\contentsline {section}{\numberline {6.4}State, Welfarism \& Planning}{68}{section.6.4}%
+\contentsline {section}{\numberline {6.5}Society as Emerging, Developing \& Declining}{69}{section.6.5}%
+\contentsline {section}{\numberline {6.6}Nationalism as an Inherent Contradiction of Colonialism}{69}{section.6.6}%
+\contentsline {section}{\numberline {6.7}The Significance of the Marxist Perspective}{69}{section.6.7}%
+\contentsline {chapter}{\numberline {7}The Subaltern Perspective}{71}{chapter.7}%
+\contentsline {section}{\numberline {7.1}What is the Subaltern Perspective?}{71}{section.7.1}%
+\contentsline {section}{\numberline {7.2}David Hardiman \& The Coming of Devi}{71}{section.7.2}%
+\contentsline {section}{\numberline {7.3}Ranajit Guha: Critique of Nationalist Historiography}{72}{section.7.3}%
+\contentsline {section}{\numberline {7.4}B. R. Ambedkar \& the Subaltern}{73}{section.7.4}%
+\contentsline {section}{\numberline {7.5}Great Tradition vs Little Tradition}{73}{section.7.5}%
+\contentsline {section}{\numberline {7.6}The Critique of the Subaltern Perspective}{74}{section.7.6}%
+\contentsline {chapter}{\numberline {8}Social Background of Indian Nationalism}{75}{chapter.8}%
+\contentsline {section}{\numberline {8.1}The Book \& the Mode-of-Production Method}{75}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Pre-British Feudal Mode of Production}{75}{section.8.2}%
+\contentsline {section}{\numberline {8.3}The Colonial Mode of Production}{75}{section.8.3}%
+\contentsline {section}{\numberline {8.4}Factors Leading to Nationalist Consciousness}{76}{section.8.4}%
+\contentsline {section}{\numberline {8.5}The Five Phases of Indian Nationalism}{77}{section.8.5}%
+\contentsline {section}{\numberline {8.6}Conclusion: External vs Internal Colonialism}{77}{section.8.6}%
+\contentsline {chapter}{\numberline {9}Westernization \& Sanskritization}{79}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Westernization: Three Levels of Change}{79}{section.9.1}%
+\contentsline {section}{\numberline {9.2}Negative Effects of Westernization}{79}{section.9.2}%
+\contentsline {section}{\numberline {9.3}Primary, Secondary \& Tertiary Westernization}{80}{section.9.3}%
+\contentsline {section}{\numberline {9.4}Westernization vs Modernization}{80}{section.9.4}%
+\contentsline {section}{\numberline {9.5}Westernization \& Sanskritization: A Dynamic Relation}{81}{section.9.5}%
+\contentsline {chapter}{\numberline {10}A. R. Desai's Review of the Indian State}{83}{chapter.10}%
+\contentsline {section}{\numberline {10.1}The Three Books \& the Six Instruments}{83}{section.10.1}%
+\contentsline {section}{\numberline {10.2}Planning}{83}{section.10.2}%
+\contentsline {section}{\numberline {10.3}Land Reforms}{84}{section.10.3}%
+\contentsline {section}{\numberline {10.4}Public Sector Enterprises}{85}{section.10.4}%
+\contentsline {section}{\numberline {10.5}The Constitution}{85}{section.10.5}%
+\contentsline {section}{\numberline {10.6}India's Path of Development}{85}{section.10.6}%
+\contentsline {chapter}{\numberline {11}Introduction to Modernization of Indian Tradition}{87}{chapter.11}%
+\contentsline {section}{\numberline {11.1}Modernization as a Theory}{87}{section.11.1}%
+\contentsline {section}{\numberline {11.2}Yogendra Singh \& the Integrated Approach}{87}{section.11.2}%
+\contentsline {section}{\numberline {11.3}Folk-Urban Continuum \& Little/Great Tradition}{88}{section.11.3}%
+\contentsline {chapter}{\numberline {12}Little and Great Tradition}{89}{chapter.12}%
+\contentsline {section}{\numberline {12.1}Tradition: Meaning and Forms}{89}{section.12.1}%
+\contentsline {subsection}{\numberline {12.1.1}Oral vs written tradition}{89}{subsection.12.1.1}%
+\contentsline {section}{\numberline {12.2}Robert Redfield and the Study of Tradition}{89}{section.12.2}%
+\contentsline {section}{\numberline {12.3}Kishan Garhi Village and Milton Singer's Study}{90}{section.12.3}%
+\contentsline {section}{\numberline {12.4}Universalization of Little Tradition}{90}{section.12.4}%
+\contentsline {section}{\numberline {12.5}Parochialization of Great Tradition}{91}{section.12.5}%
+\contentsline {section}{\numberline {12.6}Examples from Kishan Garhi: Saurati and Naurata}{92}{section.12.6}%
+\contentsline {section}{\numberline {12.7}Sanskritization as Parochialization}{92}{section.12.7}%
+\contentsline {section}{\numberline {12.8}Great \& Little Tradition and Social Change: Yogendra Singh's Framework}{93}{section.12.8}%
+\contentsline {chapter}{\numberline {13}Tribal Communities in India}{97}{chapter.13}%
+\contentsline {section}{\numberline {13.1}The Definitional Problem}{97}{section.13.1}%
+\contentsline {subsection}{\numberline {13.1.1}Four Themes of the Tribal Unit}{97}{subsection.13.1.1}%
+\contentsline {subsection}{\numberline {13.1.2}Tribe as an Externally Imposed Category}{97}{subsection.13.1.2}%
+\contentsline {subsection}{\numberline {13.1.3}The Classical Evolutionary Theory}{98}{subsection.13.1.3}%
+\contentsline {subsection}{\numberline {13.1.4}The Functionalist Approach}{100}{subsection.13.1.4}%
+\contentsline {subsection}{\numberline {13.1.5}Elman Service's Socio-Political Typology}{101}{subsection.13.1.5}%
+\contentsline {subsection}{\numberline {13.1.6}Post-Colonial Paradigm Shift}{101}{subsection.13.1.6}%
+\contentsline {section}{\numberline {13.2}Indigenous Status and the Tribe--Caste Relationship}{102}{section.13.2}%
+\contentsline {subsection}{\numberline {13.2.1}Who Are 'Indigenous' People?}{102}{subsection.13.2.1}%
+\contentsline {subsection}{\numberline {13.2.2}The Indigenous-Status Debate: Virginius Xaxa}{103}{subsection.13.2.2}%
+\contentsline {subsection}{\numberline {13.2.3}ILO Conventions 107 and 169}{103}{subsection.13.2.3}%
+\contentsline {subsection}{\numberline {13.2.4}Arguments Against Indigenous Status}{104}{subsection.13.2.4}%
+\contentsline {subsection}{\numberline {13.2.5}Arguments For Indigenous Status}{104}{subsection.13.2.5}%
+\contentsline {subsection}{\numberline {13.2.6}Tribe and Caste: Two Foreign Categories}{105}{subsection.13.2.6}%
+\contentsline {subsection}{\numberline {13.2.7}From Watertight Boundary to Continuum: Mandelbaum and Wiser}{106}{subsection.13.2.7}%
+\contentsline {subsection}{\numberline {13.2.8}The Tribe--Caste Continuum}{106}{subsection.13.2.8}%
+\contentsline {subsection}{\numberline {13.2.9}Hindu Mode of Tribal Absorption (N. K. Bose)}{107}{subsection.13.2.9}%
+\contentsline {subsection}{\numberline {13.2.10}Tribalization: The Reverse Movement (C. W. Brown)}{108}{subsection.13.2.10}%
+\contentsline {section}{\numberline {13.3}Scheduled Tribes, PVTGs and Geographical Spread}{109}{section.13.3}%
+\contentsline {subsection}{\numberline {13.3.1}From Tribe to Scheduled Tribe}{109}{subsection.13.3.1}%
+\contentsline {subsection}{\numberline {13.3.2}Ghurye vs Elwin: Assimilation vs Isolation}{110}{subsection.13.3.2}%
+\contentsline {subsection}{\numberline {13.3.3}Identifying the Scheduled Tribe: Commissions and the Lokur Criteria}{110}{subsection.13.3.3}%
+\contentsline {subsection}{\numberline {13.3.4}Area Restriction and Its Removal (1976)}{111}{subsection.13.3.4}%
+\contentsline {subsection}{\numberline {13.3.5}Anomalies in Scheduling and the Political Gimmick}{111}{subsection.13.3.5}%
+\contentsline {subsection}{\numberline {13.3.6}PVTGs: Origin and Criteria}{112}{subsection.13.3.6}%
+\contentsline {subsection}{\numberline {13.3.7}Problems Faced by PVTGs}{113}{subsection.13.3.7}%
+\contentsline {subsection}{\numberline {13.3.8}Scheme and Recommendations (NAC 2013)}{114}{subsection.13.3.8}%
+\contentsline {subsection}{\numberline {13.3.9}Geographical Distribution of Tribes}{115}{subsection.13.3.9}%
+\contentsline {section}{\numberline {13.4}Tribes and the Colonial State}{116}{section.13.4}%
+\contentsline {subsection}{\numberline {13.4.1}Three Phases of Tribe--State Interaction}{116}{subsection.13.4.1}%
+\contentsline {subsection}{\numberline {13.4.2}The Colonial State: Three Aspects}{116}{subsection.13.4.2}%
+\contentsline {subsection}{\numberline {13.4.3}Classification and the Criminal Tribes Act}{116}{subsection.13.4.3}%
+\contentsline {subsection}{\numberline {13.4.4}Policy of Segregation}{118}{subsection.13.4.4}%
+\contentsline {subsection}{\numberline {13.4.5}Subjugation and Tribal Revolts}{119}{subsection.13.4.5}%
+\contentsline {subsection}{\numberline {13.4.6}Impact of Colonial Rule on Tribal Life}{119}{subsection.13.4.6}%
+\contentsline {subsection}{\numberline {13.4.7}Soft Power and the Overall Impact}{120}{subsection.13.4.7}%
+\contentsline {section}{\numberline {13.5}Post-Colonial Administration --- Isolation, Assimilation and Integration}{121}{section.13.5}%
+\contentsline {subsection}{\numberline {13.5.1}The Post-Independence Dilemma}{121}{subsection.13.5.1}%
+\contentsline {subsection}{\numberline {13.5.2}Verrier Elwin and the Theory of Isolation}{121}{subsection.13.5.2}%
+\contentsline {subsection}{\numberline {13.5.3}Elwin's Four Classes of Tribes ('The Aboriginals')}{122}{subsection.13.5.3}%
+\contentsline {subsection}{\numberline {13.5.4}Ghurye and the Theory of Assimilation}{122}{subsection.13.5.4}%
+\contentsline {subsection}{\numberline {13.5.5}Nehru's Policy of Integration}{123}{subsection.13.5.5}%
+\contentsline {subsection}{\numberline {13.5.6}The Tribal Panchsheel (Five Principles)}{124}{subsection.13.5.6}%
+\contentsline {subsection}{\numberline {13.5.7}Schemes of Integration (TSP, Fifth/Sixth Schedule, PESA)}{124}{subsection.13.5.7}%
+\contentsline {section}{\numberline {13.6}Ethnicity, Ethnic Groups and Ethno-Nationalism}{125}{section.13.6}%
+\contentsline {subsection}{\numberline {13.6.1}Nation, State and Ethnicity: The Basic Concepts}{125}{subsection.13.6.1}%
+\contentsline {subsection}{\numberline {13.6.2}Defining Ethnicity and the Ethnic Group}{126}{subsection.13.6.2}%
+\contentsline {subsection}{\numberline {13.6.3}Criteria of an Ethnic Group (M. E. Brown and Weber)}{127}{subsection.13.6.3}%
+\contentsline {subsection}{\numberline {13.6.4}Types of Ethnicity (Eriksen)}{127}{subsection.13.6.4}%
+\contentsline {subsection}{\numberline {13.6.5}Multiculturalism vs Pluralism}{128}{subsection.13.6.5}%
+\contentsline {subsection}{\numberline {13.6.6}Hot and Cold Ethnicity (Fenton)}{128}{subsection.13.6.6}%
+\contentsline {subsection}{\numberline {13.6.7}Approaches to Ethnicity: Primordial, Instrumentalist, Materialist}{128}{subsection.13.6.7}%
+\contentsline {subsection}{\numberline {13.6.8}Ethnic Conflict and Collective Violence}{129}{subsection.13.6.8}%
+\contentsline {subsection}{\numberline {13.6.9}Causes of Ethno-Nationalism among Tribes}{130}{subsection.13.6.9}%
+\contentsline {chapter}{\numberline {14}Modernization of Indian Tradition (Yogendra Singh)}{133}{chapter.14}%
+\contentsline {section}{\numberline {14.1}Defining Modernization: Multiple Perspectives}{133}{section.14.1}%
+\contentsline {section}{\numberline {14.2}The Four Dimensions of Modernization}{134}{section.14.2}%
+\contentsline {section}{\numberline {14.3}The Central Question: Tradition vs Modernity}{134}{section.14.3}%
+\contentsline {section}{\numberline {14.4}Political Modernization: Modern Vessel, Traditional Liquid}{135}{section.14.4}%
+\contentsline {section}{\numberline {14.5}Cultural Modernization: Purity--Pollution and Communication}{136}{section.14.5}%
+\contentsline {section}{\numberline {14.6}Economic Modernization: The Non-Homogeneous Working Class}{136}{section.14.6}%
+\contentsline {section}{\numberline {14.7}Social Structure, Cultural Structure and the Sources of Change}{136}{section.14.7}%
+\contentsline {section}{\numberline {14.8}Conclusion: Macro Change, Micro Continuity}{138}{section.14.8}%
+\contentsline {chapter}{\numberline {15}Social Reform in Indian Society}{139}{chapter.15}%
+\contentsline {section}{\numberline {15.1}Objectives and Social Composition of the Reformers}{139}{section.15.1}%
+\contentsline {section}{\numberline {15.2}Religious Reform as Social Reform}{139}{section.15.2}%
+\contentsline {section}{\numberline {15.3}Emancipation of Women: The Status Before Reform}{140}{section.15.3}%
+\contentsline {section}{\numberline {15.4}Women's Reform and Its Constitutional Culmination}{140}{section.15.4}%
+\contentsline {section}{\numberline {15.5}The Sociological Reading: Private to Public Patriarchy}{141}{section.15.5}%
+\contentsline {section}{\numberline {15.6}Abolition of Untouchability: The Status Before Reform}{141}{section.15.6}%
+\contentsline {section}{\numberline {15.7}Reformers Against Untouchability (Phule, Ambedkar, Periyar)}{142}{section.15.7}%
+\contentsline {section}{\numberline {15.8}Westernization and the Breakdown of the Caste--Occupation Link}{143}{section.15.8}%
+\contentsline {section}{\numberline {15.9}Conclusion: From Particularism to Universalism}{143}{section.15.9}%
+\contentsline {chapter}{\numberline {16}Perspectives on Caste: G. S. Ghurye}{145}{chapter.16}%
+\contentsline {section}{\numberline {16.1}The Four Scholars and the Beginnings of Caste Writing}{145}{section.16.1}%
+\contentsline {section}{\numberline {16.2}The Four Sources of Ghurye's Ideas on Caste}{145}{section.16.2}%
+\contentsline {section}{\numberline {16.3}The Indo-Aryan Racial Theory}{146}{section.16.3}%
+\contentsline {section}{\numberline {16.4}The Indological Account: Four Phases of Caste}{146}{section.16.4}%
+\contentsline {section}{\numberline {16.5}The Book 'Caste and Race': Fission/Fusion, Kin and Politics}{147}{section.16.5}%
+\contentsline {section}{\numberline {16.6}Caste and Politics: The Census as Creator of Caste}{148}{section.16.6}%
+\contentsline {section}{\numberline {16.7}Substantialization and 'Caste Patriotism'}{149}{section.16.7}%
+\contentsline {section}{\numberline {16.8}The Six Features of Caste (the framework)}{150}{section.16.8}%
+\contentsline {chapter}{\numberline {17}G. S. Ghurye: Features of Caste and PYQs}{151}{chapter.17}%
+\contentsline {section}{\numberline {17.1}Caste as Integrative and Divisive}{151}{section.17.1}%
+\contentsline {section}{\numberline {17.2}The Six (Structural) Features of Caste}{152}{section.17.2}%
+\contentsline {section}{\numberline {17.3}Feature 1 --- Segmentation of Society}{152}{section.17.3}%
+\contentsline {section}{\numberline {17.4}Feature 2 --- Hierarchy}{153}{section.17.4}%
+\contentsline {section}{\numberline {17.5}Feature 3 --- Civil and Religious Disabilities and Privileges}{153}{section.17.5}%
+\contentsline {section}{\numberline {17.6}Feature 4 --- Lack of Unrestricted Choice of Occupation}{153}{section.17.6}%
+\contentsline {section}{\numberline {17.7}Feature 5 --- Restriction on Food, Drinks and Social Intercourse (Commensality)}{153}{section.17.7}%
+\contentsline {section}{\numberline {17.8}Feature 6 --- Endogamy and Marriage Restrictions}{154}{section.17.8}%
+\contentsline {section}{\numberline {17.9}Ghurye on Caste Patriotism, Reservation and Politics}{155}{section.17.9}%
+\contentsline {section}{\numberline {17.10}Caste Outside India}{155}{section.17.10}%
+\contentsline {section}{\numberline {17.11}PYQ Content: Ambedkar, Caste and Democracy}{155}{section.17.11}%
+\contentsline {section}{\numberline {17.12}Conclusion and the PYQ Approach}{157}{section.17.12}%
+\contentsline {chapter}{\numberline {18}M. N. Srinivas on Caste}{159}{chapter.18}%
+\contentsline {section}{\numberline {18.1}Varna and Jati}{159}{section.18.1}%
+\contentsline {subsection}{\numberline {18.1.1}From Book View to Field View}{159}{subsection.18.1.1}%
+\contentsline {subsection}{\numberline {18.1.2}Varna vs Jati: The Reference and the Empirical Category}{159}{subsection.18.1.2}%
+\contentsline {subsection}{\numberline {18.1.3}Four Castes vs Innumerable Jatis}{160}{subsection.18.1.3}%
+\contentsline {subsection}{\numberline {18.1.4}Endogamy, Occupation and the Challenge to Ghurye}{160}{subsection.18.1.4}%
+\contentsline {subsection}{\numberline {18.1.5}Definite Hierarchy vs Nebulous Hierarchy}{160}{subsection.18.1.5}%
+\contentsline {subsection}{\numberline {18.1.6}Why Hierarchy Cannot Be Objectively Assessed}{161}{subsection.18.1.6}%
+\contentsline {subsection}{\numberline {18.1.7}Hierarchy: Manufactured by Anthropologists}{161}{subsection.18.1.7}%
+\contentsline {subsection}{\numberline {18.1.8}Ranking: Ritual vs Secular Factors}{161}{subsection.18.1.8}%
+\contentsline {subsection}{\numberline {18.1.9}Dominant Caste and the Role of Context}{162}{subsection.18.1.9}%
+\contentsline {section}{\numberline {18.2}Features of Jati, Dominant Caste and Vote Bank}{163}{section.18.2}%
+\contentsline {subsection}{\numberline {18.2.1}Varna to Caste to Sub-Caste (Fission)}{163}{subsection.18.2.1}%
+\contentsline {subsection}{\numberline {18.2.2}Features of the Sub-Caste (Jati)}{163}{subsection.18.2.2}%
+\contentsline {subsection}{\numberline {18.2.3}Hierarchy: Nebulous}{164}{subsection.18.2.3}%
+\contentsline {subsection}{\numberline {18.2.4}Purity and Pollution: No Clear Binary}{164}{subsection.18.2.4}%
+\contentsline {subsection}{\numberline {18.2.5}Occupational Association and Nesfield}{164}{subsection.18.2.5}%
+\contentsline {subsection}{\numberline {18.2.6}Restrictions, Caste Panchayat, Endogamy, Common Culture}{164}{subsection.18.2.6}%
+\contentsline {subsection}{\numberline {18.2.7}The Dominant Jati (Dominant Caste)}{165}{subsection.18.2.7}%
+\contentsline {subsection}{\numberline {18.2.8}Westernization and the New Factors of Dominance}{165}{subsection.18.2.8}%
+\contentsline {subsection}{\numberline {18.2.9}Vote Bank and Horizontal/Vertical Solidarity}{166}{subsection.18.2.9}%
+\contentsline {subsection}{\numberline {18.2.10}Conclusion}{166}{subsection.18.2.10}%
+\contentsline {chapter}{\numberline {19}Andre Beteille on Caste}{169}{chapter.19}%
+\contentsline {section}{\numberline {19.1}The Segmentary System}{169}{section.19.1}%
+\contentsline {subsection}{\numberline {19.1.1}The Two Books and the Weberian Frame}{169}{subsection.19.1.1}%
+\contentsline {subsection}{\numberline {19.1.2}Shripuram: The Three Clusters}{169}{subsection.19.1.2}%
+\contentsline {subsection}{\numberline {19.1.3}The Five Brahmin Categories (and their sub-divisions)}{169}{subsection.19.1.3}%
+\contentsline {subsection}{\numberline {19.1.4}Non-Brahmins and Adi Dravidas}{170}{subsection.19.1.4}%
+\contentsline {subsection}{\numberline {19.1.5}Caste as a Segmentary System}{170}{subsection.19.1.5}%
+\contentsline {subsection}{\numberline {19.1.6}Elastic Ethnicity and Context}{170}{subsection.19.1.6}%
+\contentsline {subsection}{\numberline {19.1.7}The Four Levels of Segmentation}{171}{subsection.19.1.7}%
+\contentsline {subsection}{\numberline {19.1.8}Caste, Class and Power: Cumulative Inequality in Traditional India}{171}{subsection.19.1.8}%
+\contentsline {section}{\numberline {19.2}Caste, Class and Power}{172}{section.19.2}%
+\contentsline {subsection}{\numberline {19.2.1}Segments as Status Groups (Weber)}{172}{subsection.19.2.1}%
+\contentsline {subsection}{\numberline {19.2.2}Traditional Shripuram: The Rank Matrix (Cumulative Inequality)}{173}{subsection.19.2.2}%
+\contentsline {subsection}{\numberline {19.2.3}Economic Modernization: Land, Occupations, Education}{173}{subsection.19.2.3}%
+\contentsline {subsection}{\numberline {19.2.4}Political Modernization: Power Without Land}{174}{subsection.19.2.4}%
+\contentsline {subsection}{\numberline {19.2.5}The Changing Rank Matrix: Autonomy of Class and Power}{174}{subsection.19.2.5}%
+\contentsline {subsection}{\numberline {19.2.6}Caste Becoming Heterogeneous: A New Status Group}{174}{subsection.19.2.6}%
+\contentsline {subsection}{\numberline {19.2.7}Modernistic vs Modernizing}{175}{subsection.19.2.7}%
+\contentsline {subsection}{\numberline {19.2.8}Conclusion: The Paradox of Modernization}{175}{subsection.19.2.8}%
+\contentsline {chapter}{\numberline {20}Perspectives on the Modern Avatar of Caste}{177}{chapter.20}%
+\contentsline {section}{\numberline {20.1}Backwardness and the Measurement Problem}{177}{section.20.1}%
+\contentsline {section}{\numberline {20.2}The Three Dimensions of Reservation Demands}{177}{section.20.2}%
+\contentsline {section}{\numberline {20.3}Classization of Caste (D. L. Sheth)}{178}{section.20.3}%
+\contentsline {section}{\numberline {20.4}AJGAR: The Dominant Castes}{179}{section.20.4}%
+\contentsline {chapter}{\numberline {21}Louis Dumont on Caste: Purity, Impurity and Hierarchy}{181}{chapter.21}%
+\contentsline {section}{\numberline {21.1}Dumont as Indologist and Structuralist}{181}{section.21.1}%
+\contentsline {section}{\numberline {21.2}Bouglé's Three Features and the Underlying Principle}{181}{section.21.2}%
+\contentsline {section}{\numberline {21.3}Purity and Impurity as the Ideology of Caste}{182}{section.21.3}%
+\contentsline {section}{\numberline {21.4}The Texts: P. V. Kane and Harita}{183}{section.21.4}%
+\contentsline {section}{\numberline {21.5}Status over Power: The Supremacy of the Religious}{183}{section.21.5}%
+\contentsline {section}{\numberline {21.6}India vs the West: Homo Hierarchicus vs Homo Aequalis}{183}{section.21.6}%
+\contentsline {section}{\numberline {21.7}Homo Major and Homo Minor: Holism vs Individualism}{184}{section.21.7}%
+\contentsline {section}{\numberline {21.8}Temporary vs Permanent Impurity}{184}{section.21.8}%
+\contentsline {section}{\numberline {21.9}Dumont's Field Work: The Pramalai Kallar}{185}{section.21.9}%
+\contentsline {section}{\numberline {21.10}The Binary Oppositions of the Caste Structure}{185}{section.21.10}%
+\contentsline {section}{\numberline {21.11}Substantialization of Caste}{185}{section.21.11}%
+\contentsline {chapter}{\numberline {22}Indian Sociologists on Caste: Summary and Critique}{187}{chapter.22}%
+\contentsline {section}{\numberline {22.1}Summarizing the Four Scholars}{187}{section.22.1}%
+\contentsline {section}{\numberline {22.2}Critique of Srinivas: Sanskritization}{188}{section.22.2}%
+\contentsline {section}{\numberline {22.3}Critique of Srinivas: Dominant Caste}{188}{section.22.3}%
+\contentsline {section}{\numberline {22.4}T. K. Oommen's Multiple Power Structures}{189}{section.22.4}%
+\contentsline {section}{\numberline {22.5}Secularization of Caste and Caste Outside India}{189}{section.22.5}%
+\contentsline {chapter}{\numberline {23}Caste, Democracy and Caste Associations}{191}{chapter.23}%
+\contentsline {section}{\numberline {23.1}Caste and Democracy}{191}{section.23.1}%
+\contentsline {subsection}{\numberline {23.1.1}Answering 'Sanskritization vs Westernization'}{191}{subsection.23.1.1}%
+\contentsline {subsection}{\numberline {23.1.2}Further Critiques: Dube, Oommen, and Dumont}{191}{subsection.23.1.2}%
+\contentsline {subsection}{\numberline {23.1.3}Caste and Democracy: The Classical Discourse}{192}{subsection.23.1.3}%
+\contentsline {subsection}{\numberline {23.1.4}Ghurye: Caste Patriotism}{193}{subsection.23.1.4}%
+\contentsline {subsection}{\numberline {23.1.5}Srinivas: From Vertical to Horizontal Solidarity}{193}{subsection.23.1.5}%
+\contentsline {subsection}{\numberline {23.1.6}Dumont and Beteille: Substantialization and the New Caste}{193}{subsection.23.1.6}%
+\contentsline {section}{\numberline {23.2}Caste Associations and the Evolution of Caste Politics}{194}{section.23.2}%
+\contentsline {subsection}{\numberline {23.2.1}What is a Caste Association?}{194}{subsection.23.2.1}%
+\contentsline {subsection}{\numberline {23.2.2}Functions of Caste Associations}{195}{subsection.23.2.2}%
+\contentsline {subsection}{\numberline {23.2.3}Origin and Phase 1: Urban Welfare Associations}{195}{subsection.23.2.3}%
+\contentsline {subsection}{\numberline {23.2.4}Phase 2: Poona Pact and Pressure Groups (1930s--70s)}{196}{subsection.23.2.4}%
+\contentsline {subsection}{\numberline {23.2.5}Phase 3: Dalit Politics and BAMCEF (1970s)}{196}{subsection.23.2.5}%
+\contentsline {subsection}{\numberline {23.2.6}Phase 4: Mandalization of Politics (1980s--90s)}{196}{subsection.23.2.6}%
+\contentsline {subsection}{\numberline {23.2.7}Rudolph \& Rudolph and Rajni Kothari}{197}{subsection.23.2.7}%
+\contentsline {chapter}{\numberline {24}Caste and Gender}{199}{chapter.24}%
+\contentsline {section}{\numberline {24.1}Rudolph \& Rudolph: Three Forms of Mobilization}{199}{section.24.1}%
+\contentsline {section}{\numberline {24.2}Anil Bhatt: Four Ways Caste Relates to Politics}{200}{section.24.2}%
+\contentsline {section}{\numberline {24.3}Hierarchy vs Difference: Which Scholars Said What}{200}{section.24.3}%
+\contentsline {section}{\numberline {24.4}Caste Requires Endogamy: Surpanakha and the Smritis}{201}{section.24.4}%
+\contentsline {section}{\numberline {24.5}Uma Chakravarti: Marriage, Sexuality and the Caste System}{201}{section.24.5}%
+\contentsline {section}{\numberline {24.6}Brahmanical Patriarchy}{201}{section.24.6}%
+\contentsline {chapter}{\numberline {25}Untouchability: Forms and Perspectives}{203}{chapter.25}%
+\contentsline {section}{\numberline {25.1}The Many Forms of Untouchability}{203}{section.25.1}%
+\contentsline {section}{\numberline {25.2}Purity and Impurity as the Ideology (Dumont and A. M. Shah)}{204}{section.25.2}%
+\contentsline {section}{\numberline {25.3}Temporary vs Permanent Pollution}{204}{section.25.3}%
+\contentsline {section}{\numberline {25.4}Untouchability Within Brahmins and Among Non-Brahmins}{205}{section.25.4}%
+\contentsline {section}{\numberline {25.5}The Career of the Concept: From Avarna to Scheduled Caste}{205}{section.25.5}%
+\contentsline {section}{\numberline {25.6}Untouchables Were Never Homogeneous}{206}{section.25.6}%
+\contentsline {section}{\numberline {25.7}Impact of Modernity: The Transfer of Purity}{206}{section.25.7}%
+\contentsline {chapter}{\numberline {26}Untouchability and Caste: Past, Present and Future}{209}{chapter.26}%
+\contentsline {section}{\numberline {26.1}Diwali, Civil Religion and the Little/Great Tradition}{209}{section.26.1}%
+\contentsline {section}{\numberline {26.2}Michael Moffatt: The Replicability Principle}{209}{section.26.2}%
+\contentsline {section}{\numberline {26.3}Replication Within Untouchables}{210}{section.26.3}%
+\contentsline {section}{\numberline {26.4}Subordination and the Critique of the Disjunctive Model}{210}{section.26.4}%
+\contentsline {section}{\numberline {26.5}Caste: Past, Present and Future}{211}{section.26.5}%
+\contentsline {section}{\numberline {26.6}Caste Outside India}{211}{section.26.6}%
+\contentsline {section}{\numberline {26.7}From Caste Public to Bio-Public}{212}{section.26.7}%
+\contentsline {chapter}{\numberline {27}The Idea of the Indian Village}{213}{chapter.27}%
+\contentsline {section}{\numberline {27.1}The Village as an Ideological Category}{213}{section.27.1}%
+\contentsline {section}{\numberline {27.2}Colonial Discourse: Metcalfe, Marx and the Indologists}{213}{section.27.2}%
+\contentsline {section}{\numberline {27.3}Nationalist Discourse: Gandhi, Nehru, Ambedkar}{214}{section.27.3}%
+\contentsline {section}{\numberline {27.4}The State View: The Village as Underdeveloped}{214}{section.27.4}%
+\contentsline {section}{\numberline {27.5}Village Studies: Structural-Functional and Marxist}{215}{section.27.5}%
+\contentsline {section}{\numberline {27.6}William Wiser and the Jajmani System}{215}{section.27.6}%
+\contentsline {section}{\numberline {27.7}S. C. Dube and the Dominant Individual}{216}{section.27.7}%
+\contentsline {chapter}{\numberline {28}Village Studies}{217}{chapter.28}%
+\contentsline {section}{\numberline {28.1}Is Caste a Closed Class or an Open Caste?}{217}{section.28.1}%
+\contentsline {section}{\numberline {28.2}Questioning the Self-Sufficiency Doctrine}{217}{section.28.2}%
+\contentsline {section}{\numberline {28.3}S. C. Dube: A Typology of Villages}{218}{section.28.3}%
+\contentsline {section}{\numberline {28.4}S. C. Dube: How the Village Community is Organized}{218}{section.28.4}%
+\contentsline {section}{\numberline {28.5}Beteille's Weberian Model of Social Change}{219}{section.28.5}%
+\contentsline {section}{\numberline {28.6}Marxist Village Studies: Thorner and Gough}{219}{section.28.6}%
+\contentsline {section}{\numberline {28.7}Moffatt's Replication and the Contribution of Village Studies}{220}{section.28.7}%
+\contentsline {section}{\numberline {28.8}Current Affairs to Sociology: The MTP Act and the Female Body}{220}{section.28.8}%
+\contentsline {chapter}{\numberline {29}The Middle Class}{223}{chapter.29}%
+\contentsline {section}{\numberline {29.1}Sanskritization: Modernizing or Traditionalizing?}{223}{section.29.1}%
+\contentsline {section}{\numberline {29.2}Ramkrishna Mukherjee and the Rise of Class}{223}{section.29.2}%
+\contentsline {section}{\numberline {29.3}Theories of Class}{224}{section.29.3}%
+\contentsline {section}{\numberline {29.4}Marx vs Weber on the Middle Class}{224}{section.29.4}%
+\contentsline {section}{\numberline {29.5}Frank Parkin: Social Closure}{224}{section.29.5}%
+\contentsline {section}{\numberline {29.6}The Indian Middle Class: B. B. Misra and Pavan Varma}{225}{section.29.6}%
+\contentsline {section}{\numberline {29.7}Old vs New Middle Class}{225}{section.29.7}%
+\contentsline {chapter}{\numberline {30}The Middle Class: Structure, Ethos and the New Woman}{227}{chapter.30}%
+\contentsline {section}{\numberline {30.1}Cultural vs Structural Change in Caste}{227}{section.30.1}%
+\contentsline {section}{\numberline {30.2}Obituary to Caste and the Peculiar Tenacity of Caste}{227}{section.30.2}%
+\contentsline {section}{\numberline {30.3}European vs Indian Middle Class (Ahmad \& Rehfeld)}{228}{section.30.3}%
+\contentsline {section}{\numberline {30.4}Yogendra Singh: Urban vs Rural Middle Class}{228}{section.30.4}%
+\contentsline {section}{\numberline {30.5}Dipankar Gupta and Beteille: Mistaken Modernity and Middle Classes}{228}{section.30.5}%
+\contentsline {section}{\numberline {30.6}Women in the Middle Class and the New Woman}{229}{section.30.6}%
+\contentsline {chapter}{\numberline {31}The Women's Movement}{231}{chapter.31}%
+\contentsline {section}{\numberline {31.1}The Four Waves of Feminism}{231}{section.31.1}%
+\contentsline {section}{\numberline {31.2}The First Wave: Socialist Feminism (1848--1920)}{231}{section.31.2}%
+\contentsline {section}{\numberline {31.3}The Second Wave: Radical Feminism (1960--80s)}{231}{section.31.3}%
+\contentsline {section}{\numberline {31.4}The Third Wave: Intersectionality (1990s)}{232}{section.31.4}%
+\contentsline {section}{\numberline {31.5}The Fourth Wave: \#MeToo and Social Media (2012 onwards)}{232}{section.31.5}%
+\contentsline {section}{\numberline {31.6}Indian Feminism: The First Phase}{233}{section.31.6}%
+\contentsline {section}{\numberline {31.7}Indian Feminism: Gandhi and the Nationalist Phase}{233}{section.31.7}%
+\contentsline {section}{\numberline {31.8}Indian Feminism: Protest Politics (1970s) and Eco-Feminism}{233}{section.31.8}%
+\contentsline {chapter}{\numberline {32}Indian Feminism and Environmentalism}{235}{chapter.32}%
+\contentsline {section}{\numberline {32.1}Indian Feminism: The Four Phases}{235}{section.32.1}%
+\contentsline {section}{\numberline {32.2}The Two Goals: Corporate and Liberal Feminism}{236}{section.32.2}%
+\contentsline {section}{\numberline {32.3}The Issues: Brahmanism and the Dalit-Woman Question}{236}{section.32.3}%
+\contentsline {section}{\numberline {32.4}Dalit Feminism and the Autonomous Dalit Women's Organisations}{237}{section.32.4}%
+\contentsline {section}{\numberline {32.5}Gail Omvedt: What Counts as a Women's Movement}{237}{section.32.5}%
+\contentsline {section}{\numberline {32.6}Ecological Feminism: Val Plumwood and Vandana Shiva}{238}{section.32.6}%
+\contentsline {section}{\numberline {32.7}The Evolution of Western Environmentalism}{238}{section.32.7}%
+\contentsline {chapter}{\numberline {33}The Environment Movement}{241}{chapter.33}%
+\contentsline {section}{\numberline {33.1}Environmental Racism and Eco-Justice}{241}{section.33.1}%
+\contentsline {section}{\numberline {33.2}Indian vs Western Environmentalism}{242}{section.33.2}%
+\contentsline {section}{\numberline {33.3}The Evolution of Modern Indian Environmentalism}{243}{section.33.3}%
+\contentsline {section}{\numberline {33.4}Guha and Gadgil: Eight Environmentalists and Three Individuals}{243}{section.33.4}%
+\contentsline {section}{\numberline {33.5}The Chipko Movement}{244}{section.33.5}%
+\contentsline {section}{\numberline {33.6}Theories: Neo-Marxist Environmental Sociology}{245}{section.33.6}%
+\contentsline {section}{\numberline {33.7}Ecological Modernization and Its Critique}{245}{section.33.7}%
+\contentsline {section}{\numberline {33.8}Ulrich Beck's Risk Society}{246}{section.33.8}%
+\contentsline {chapter}{\numberline {34}PYQs: Colonial Knowledge and the Faction-Ridden Village}{247}{chapter.34}%
+\contentsline {section}{\numberline {34.1}PYQ 2020: Colonial Administrators and the Construction of Traditionalism}{247}{section.34.1}%
+\contentsline {section}{\numberline {34.2}PYQ: Is Indian Rural Society a Faction-Ridden Society?}{248}{section.34.2}%
+\contentsline {chapter}{\numberline {35}Backward Class Movements}{251}{chapter.35}%
+\contentsline {section}{\numberline {35.1}The Meaning of Backward Class and Common Features}{251}{section.35.1}%
+\contentsline {section}{\numberline {35.2}Satya Shodak Samaj (Jyotiba Phule)}{251}{section.35.2}%
+\contentsline {section}{\numberline {35.3}The Tamil Renaissance and the Non-Brahmin Movement}{252}{section.35.3}%
+\contentsline {section}{\numberline {35.4}The Justice Party}{253}{section.35.4}%
+\contentsline {section}{\numberline {35.5}E. V. Ramaswamy Naicker and the Self-Respect Movement}{253}{section.35.5}%
+\contentsline {chapter}{\numberline {36}The Dalit Movement}{255}{chapter.36}%
+\contentsline {section}{\numberline {36.1}Nationalism and the Backward/Dalit Question}{255}{section.36.1}%
+\contentsline {section}{\numberline {36.2}SNDP Movement (Shri Narayana Guru)}{255}{section.36.2}%
+\contentsline {section}{\numberline {36.3}Common Patterns and Critiques (Ghanshyam Shah and M. S. A. Rao)}{256}{section.36.3}%
+\contentsline {section}{\numberline {36.4}Pre-Ambedkarite Dalit Movements}{257}{section.36.4}%
+\contentsline {section}{\numberline {36.5}The Ambedkarite Phase (Poona Pact, Yola Conference, Navayana)}{257}{section.36.5}%
+\contentsline {section}{\numberline {36.6}Post-Ambedkarite Movements (Dalit Panther, RPI, BSP)}{258}{section.36.6}%
+\contentsline {section}{\numberline {36.7}Dalit Assertion and the Contemporary Perspective}{259}{section.36.7}%
+\contentsline {chapter}{\numberline {37}Education and Social Change}{261}{chapter.37}%
+\contentsline {section}{\numberline {37.1}Gandhi on Education (Basic Education / Nai Talim)}{261}{section.37.1}%
+\contentsline {section}{\numberline {37.2}Tagore on Education}{261}{section.37.2}%
+\contentsline {section}{\numberline {37.3}Durkheim and the Functions of Education}{262}{section.37.3}%
+\contentsline {section}{\numberline {37.4}The Marxist Critique: Bowles \& Gintis and Althusser}{262}{section.37.4}%
+\contentsline {chapter}{\numberline {38}Research Methods}{265}{chapter.38}%
+\contentsline {section}{\numberline {38.1}Epistemological Foundations: A Priori and A Posteriori}{265}{section.38.1}%
+\contentsline {section}{\numberline {38.2}Quantitative and Qualitative Methods}{265}{section.38.2}%
+\contentsline {section}{\numberline {38.3}Triangulation and Primary/Secondary Data}{266}{section.38.3}%
+\contentsline {section}{\numberline {38.4}Variables and Hypothesis}{266}{section.38.4}%
+\contentsline {section}{\numberline {38.5}Reliability and Validity}{267}{section.38.5}%
+\contentsline {section}{\numberline {38.6}The Comparative Method}{268}{section.38.6}%
+\contentsline {section}{\numberline {38.7}Sampling}{269}{section.38.7}%
+\contentsline {chapter}{\numberline {39}Industrialisation in India}{271}{chapter.39}%
+\contentsline {section}{\numberline {39.1}Industrialisation and De-industrialisation}{271}{section.39.1}%
+\contentsline {section}{\numberline {39.2}The De-industrialisation Debate: Thorner vs Krishnamurthy}{271}{section.39.2}%
+\contentsline {section}{\numberline {39.3}Tirthankar Roy's Synthesis: Traditional vs Modern Industry}{272}{section.39.3}%
+\contentsline {section}{\numberline {39.4}Why and How Factories Came to India}{272}{section.39.4}%
+\contentsline {section}{\numberline {39.5}The Colonial Working Class: Morris D. Morris and Caste in the Mills}{273}{section.39.5}%
+\contentsline {chapter}{\numberline {40}Industrialisation in India: Caste, Plantation, Mining and the Informal Sector}{275}{chapter.40}%
+\contentsline {section}{\numberline {40.1}Caste in the Mills: Morris and Chandavarkar}{275}{section.40.1}%
+\contentsline {section}{\numberline {40.2}Plantation Labour: Indentured and Bonded}{276}{section.40.2}%
+\contentsline {section}{\numberline {40.3}Mining: Janaki Nair and the Kolar Gold Fields}{276}{section.40.3}%
+\contentsline {section}{\numberline {40.4}Post-Colonial vs Post-Independence}{277}{section.40.4}%
+\contentsline {section}{\numberline {40.5}Labour Commitment: Moore, Feldman, Lambert and Sheth}{277}{section.40.5}%
+\contentsline {section}{\numberline {40.6}The Informal Economy: Keith Hart, Breman and Sanyal}{278}{section.40.6}%
+\contentsline {section}{\numberline {40.7}Post-LPG Informalisation and Class Structure}{278}{section.40.7}%
+\contentsline {chapter}{\numberline {41}Urbanisation in India}{281}{chapter.41}%
+\contentsline {section}{\numberline {41.1}Space, Place and the Inequality of Space}{281}{section.41.1}%
+\contentsline {section}{\numberline {41.2}City and Country: Folk, Popular and High Culture}{281}{section.41.2}%
+\contentsline {section}{\numberline {41.3}Redfield and Singer's Typology of Cities}{282}{section.41.3}%
+\contentsline {section}{\numberline {41.4}Primary and Secondary Urbanisation}{283}{section.41.4}%
+\contentsline {section}{\numberline {41.5}Consequences and Features of Urbanisation}{283}{section.41.5}%
+\contentsline {chapter}{\numberline {42}Urbanisation in India: Patterns, Slums and Violence}{285}{chapter.42}%
+\contentsline {section}{\numberline {42.1}The Three Stages of Urbanisation and Over-Urbanisation}{285}{section.42.1}%
+\contentsline {section}{\numberline {42.2}Amitabh Kundu and Pseudo-Urbanisation}{285}{section.42.2}%
+\contentsline {section}{\numberline {42.3}Causes and Patterns of Urbanisation in India}{286}{section.42.3}%
+\contentsline {section}{\numberline {42.4}Slums: The Census and the Sociological View}{286}{section.42.4}%
+\contentsline {section}{\numberline {42.5}The Significance of Slums}{287}{section.42.5}%
+\contentsline {section}{\numberline {42.6}Slums and Sexual Violence: Asis Nandy and Ayona Datta}{288}{section.42.6}%
+\contentsline {chapter}{\numberline {43}Urbanisation in India: The State, Slums and COVID-19}{289}{chapter.43}%
+\contentsline {section}{\numberline {43.1}The Anti-Modernist Critique: Nandy and Pathak}{289}{section.43.1}%
+\contentsline {section}{\numberline {43.2}Ayona Datta and the Private-Sphere Violence}{289}{section.43.2}%
+\contentsline {section}{\numberline {43.3}The City as Exclusionary: Swachh Bharat and Beautification}{290}{section.43.3}%
+\contentsline {section}{\numberline {43.4}Slums as a Site of State Violence: Tarlo and the Emergency}{290}{section.43.4}%
+\contentsline {section}{\numberline {43.5}Veena Das and the 1984 Anti-Sikh Violence}{291}{section.43.5}%
+\contentsline {section}{\numberline {43.6}Disposable Children and the Margins of the State}{291}{section.43.6}%
+\contentsline {section}{\numberline {43.7}The Impact of COVID-19 on Slums}{292}{section.43.7}%
+\contentsline {chapter}{\numberline {44}Green Revolution and Its Impacts}{293}{chapter.44}%
+\contentsline {section}{\numberline {44.1}The Green Revolution and the Agrarian Revolution}{293}{section.44.1}%
+\contentsline {section}{\numberline {44.2}Land Reform and Technological Intervention}{294}{section.44.2}%
+\contentsline {section}{\numberline {44.3}The Developmental Bureaucracy: Joan Mencher}{295}{section.44.3}%
+\contentsline {section}{\numberline {44.4}Cooperatives and Seeds: Satyadeva}{295}{section.44.4}%
+\contentsline {section}{\numberline {44.5}Bhalla and Chadda: The Pro-Rich Bias Fallacy}{296}{section.44.5}%
+\contentsline {section}{\numberline {44.6}Wet vs Dry Areas: Bagchi and Athreya}{296}{section.44.6}%
+\contentsline {section}{\numberline {44.7}Scarlett Epstein: A Longitudinal Study (Mandya)}{297}{section.44.7}%
+\contentsline {section}{\numberline {44.8}Mechanisation and the Labourers: Dhanagare}{298}{section.44.8}%
+\contentsline {section}{\numberline {44.9}Environment, Decline and New Politics}{298}{section.44.9}%
+\contentsline {chapter}{\numberline {45}Green Revolution: Gender, Bondage and Agrarian Class}{301}{chapter.45}%
+\contentsline {section}{\numberline {45.1}Impact on Women: Agarwal, Walia and Chaudhary}{301}{section.45.1}%
+\contentsline {section}{\numberline {45.2}Feminisation, Domestication and Selective Modernity}{302}{section.45.2}%
+\contentsline {section}{\numberline {45.3}The Rise of New Political Forces and the New Farmers Movement}{302}{section.45.3}%
+\contentsline {section}{\numberline {45.4}The Jajmani System and Its Disintegration}{303}{section.45.4}%
+\contentsline {section}{\numberline {45.5}Bonded Labour and New Forms of Bondage}{304}{section.45.5}%
+\contentsline {section}{\numberline {45.6}Agrarian Class Structure: Desai, Thorner and the Mode of Production Debate}{304}{section.45.6}%
+\contentsline {chapter}{\numberline {46}Mode of Production and Challenges of Social Transformation}{307}{chapter.46}%
+\contentsline {section}{\numberline {46.1}Dialectics and the Mode of Production Debate}{307}{section.46.1}%
+\contentsline {section}{\numberline {46.2}The Subaltern School}{308}{section.46.2}%
+\contentsline {section}{\numberline {46.3}Amit Bhaduri and Utsa Patnaik: Semi-Feudal vs Pre-Capitalist}{309}{section.46.3}%
+\contentsline {section}{\numberline {46.4}Development, Social Change and Social Transformation}{309}{section.46.4}%
+\contentsline {section}{\numberline {46.5}Dipankar Gupta: From People to Citizens}{310}{section.46.5}%
+\contentsline {section}{\numberline {46.6}Development-Induced Displacement (Walter Fernandes)}{311}{section.46.6}%
+\contentsline {chapter}{\numberline {47}Challenges of Social Transformation: Women, Caste and Ethnicity}{313}{chapter.47}%
+\contentsline {section}{\numberline {47.1}Atrocities Against Women: Religion and Structure}{313}{section.47.1}%
+\contentsline {section}{\numberline {47.2}Domestic Violence}{314}{section.47.2}%
+\contentsline {section}{\numberline {47.3}Caste Conflict}{315}{section.47.3}%
+\contentsline {section}{\numberline {47.4}Ethnic Conflict and Ethnicity}{316}{section.47.4}%
+\contentsline {chapter}{\numberline {48}Population Dynamics: Poverty, Communalism and Sex Ratio}{317}{chapter.48}%
+\contentsline {section}{\numberline {48.1}Poverty: Old and New Forms}{317}{section.48.1}%
+\contentsline {section}{\numberline {48.2}Communalism and Communal Violence}{318}{section.48.2}%
+\contentsline {section}{\numberline {48.3}Sex Ratio: Hypergamy, Feticide and the Dimaru Estates}{319}{section.48.3}%
+\contentsline {section}{\numberline {48.4}Reproductive Health}{320}{section.48.4}%
+\contentsline {chapter}{\numberline {49}ART, Ageing and the Family}{323}{chapter.49}%
+\contentsline {section}{\numberline {49.1}Assisted Reproductive Technology (ART)}{323}{section.49.1}%
+\contentsline {section}{\numberline {49.2}Ageing and Old-Age Problems}{324}{section.49.2}%
+\contentsline {section}{\numberline {49.3}The Family: Murdock, Parsons and the Symmetrical Family}{325}{section.49.3}%
+\contentsline {chapter}{\numberline {50}Kinship in India}{327}{chapter.50}%
+\contentsline {section}{\numberline {50.1}The Feminist Critique of the Family}{327}{section.50.1}%
+\contentsline {section}{\numberline {50.2}Marital Breakdown}{328}{section.50.2}%
+\contentsline {section}{\numberline {50.3}Intimacy: From Spiritual Love to Plastic Sexuality}{328}{section.50.3}%
+\contentsline {section}{\numberline {50.4}Iravati Karve: The Four Kinship Patterns}{329}{section.50.4}%
+\contentsline {section}{\numberline {50.5}From Family to Household}{330}{section.50.5}%
+\contentsline {chapter}{\numberline {51}Developmental Planning, Nationalism and Citizenship}{331}{chapter.51}%
+\contentsline {section}{\numberline {51.1}Developmental Planning and Rural Development}{331}{section.51.1}%
+\contentsline {section}{\numberline {51.2}Indian Nationalism: Derivative Discourse and the Civilizational View}{332}{section.51.2}%
+\contentsline {section}{\numberline {51.3}Citizenship and Its Four Discourses}{333}{section.51.3}%
+\contentsline {section}{\numberline {51.4}Elite Formation and Civil Society}{333}{section.51.4}%
+\contentsline {chapter}{\numberline {52}Regionalism, Decentralisation and the Question of Minority}{335}{chapter.52}%
+\contentsline {section}{\numberline {52.1}Democratic Decentralisation: Gram Swaraj and Panchayati Raj}{335}{section.52.1}%
+\contentsline {section}{\numberline {52.2}Regionalism}{336}{section.52.2}%
+\contentsline {section}{\numberline {52.3}The Question of Minority}{336}{section.52.3}%
+\contentsline {chapter}{\numberline {53}Contemporary Issues 2021}{339}{chapter.53}%
+\contentsline {section}{\numberline {53.1}The Sex Ratio at Birth: The Case Studies}{339}{section.53.1}%
+\contentsline {section}{\numberline {53.2}Missing Women and the Gender Gap}{340}{section.53.2}%
+\contentsline {section}{\numberline {53.3}Dominant Castes and the Demand for Backward Status}{340}{section.53.3}%
+\contentsline {section}{\numberline {53.4}Gail Omvedt and the Backward Class Movement}{341}{section.53.4}%
+\contentsline {section}{\numberline {53.5}Surrogacy, MTP and ART}{342}{section.53.5}%
+\contentsline {section}{\numberline {53.6}Democratic Backsliding, Wage for Housework and Further Issues}{342}{section.53.6}%
+\contentsline {chapter}{\numberline {54}Tribes, Regionalism and Ethno-Nationalism}{345}{chapter.54}%
+\contentsline {section}{\numberline {54.1}Regionalism Among Tribals}{345}{section.54.1}%
+\contentsline {section}{\numberline {54.2}Ethno-Nationalism}{346}{section.54.2}%
+\contentsline {section}{\numberline {54.3}Religious Change Among Tribes (N. K. Bose's Hindu Mode of Absorption)}{346}{section.54.3}%
+\contentsline {section}{\numberline {54.4}PYQ Pointers on Tribes}{347}{section.54.4}%
+\contentsline {chapter}{\numberline {55}How to Approach the Exam (2022)}{349}{chapter.55}%
+\contentsline {section}{\numberline {55.1}The Sociology Exam Structure}{349}{section.55.1}%
+\contentsline {section}{\numberline {55.2}Answer-Writing and Essay Guidance}{350}{section.55.2}%

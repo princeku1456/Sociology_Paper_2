@@ -1,0 +1,1014 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex.fmt)
+ restricted \write18 enabled.
+entering extended mode
+(main.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-11-06>
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
+Document Class: book 2025/01/22 v1.4n Standard LaTeX document class
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/base\bk11.clo))
+(preamble.tex
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\charter.sty)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\helvet.sty
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty))
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.sty
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-pdf
+tex.def)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.cfg
+))
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty))
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg)
+
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+) (C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+) (C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/parskip\parskip.sty
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+)))
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/needspace\needspace.sty
+) (C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+) (C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/tocloft\tocloft.sty
+
+Package tocloft Warning: \@starttoc has already been redefined; tocloft bailing
+ out. on input line 1156.
+
+) (C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcolorbox.sty
+
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.
+sty
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.st
+y
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-common.tex)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-latex.def)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.
+code.tex
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+))
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.
+sty
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg)))
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.
+sty
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s.code.tex
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+libraryfiltered.code.tex))
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.c
+fg)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-pdftex.def
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-common-pdf.def)))
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+ssoftpath.code.tex)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+sprotocol.code.tex))
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+e.code.tex
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.
+code.tex)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparse
+r.code.tex)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.code.tex)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.basic.code.tex)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.trigonometric.code.tex)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.random.code.tex)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.comparison.code.tex)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.base.code.tex)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.round.code.tex)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.misc.code.tex)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.integerarithmetics.code.tex)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.
+code.tex)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat
+.code.tex))
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.
+tex)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epoints.code.tex)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathconstruct.code.tex)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathusage.code.tex)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+escopes.code.tex)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+egraphicstate.code.tex)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransformations.code.tex)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+equick.code.tex)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eobjects.code.tex)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathprocessing.code.tex)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+earrows.code.tex)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eshade.code.tex)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eimage.code.tex)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eexternal.code.tex)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+elayers.code.tex)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransparency.code.tex)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epatterns.code.tex)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+erdf.code.tex)))
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+shapes.code.tex)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+plot.code.tex)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
+mp-version-0-65.sty)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
+mp-version-1-18.sty))
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.st
+y
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.s
+ty
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex))
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex))
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.
+code.tex))
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z\tikz.code.tex
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryplothandlers.code.tex)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+matrix.code.tex)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarytopaths.code.tex)))
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.sty)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/environ\environ.sty
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/trimspaces\trimspaces.s
+ty))
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbraster.cod
+e.tex
+Library (tcolorbox): 'tcbraster.code.tex' version '6.8.0'
+)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbskins.code
+.tex
+Library (tcolorbox): 'tcbskins.code.tex' version '6.8.0'
+
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/tikzfill\tikzfill.image
+.sty
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/tikzfill\tikzlibraryfil
+l.image.code.tex))
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbskinsjigsa
+w.code.tex
+Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '6.8.0'
+))
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbbreakable.
+code.tex
+Library (tcolorbox): 'tcbbreakable.code.tex' version '6.8.0'
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/pdfcol\pdfcol.sty
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty)))
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbhooks.code
+.tex
+Library (tcolorbox): 'tcbhooks.code.tex' version '6.8.0'
+)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbtheorems.c
+ode.tex
+Library (tcolorbox): 'tcbtheorems.code.tex' version '6.8.0'
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+For additional information on amsmath, use the `?' option.
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty))
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty)))
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbfitting.co
+de.tex
+Library (tcolorbox): 'tcbfitting.code.tex' version '6.8.0'
+)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcblistingsut
+f8.code.tex
+Library (tcolorbox): 'tcblistingsutf8.code.tex' version '6.8.0'
+
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcblistings.c
+ode.tex
+Library (tcolorbox): 'tcblistings.code.tex' version '6.8.0'
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstpatch.sty)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg))
+==> First Aid for listings.sty no longer applied!
+    Expected:
+        2024/09/23 1.10c (Carsten Heinz)
+    but found:
+        2025/11/14 1.11b (Carsten Heinz)
+    so I'm assuming it got fixed.
+
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcblistingsco
+re.code.tex
+Library (tcolorbox): 'tcblistingscore.code.tex' version '6.8.0'
+
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbprocessing
+.code.tex
+Library (tcolorbox): 'tcbprocessing.code.tex' version '6.8.0'
+)))
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/listingsutf8\listingsut
+f8.sty
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.s
+ty
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
+ty))))
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbexternal.c
+ode.tex
+Library (tcolorbox): 'tcbexternal.code.tex' version '6.8.0'
+)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbmagazine.c
+ode.tex
+Library (tcolorbox): 'tcbmagazine.code.tex' version '6.8.0'
+)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbvignette.c
+ode.tex
+Library (tcolorbox): 'tcbvignette.code.tex' version '6.8.0'
+
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryfadings.code.tex
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryfadings.code.tex)))
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbposter.cod
+e.tex
+Library (tcolorbox): 'tcbposter.code.tex' version '6.8.0'
+)) (C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty))
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.sty)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage.sty
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage2e.sty
+
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpagemodern
+.sty) 
+))
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
+lestring.sty))
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
+.sty)))
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
+echeck.sty
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
+ounter.sty))))
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1bch.fd)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def) (main.aux (chapters/01-introduction-to-the-sociology-of-india.aux)
+(chapters/02-the-origin-of-caste.aux)
+(chapters/03-the-indological-perspective.aux)
+(chapters/04-the-critique-of-indology.aux)
+(chapters/05-structural-functionalism-mn-srinivas.aux)
+(chapters/06-the-marxist-perspective-ar-desai.aux)
+(chapters/07-the-subaltern-perspective.aux)
+(chapters/08-social-background-of-indian-nationalism.aux)
+(chapters/09-westernization-and-sanskritization.aux)
+(chapters/10-ar-desai-review-of-the-indian-state.aux)
+(chapters/11-introduction-to-modernization-of-indian-tradition.aux)
+(chapters/12-little-and-great-tradition.aux)
+(chapters/13-tribal-communities-in-india.aux)
+(chapters/14-modernisation-of-indian-tradition.aux)
+(chapters/15-social-reform.aux)
+(chapters/16-perspectives-on-caste-gs-ghurye.aux)
+(chapters/17-ghurye-features-of-caste.aux)
+(chapters/18-mn-srinivas-on-caste.aux) (chapters/19-andre-beteille-on-caste.aux
+) (chapters/20-modern-avatar-of-caste.aux)
+(chapters/21-louis-dumont-on-caste.aux) (chapters/22-summary-and-critique.aux)
+(chapters/23-caste-and-democracy.aux) (chapters/24-caste-and-gender.aux)
+(chapters/25-untouchability-forms-and-perspectives.aux)
+(chapters/26-untouchability-and-caste-past-present-future.aux)
+(chapters/27-the-idea-of-the-indian-village.aux)
+(chapters/28-village-studies.aux) (chapters/29-the-middle-class.aux)
+(chapters/30-the-middle-class-structure-ethos-new-woman.aux)
+(chapters/31-the-womens-movement.aux)
+(chapters/32-indian-feminism-and-environmentalism.aux)
+(chapters/33-the-environment-movement.aux)
+(chapters/34-pyqs-colonial-knowledge-and-the-faction-ridden-village.aux)
+(chapters/35-backward-class-movements.aux) (chapters/36-the-dalit-movement.aux)
+(chapters/37-education-and-social-change.aux) (chapters/38-research-methods.aux
+) (chapters/39-industrialisation-in-india.aux)
+(chapters/40-industrialisation-caste-plantation-mining-informal-sector.aux)
+(chapters/41-urbanisation-in-india.aux)
+(chapters/42-urbanisation-patterns-slums-and-violence.aux)
+(chapters/43-urbanisation-the-state-slums-and-covid19.aux)
+(chapters/44-green-revolution-and-its-impacts.aux)
+(chapters/45-green-revolution-gender-bondage-agrarian-class.aux)
+(chapters/46-mode-of-production-and-challenges-of-social-transformation.aux)
+(chapters/47-challenges-of-social-transformation-women-caste-ethnicity.aux)
+(chapters/48-population-dynamics-poverty-communalism-sex-ratio.aux)
+(chapters/49-art-ageing-and-the-family.aux) (chapters/50-kinship-in-india.aux)
+(chapters/51-developmental-planning-nationalism-citizenship.aux)
+(chapters/52-regionalism-decentralisation-minority.aux)
+(chapters/53-contemporary-issues-2021.aux)
+(chapters/54-tribes-regionalism-ethno-nationalism.aux)
+(chapters/55-how-to-approach-the-exam-2022.aux))
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-bch.cfg)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg)) (main.out) (main.out)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1phv.fd)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1phv.fd)
+[1{C:/Users/princ/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/pr
+inc/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}] (main.toc
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg)
+[1] [2]
+Underfull \vbox (badness 10000) has occurred while \output is active [3]
+Underfull \vbox (badness 10000) has occurred while \output is active [4]
+Overfull \hbox (1.6879pt too wide) detected at line 171
+\T1/bch/m/n/10.95 13.2.10 
+[5]
+Underfull \vbox (badness 10000) has occurred while \output is active [6]
+Overfull \hbox (2.35432pt too wide) detected at line 246
+\T1/phv/m/n/10.95 17.10 
+
+Overfull \hbox (2.35432pt too wide) detected at line 247
+\T1/phv/m/n/10.95 17.11 
+
+Overfull \hbox (2.35432pt too wide) detected at line 248
+\T1/phv/m/n/10.95 17.12 
+
+Overfull \hbox (1.6879pt too wide) detected at line 270
+\T1/bch/m/n/10.95 18.2.10 
+
+Underfull \vbox (badness 5388) has occurred while \output is active [7]
+Overfull \hbox (2.35432pt too wide) detected at line 305
+\T1/phv/m/n/10.95 21.10 
+
+Overfull \hbox (2.35432pt too wide) detected at line 306
+\T1/phv/m/n/10.95 21.11 
+
+Underfull \vbox (badness 4819) has occurred while \output is active [8]
+Underfull \vbox (badness 1024) has occurred while \output is active [9]
+Underfull \vbox (badness 10000) has occurred while \output is active [10]
+Underfull \vbox (badness 10000) has occurred while \output is active [11]
+Underfull \vbox (badness 10000) has occurred while \output is active [12]
+Underfull \vbox (badness 10000) has occurred while \output is active [13]
+Underfull \vbox (badness 10000) has occurred while \output is active [14])
+[15] (chapters/01-introduction-to-the-sociology-of-india.tex [16]
+Chapter 1.
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1bch.fd)
+Underfull \vbox (badness 10000) has occurred while \output is active [17]
+Underfull \vbox (badness 10000) has occurred while \output is active [18]
+Underfull \vbox (badness 10000) has occurred while \output is active [19]
+Underfull \vbox (badness 10000) has occurred while \output is active [20]
+Underfull \vbox (badness 10000) has occurred while \output is active [21]
+Underfull \vbox (badness 10000) has occurred while \output is active [22]
+Underfull \vbox (badness 10000) has occurred while \output is active [23]
+Underfull \vbox (badness 10000) has occurred while \output is active [24]
+Underfull \vbox (badness 10000) has occurred while \output is active [25]
+Underfull \vbox (badness 10000) has occurred while \output is active [26]
+Underfull \vbox (badness 10000) has occurred while \output is active [27])
+[28] (chapters/02-the-origin-of-caste.tex
+Chapter 2.
+
+Underfull \vbox (badness 10000) has occurred while \output is active [29]
+Underfull \vbox (badness 10000) has occurred while \output is active [30]
+Underfull \vbox (badness 10000) has occurred while \output is active [31]
+Underfull \vbox (badness 10000) has occurred while \output is active [32]
+Underfull \vbox (badness 10000) has occurred while \output is active [33]
+Underfull \vbox (badness 10000) has occurred while \output is active [34]
+Underfull \vbox (badness 10000) has occurred while \output is active [35]
+Underfull \vbox (badness 10000) has occurred while \output is active [36]
+Underfull \vbox (badness 10000) has occurred while \output is active [37]
+Underfull \vbox (badness 10000) has occurred while \output is active [38])
+[39] (chapters/03-the-indological-perspective.tex [40]
+Chapter 3.
+
+Underfull \vbox (badness 10000) has occurred while \output is active [41]
+Underfull \vbox (badness 10000) has occurred while \output is active [42]
+Underfull \vbox (badness 10000) has occurred while \output is active [43]
+Underfull \vbox (badness 10000) has occurred while \output is active [44]
+Underfull \vbox (badness 10000) has occurred while \output is active [45]
+Underfull \vbox (badness 10000) has occurred while \output is active [46]
+Underfull \vbox (badness 10000) has occurred while \output is active [47]
+Underfull \vbox (badness 10000) has occurred while \output is active [48]
+Underfull \vbox (badness 10000) has occurred while \output is active [49]
+Underfull \vbox (badness 10000) has occurred while \output is active [50]
+Underfull \vbox (badness 10000) has occurred while \output is active [51])
+[52] (chapters/04-the-critique-of-indology.tex
+Chapter 4.
+
+Underfull \vbox (badness 10000) has occurred while \output is active [53]
+Underfull \vbox (badness 10000) has occurred while \output is active [54]
+Underfull \vbox (badness 10000) has occurred while \output is active [55]
+Underfull \vbox (badness 10000) has occurred while \output is active [56]
+Underfull \vbox (badness 10000) has occurred while \output is active [57])
+[58] (chapters/05-structural-functionalism-mn-srinivas.tex
+Chapter 5.
+
+Underfull \vbox (badness 10000) has occurred while \output is active [59]
+Underfull \vbox (badness 10000) has occurred while \output is active [60]
+Underfull \vbox (badness 10000) has occurred while \output is active [61]
+Underfull \vbox (badness 10000) has occurred while \output is active [62]
+Underfull \vbox (badness 10000) has occurred while \output is active [63]
+Underfull \vbox (badness 10000) has occurred while \output is active [64])
+[65] (chapters/06-the-marxist-perspective-ar-desai.tex [66]
+Chapter 6.
+
+Underfull \vbox (badness 10000) has occurred while \output is active [67]
+Underfull \vbox (badness 10000) has occurred while \output is active [68]
+Underfull \vbox (badness 10000) has occurred while \output is active [69])
+[70] (chapters/07-the-subaltern-perspective.tex
+Chapter 7.
+
+Underfull \vbox (badness 10000) has occurred while \output is active [71]
+Underfull \vbox (badness 10000) has occurred while \output is active [72]
+Underfull \vbox (badness 10000) has occurred while \output is active [73])
+[74] (chapters/08-social-background-of-indian-nationalism.tex
+Chapter 8.
+
+Underfull \vbox (badness 10000) has occurred while \output is active [75]
+Underfull \vbox (badness 10000) has occurred while \output is active [76]
+Underfull \vbox (badness 10000) has occurred while \output is active [77])
+[78] (chapters/09-westernization-and-sanskritization.tex
+Chapter 9.
+
+Underfull \vbox (badness 10000) has occurred while \output is active [79]
+Underfull \vbox (badness 10000) has occurred while \output is active [80])
+[81] (chapters/10-ar-desai-review-of-the-indian-state.tex [82]
+Chapter 10.
+
+Underfull \vbox (badness 10000) has occurred while \output is active [83]
+Underfull \vbox (badness 10000) has occurred while \output is active [84]
+Underfull \vbox (badness 10000) has occurred while \output is active [85])
+[86] (chapters/11-introduction-to-modernization-of-indian-tradition.tex
+Chapter 11.
+
+Underfull \vbox (badness 10000) has occurred while \output is active [87])
+[88] (chapters/12-little-and-great-tradition.tex
+Chapter 12.
+
+Underfull \vbox (badness 10000) has occurred while \output is active [89]
+Underfull \vbox (badness 10000) has occurred while \output is active [90]
+Underfull \vbox (badness 10000) has occurred while \output is active [91]
+Underfull \vbox (badness 10000) has occurred while \output is active [92]
+Underfull \vbox (badness 10000) has occurred while \output is active [93]
+Underfull \vbox (badness 10000) has occurred while \output is active [94])
+[95] (chapters/13-tribal-communities-in-india.tex [96]
+Chapter 13.
+
+Underfull \vbox (badness 10000) has occurred while \output is active [97]
+Underfull \vbox (badness 10000) has occurred while \output is active [98]
+Underfull \vbox (badness 10000) has occurred while \output is active [99]
+Underfull \vbox (badness 10000) has occurred while \output is active [100]
+Underfull \vbox (badness 10000) has occurred while \output is active [101]
+Underfull \vbox (badness 10000) has occurred while \output is active [102]
+Underfull \vbox (badness 10000) has occurred while \output is active [103]
+Underfull \vbox (badness 10000) has occurred while \output is active [104]
+Underfull \vbox (badness 10000) has occurred while \output is active [105]
+Underfull \vbox (badness 10000) has occurred while \output is active [106]
+Underfull \vbox (badness 10000) has occurred while \output is active [107]
+Underfull \vbox (badness 10000) has occurred while \output is active [108]
+Underfull \vbox (badness 10000) has occurred while \output is active [109]
+Underfull \vbox (badness 10000) has occurred while \output is active [110]
+Underfull \vbox (badness 10000) has occurred while \output is active [111]
+Underfull \vbox (badness 10000) has occurred while \output is active [112]
+Underfull \vbox (badness 10000) has occurred while \output is active [113]
+Underfull \vbox (badness 10000) has occurred while \output is active [114]
+Underfull \vbox (badness 10000) has occurred while \output is active [115]
+Underfull \vbox (badness 10000) has occurred while \output is active [116]
+Underfull \vbox (badness 10000) has occurred while \output is active [117]
+Underfull \vbox (badness 10000) has occurred while \output is active [118]
+Underfull \vbox (badness 10000) has occurred while \output is active [119]
+Underfull \vbox (badness 10000) has occurred while \output is active [120]
+Underfull \vbox (badness 10000) has occurred while \output is active [121]
+Underfull \vbox (badness 10000) has occurred while \output is active [122]
+Underfull \vbox (badness 10000) has occurred while \output is active [123]
+Underfull \vbox (badness 10000) has occurred while \output is active [124]
+Underfull \vbox (badness 10000) has occurred while \output is active [125]
+Underfull \vbox (badness 10000) has occurred while \output is active [126]
+Underfull \vbox (badness 10000) has occurred while \output is active [127]
+Underfull \vbox (badness 10000) has occurred while \output is active [128]
+Underfull \vbox (badness 10000) has occurred while \output is active [129]
+Underfull \vbox (badness 10000) has occurred while \output is active [130])
+[131] (chapters/14-modernisation-of-indian-tradition.tex [132]
+Chapter 14.
+
+Overfull \hbox (7.68103pt too wide) in paragraph at lines 1--1
+|\T1/phv/b/n/20 (-20) Modernization of In-dian Tra-di-tion (Yo-gen-dra Singh)| 
+
+
+Underfull \hbox (badness 2050) in paragraph at lines 17--18
+[]\T1/bch/m/n/10.4 (+20) Modernization is \T1/bch/b/n/10.4 (+20) not a static s
+tate \T1/bch/m/n/10.4 (+20) --- it is a \T1/bch/b/n/10.4 (+20) con-tin-u-ous, d
+y-namic pro-cess \T1/bch/m/n/10.4 (+20) (not
+
+Underfull \vbox (badness 10000) has occurred while \output is active [133]
+Underfull \vbox (badness 10000) has occurred while \output is active [134]
+Underfull \vbox (badness 10000) has occurred while \output is active [135]
+Underfull \vbox (badness 10000) has occurred while \output is active [136]
+Underfull \vbox (badness 10000) has occurred while \output is active [137]
+Underfull \hbox (badness 10000) in paragraph at lines 147--148
+[]\T1/bch/m/n/10.4 (+20) Four di-men-sions: psy-cho-log-i-cal (am-bi-tion/innov
+ation), po-lit-i-cal (West-min-
+) [138] (chapters/15-social-reform.tex
+Chapter 15.
+
+Underfull \vbox (badness 10000) has occurred while \output is active [139]
+Underfull \vbox (badness 10000) has occurred while \output is active [140]
+Underfull \vbox (badness 10000) has occurred while \output is active [141]
+Underfull \vbox (badness 10000) has occurred while \output is active [142]
+Underfull \vbox (badness 10000) has occurred while \output is active [143])
+[144] (chapters/16-perspectives-on-caste-gs-ghurye.tex
+Chapter 16.
+
+Underfull \vbox (badness 10000) has occurred while \output is active [145]
+Underfull \vbox (badness 10000) has occurred while \output is active [146]
+Underfull \vbox (badness 10000) has occurred while \output is active [147]
+Underfull \vbox (badness 10000) has occurred while \output is active [148]
+Underfull \vbox (badness 10000) has occurred while \output is active [149]
+Underfull \hbox (badness 4940) in paragraph at lines 154--155
+[]\T1/bch/m/n/10.4 (+20) Six fea-tures of caste: valid as of the 1920s (tra-di-
+tional so-ci-ety); com-par-a-
+) [150] (chapters/17-ghurye-features-of-caste.tex
+Chapter 17.
+
+Underfull \vbox (badness 10000) has occurred while \output is active [151]
+Underfull \vbox (badness 10000) has occurred while \output is active [152]
+Underfull \vbox (badness 10000) has occurred while \output is active [153]
+Underfull \vbox (badness 10000) has occurred while \output is active [154]
+Underfull \vbox (badness 10000) has occurred while \output is active [155]
+Underfull \vbox (badness 10000) has occurred while \output is active [156]
+Underfull \hbox (badness 10000) in paragraph at lines 208--209
+[]\T1/bch/m/n/10.4 (+20) Conclusion: Ghurye's ac-count = foun-da-tion of In-dia
+n so-ci-ol-ogy; chain
+) [157] (chapters/18-mn-srinivas-on-caste.tex [158]
+Chapter 18.
+
+Underfull \vbox (badness 10000) has occurred while \output is active [159]
+Underfull \vbox (badness 10000) has occurred while \output is active [160]
+Underfull \vbox (badness 10000) has occurred while \output is active [161]
+Underfull \vbox (badness 10000) has occurred while \output is active [162]
+Underfull \vbox (badness 10000) has occurred while \output is active [163]
+Underfull \vbox (badness 10000) has occurred while \output is active [164]
+Underfull \vbox (badness 10000) has occurred while \output is active [165]
+Underfull \vbox (badness 10000) has occurred while \output is active [166])
+[167] (chapters/19-andre-beteille-on-caste.tex [168]
+Chapter 19.
+
+Underfull \vbox (badness 10000) has occurred while \output is active [169]
+Underfull \vbox (badness 10000) has occurred while \output is active [170]
+Underfull \vbox (badness 10000) has occurred while \output is active [171]
+Underfull \vbox (badness 10000) has occurred while \output is active [172]
+Underfull \vbox (badness 10000) has occurred while \output is active [173]
+Underfull \vbox (badness 10000) has occurred while \output is active [174]
+Underfull \vbox (badness 10000) has occurred while \output is active [175])
+[176] (chapters/20-modern-avatar-of-caste.tex
+Chapter 20.
+
+Underfull \vbox (badness 10000) has occurred while \output is active [177]
+Underfull \vbox (badness 10000) has occurred while \output is active [178])
+[179] (chapters/21-louis-dumont-on-caste.tex [180]
+Chapter 21.
+
+Underfull \vbox (badness 10000) has occurred while \output is active [181]
+Underfull \vbox (badness 10000) has occurred while \output is active [182]
+Underfull \vbox (badness 10000) has occurred while \output is active [183]
+Underfull \vbox (badness 10000) has occurred while \output is active [184]
+Underfull \vbox (badness 10000) has occurred while \output is active [185]
+Underfull \hbox (badness 1859) in paragraph at lines 170--171
+[]\T1/bch/m/n/10.4 (+20) Texts: P. V. Kane (His-tory of Dhar-mashas-tra; pu-rit
+y via en-dogamy) and Harita
+) [186] (chapters/22-summary-and-critique.tex
+Chapter 22.
+
+Underfull \hbox (badness 2057) in paragraph at lines 17--18
+[]\T1/bch/m/n/10.4 (+20) Summary key-words: Ghurye = In-do-log-i-cal/Evolutiona
+ry/Comparative; Srini-vas =
+
+Underfull \vbox (badness 10000) has occurred while \output is active [187]
+Underfull \vbox (badness 10000) has occurred while \output is active [188]
+Underfull \vbox (badness 10000) has occurred while \output is active [189])
+[190] (chapters/23-caste-and-democracy.tex
+Chapter 23.
+
+Underfull \hbox (badness 4391) in paragraph at lines 14--15
+[]\T1/bch/m/n/10.4 (+20) The les-son: \T1/bch/b/n/10.4 (+20) ad-dress the de-ma
+nd \T1/bch/m/n/10.4 (+20) --- a 4th/5th-attempt stu-dent who dumps
+
+Underfull \hbox (badness 1616) in paragraph at lines 14--15
+\T1/bch/m/n/10.4 (+20) the whole Coorg case study and the three di-men-sions of
+ West-ern-iza-tion (in-sti-tu-
+
+Underfull \vbox (badness 10000) has occurred while \output is active [191]
+Underfull \vbox (badness 10000) has occurred while \output is active [192]
+Underfull \vbox (badness 10000) has occurred while \output is active [193]
+Underfull \vbox (badness 10000) has occurred while \output is active [194]
+Underfull \vbox (badness 10000) has occurred while \output is active [195]
+Underfull \vbox (badness 10000) has occurred while \output is active [196]
+Underfull \hbox (badness 10000) in paragraph at lines 192--193
+[]\T1/bch/m/n/10.4 (+20) Phase 1 (1890s--1930s): ur-ban as-so-ci-a-tions, co-op
+-er-a-tive so-ci-eties (hous-
+
+Underfull \vbox (badness 10000) has occurred while \output is active [197])
+[198] (chapters/24-caste-and-gender.tex
+Chapter 24.
+
+Underfull \vbox (badness 10000) has occurred while \output is active [199]
+Underfull \vbox (badness 10000) has occurred while \output is active [200]
+Underfull \vbox (badness 10000) has occurred while \output is active [201])
+[202] (chapters/25-untouchability-forms-and-perspectives.tex
+Chapter 25.
+
+Underfull \vbox (badness 10000) has occurred while \output is active [203]
+Underfull \vbox (badness 10000) has occurred while \output is active [204]
+Underfull \vbox (badness 10000) has occurred while \output is active [205]
+Underfull \vbox (badness 10000) has occurred while \output is active [206])
+[207] (chapters/26-untouchability-and-caste-past-present-future.tex [208]
+Chapter 26.
+
+Underfull \vbox (badness 10000) has occurred while \output is active [209]
+Underfull \vbox (badness 10000) has occurred while \output is active [210]
+Underfull \vbox (badness 10000) has occurred while \output is active [211]
+Underfull \hbox (badness 10000) in paragraph at lines 101--102
+[]\T1/bch/m/n/10.4 (+20) Caste past/present/future = qual-i-ta-tive change, not
+ quan-ti-ta-tive: Ghurye
+
+Underfull \hbox (badness 2521) in paragraph at lines 101--102
+\T1/bch/m/n/10.4 (+20) (flexible$\OMS/cmsy/m/n/10 !$\T1/bch/m/n/10.4 (+20) rigi
+d$\OMS/cmsy/m/n/10 !$\T1/bch/m/n/10.4 (+20) both), Srini-vas (vertical$\OMS/cms
+y/m/n/10 !$\T1/bch/m/n/10.4 (+20) horizontal; ritual$\OMS/cmsy/m/n/10 !$\T1/bch
+/m/n/10.4 (+20) secular; OBC = new
+) [212] (chapters/27-the-idea-of-the-indian-village.tex
+Chapter 27.
+
+Underfull \vbox (badness 10000) has occurred while \output is active [213]
+Underfull \vbox (badness 10000) has occurred while \output is active [214]
+Underfull \vbox (badness 10000) has occurred while \output is active [215]
+Underfull \hbox (badness 1163) in paragraph at lines 104--105
+[]\T1/bch/m/n/10.4 (+20) State view: vil-lage un-der-de-vel-oped (mod-ern-iza-t
+ion the-ory); Plan-ning Com-mis-sion;
+
+Underfull \hbox (badness 4660) in paragraph at lines 105--106
+[]\T1/bch/m/n/10.4 (+20) Village stud-ies (1950s-60s): structural-functional (W
+iser/Karimpur/jajmani, Srini-
+) [216] (chapters/28-village-studies.tex
+Chapter 28.
+
+Underfull \vbox (badness 10000) has occurred while \output is active [217]
+Underfull \vbox (badness 10000) has occurred while \output is active [218]
+Underfull \vbox (badness 10000) has occurred while \output is active [219]
+Underfull \vbox (badness 10000) has occurred while \output is active [220])
+[221] (chapters/29-the-middle-class.tex [222]
+Chapter 29.
+
+Underfull \vbox (badness 10000) has occurred while \output is active [223]
+Underfull \vbox (badness 10000) has occurred while \output is active [224]
+Underfull \hbox (badness 2478) in paragraph at lines 93--94
+[]\T1/bch/m/n/10.4 (+20) Old (pre-90s) vs new (post-LPG): con-sump-tion driver,
+ so-cially in-clu-sive, private-
+
+Underfull \vbox (badness 10000) has occurred while \output is active [225])
+[226] (chapters/30-the-middle-class-structure-ethos-new-woman.tex
+Chapter 30.
+
+Underfull \vbox (badness 10000) has occurred while \output is active [227]
+Underfull \vbox (badness 10000) has occurred while \output is active [228]
+Underfull \vbox (badness 10000) has occurred while \output is active [229])
+[230] (chapters/31-the-womens-movement.tex
+Chapter 31.
+
+Underfull \vbox (badness 10000) has occurred while \output is active [231]
+Underfull \vbox (badness 10000) has occurred while \output is active [232]
+Underfull \vbox (badness 10000) has occurred while \output is active [233])
+[234] (chapters/32-indian-feminism-and-environmentalism.tex
+Chapter 32.
+
+Underfull \vbox (badness 10000) has occurred while \output is active [235]
+Underfull \vbox (badness 10000) has occurred while \output is active [236]
+Underfull \vbox (badness 10000) has occurred while \output is active [237]
+Underfull \vbox (badness 10000) has occurred while \output is active [238]
+Underfull \hbox (badness 10000) in paragraph at lines 104--105
+[]\T1/bch/m/n/10.4 (+20) Eco-feminism: Val Plum-wood (du-al-ism --- mas-culin-i
+ty=mind/reason,
+
+Underfull \hbox (badness 2707) in paragraph at lines 104--105
+\T1/bch/m/n/10.4 (+20) women=nature/emotion; 'ecol-ogy is fem-i-nine, de-vel-op
+-ment is pa-tri-ar-chal'); Van-
+) [239] (chapters/33-the-environment-movement.tex [240]
+Chapter 33.
+
+Underfull \vbox (badness 10000) has occurred while \output is active [241]
+Underfull \hbox (badness 1796) in paragraph at lines 40--41
+[]\T1/bch/m/n/10.4 (+20) Indian = eco-cen-tric, Hindu rev-er-ence for na-ture (
+Ad-vaita), re-sponse to de-vel-op-
+
+Underfull \vbox (badness 10000) has occurred while \output is active [242]
+Underfull \vbox (badness 10000) has occurred while \output is active [243]
+Underfull \vbox (badness 10000) has occurred while \output is active [244]
+Underfull \vbox (badness 10000) has occurred while \output is active [245])
+[246] (chapters/34-pyqs-colonial-knowledge-and-the-faction-ridden-village.tex
+Chapter 34.
+
+Overfull \hbox (9.12703pt too wide) in paragraph at lines 1--1
+|\T1/phv/b/n/20 (-20) PYQs: Colo-nial Knowl-edge and the Faction-Ridden
+
+Underfull \vbox (badness 10000) has occurred while \output is active [247]
+Underfull \vbox (badness 10000) has occurred while \output is active [248])
+[249] (chapters/35-backward-class-movements.tex [250]
+Chapter 35.
+
+Underfull \vbox (badness 10000) has occurred while \output is active [251]
+Underfull \vbox (badness 10000) has occurred while \output is active [252]
+Underfull \vbox (badness 10000) has occurred while \output is active [253])
+[254] (chapters/36-the-dalit-movement.tex
+Chapter 36.
+
+Underfull \vbox (badness 10000) has occurred while \output is active [255]
+Underfull \hbox (badness 3746) in paragraph at lines 56--57
+[]\T1/bch/b/n/10.4 (+20) 3. The socio-political mo-bil-i-sa-tion of the Jatavs 
+of Agra \T1/bch/m/n/10.4 (+20) --- un-touch-able
+
+Underfull \vbox (badness 10000) has occurred while \output is active [256]
+Underfull \vbox (badness 10000) has occurred while \output is active [257]
+Underfull \vbox (badness 10000) has occurred while \output is active [258])
+[259] (chapters/37-education-and-social-change.tex [260]
+Chapter 37.
+
+Underfull \vbox (badness 10000) has occurred while \output is active [261]
+Underfull \vbox (badness 10000) has occurred while \output is active [262])
+[263] (chapters/38-research-methods.tex [264]
+Chapter 38.
+
+Underfull \vbox (badness 10000) has occurred while \output is active [265]
+Underfull \vbox (badness 10000) has occurred while \output is active [266]
+Underfull \vbox (badness 10000) has occurred while \output is active [267]
+Underfull \vbox (badness 10000) has occurred while \output is active [268])
+[269] (chapters/39-industrialisation-in-india.tex [270]
+Chapter 39.
+
+Underfull \vbox (badness 10000) has occurred while \output is active [271]
+Underfull \vbox (badness 10000) has occurred while \output is active [272]
+Underfull \vbox (badness 10000) has occurred while \output is active [273])
+[274]
+(chapters/40-industrialisation-caste-plantation-mining-informal-sector.tex
+Chapter 40.
+
+Underfull \vbox (badness 10000) has occurred while \output is active [275]
+Underfull \vbox (badness 10000) has occurred while \output is active [276]
+Underfull \vbox (badness 10000) has occurred while \output is active [277]
+Underfull \vbox (badness 10000) has occurred while \output is active [278])
+[279] (chapters/41-urbanisation-in-india.tex [280]
+Chapter 41.
+
+Underfull \vbox (badness 10000) has occurred while \output is active [281]
+Underfull \vbox (badness 10000) has occurred while \output is active [282]
+Underfull \vbox (badness 10000) has occurred while \output is active [283])
+[284] (chapters/42-urbanisation-patterns-slums-and-violence.tex
+Chapter 42.
+
+Underfull \vbox (badness 10000) has occurred while \output is active [285]
+Underfull \vbox (badness 10000) has occurred while \output is active [286]
+Underfull \hbox (badness 1077) in paragraph at lines 77--78
+[]\T1/bch/m/n/10.4 (+20) 6. \T1/bch/b/n/10.4 (+20) A dis-tinct po-lit-i-cal cul
+-ture \T1/bch/m/n/10.4 (+20) --- at-tracted by \T1/bch/b/n/10.4 (+20) wel-fare 
+nar-ra-tives \T1/bch/m/n/10.4 (+20) (free elec-tric-
+
+Underfull \vbox (badness 10000) has occurred while \output is active [287])
+[288] (chapters/43-urbanisation-the-state-slums-and-covid19.tex
+Chapter 43.
+
+Overfull \hbox (6.84514pt too wide) in paragraph at lines 1--1
+|\T1/phv/b/n/20 (-20) Urbanisation in In-dia: The State, Slums and COVID-
+
+Underfull \vbox (badness 10000) has occurred while \output is active [289]
+Underfull \hbox (badness 3386) in paragraph at lines 51--52
+[]\T1/bch/m/n/10.4 (+20) Emma Tarlo: Emer-gency; 'mar-gins of the state'; steri
+lisation-for-house (San-jay
+
+Underfull \vbox (badness 10000) has occurred while \output is active [290]
+Underfull \vbox (badness 10000) has occurred while \output is active [291])
+[292] (chapters/44-green-revolution-and-its-impacts.tex
+Chapter 44.
+
+Underfull \vbox (badness 10000) has occurred while \output is active [293]
+Underfull \vbox (badness 10000) has occurred while \output is active [294]
+Underfull \vbox (badness 10000) has occurred while \output is active [295]
+Underfull \vbox (badness 10000) has occurred while \output is active [296]
+Underfull \hbox (badness 1199) in paragraph at lines 124--125
+\T1/bch/m/n/10.4 (+20) tal in-come); labour-ers (Rs.1,686) out-stripped peas-an
+ts (Rs.1,333); class struc-ture
+
+Underfull \vbox (badness 10000) has occurred while \output is active [297]
+Underfull \vbox (badness 10000) has occurred while \output is active [298])
+[299] (chapters/45-green-revolution-gender-bondage-agrarian-class.tex [300]
+Chapter 45.
+
+Underfull \vbox (badness 10000) has occurred while \output is active [301]
+Underfull \vbox (badness 10000) has occurred while \output is active [302]
+Underfull \vbox (badness 10000) has occurred while \output is active [303]
+Underfull \vbox (badness 10000) has occurred while \output is active [304])
+[305]
+(chapters/46-mode-of-production-and-challenges-of-social-transformation.tex
+[306]
+Chapter 46.
+
+Underfull \vbox (badness 10000) has occurred while \output is active [307]
+Underfull \vbox (badness 10000) has occurred while \output is active [308]
+Underfull \vbox (badness 10000) has occurred while \output is active [309]
+Underfull \hbox (badness 10000) in paragraph at lines 89--90
+[]\T1/bch/m/n/10.4 (+20) Development = qual-i-ta-tive (lifestyle changes); grow
+th = quan-ti-ta-tive; eco-
+
+Underfull \vbox (badness 10000) has occurred while \output is active [310])
+[311]
+(chapters/47-challenges-of-social-transformation-women-caste-ethnicity.tex
+[312]
+Chapter 47.
+
+Underfull \vbox (badness 10000) has occurred while \output is active [313]
+Underfull \vbox (badness 10000) has occurred while \output is active [314]
+Underfull \vbox (badness 10000) has occurred while \output is active [315])
+[316] (chapters/48-population-dynamics-poverty-communalism-sex-ratio.tex
+Chapter 48.
+
+Underfull \vbox (badness 10000) has occurred while \output is active [317]
+Underfull \vbox (badness 10000) has occurred while \output is active [318]
+Underfull \vbox (badness 10000) has occurred while \output is active [319]
+Underfull \hbox (badness 10000) in paragraph at lines 71--72
+[]\T1/bch/m/n/10.4 (+20) Dumont (hy-per-gamy), Pocock (Pati-dar), Lata Mani (Sa
+ti $\OMS/cmsy/m/n/10 ^^X$\T1/bch/m/n/10.4 (+20) 250,
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--72
+\T1/bch/m/n/10.4 (+20) middle-caste San-skri-ti-sa-tion); Srini-vas's Di-maru e
+s-tates (Pun-
+
+Underfull \vbox (badness 10000) has occurred while \output is active [320])
+[321] (chapters/49-art-ageing-and-the-family.tex [322]
+Chapter 49.
+
+Underfull \vbox (badness 10000) has occurred while \output is active [323]
+Underfull \vbox (badness 10000) has occurred while \output is active [324]
+Underfull \vbox (badness 10000) has occurred while \output is active [325])
+[326] (chapters/50-kinship-in-india.tex
+Chapter 50.
+
+Underfull \vbox (badness 10000) has occurred while \output is active [327]
+Underfull \vbox (badness 10000) has occurred while \output is active [328]
+Underfull \vbox (badness 10000) has occurred while \output is active [329])
+[330] (chapters/51-developmental-planning-nationalism-citizenship.tex
+Chapter 51.
+
+Underfull \hbox (badness 5578) in paragraph at lines 13--14
+[]\T1/bch/b/n/10.4 (+20) Post-1991 (ne-olib-er-al-ism)\T1/bch/m/n/10.4 (+20) : 
+state re-treats from mar-ket (dis-in-vest-ment), trans-
+
+Underfull \vbox (badness 10000) has occurred while \output is active [331]
+Underfull \hbox (badness 1152) in paragraph at lines 40--41
+[]\T1/bch/m/n/10.4 (+20) Tagore (anti-nationalist; home-land; Kabir/Nanak/Bulle
+shah), Gandhi (spir-i-tual free-
+
+Underfull \hbox (badness 2285) in paragraph at lines 40--41
+\T1/bch/m/n/10.4 (+20) dom; Gram Swaraj; inter-nationalism), Savarkar (Hin-dutv
+a $\OMS/cmsy/m/n/10 6\OT1/cmr/m/n/10 =$ \T1/bch/m/n/10.4 (+20) Hin-duism; Pitru
+b-
+
+Underfull \vbox (badness 10000) has occurred while \output is active [332]
+Underfull \vbox (badness 10000) has occurred while \output is active [333])
+[334] (chapters/52-regionalism-decentralisation-minority.tex
+Chapter 52.
+
+Underfull \vbox (badness 10000) has occurred while \output is active [335]
+Underfull \vbox (badness 10000) has occurred while \output is active [336])
+[337] (chapters/53-contemporary-issues-2021.tex [338]
+Chapter 53.
+
+Underfull \vbox (badness 10000) has occurred while \output is active [339]
+Underfull \vbox (badness 10000) has occurred while \output is active [340]
+Underfull \vbox (badness 10000) has occurred while \output is active [341]
+Underfull \vbox (badness 10000) has occurred while \output is active [342])
+[343] (chapters/54-tribes-regionalism-ethno-nationalism.tex [344]
+Chapter 54.
+
+Underfull \vbox (badness 10000) has occurred while \output is active [345]
+Underfull \vbox (badness 10000) has occurred while \output is active [346])
+[347] (chapters/55-how-to-approach-the-exam-2022.tex [348]
+Chapter 55.
+
+Underfull \vbox (badness 10000) has occurred while \output is active [349])
+[350] 
+enddocument/afterlastpage (AED): lastpage setting LastPage.
+(main.aux (chapters/01-introduction-to-the-sociology-of-india.aux)
+(chapters/02-the-origin-of-caste.aux)
+(chapters/03-the-indological-perspective.aux)
+(chapters/04-the-critique-of-indology.aux)
+(chapters/05-structural-functionalism-mn-srinivas.aux)
+(chapters/06-the-marxist-perspective-ar-desai.aux)
+(chapters/07-the-subaltern-perspective.aux)
+(chapters/08-social-background-of-indian-nationalism.aux)
+(chapters/09-westernization-and-sanskritization.aux)
+(chapters/10-ar-desai-review-of-the-indian-state.aux)
+(chapters/11-introduction-to-modernization-of-indian-tradition.aux)
+(chapters/12-little-and-great-tradition.aux)
+(chapters/13-tribal-communities-in-india.aux)
+(chapters/14-modernisation-of-indian-tradition.aux)
+(chapters/15-social-reform.aux)
+(chapters/16-perspectives-on-caste-gs-ghurye.aux)
+(chapters/17-ghurye-features-of-caste.aux)
+(chapters/18-mn-srinivas-on-caste.aux) (chapters/19-andre-beteille-on-caste.aux
+) (chapters/20-modern-avatar-of-caste.aux)
+(chapters/21-louis-dumont-on-caste.aux) (chapters/22-summary-and-critique.aux)
+(chapters/23-caste-and-democracy.aux) (chapters/24-caste-and-gender.aux)
+(chapters/25-untouchability-forms-and-perspectives.aux)
+(chapters/26-untouchability-and-caste-past-present-future.aux)
+(chapters/27-the-idea-of-the-indian-village.aux)
+(chapters/28-village-studies.aux) (chapters/29-the-middle-class.aux)
+(chapters/30-the-middle-class-structure-ethos-new-woman.aux)
+(chapters/31-the-womens-movement.aux)
+(chapters/32-indian-feminism-and-environmentalism.aux)
+(chapters/33-the-environment-movement.aux)
+(chapters/34-pyqs-colonial-knowledge-and-the-faction-ridden-village.aux)
+(chapters/35-backward-class-movements.aux) (chapters/36-the-dalit-movement.aux)
+(chapters/37-education-and-social-change.aux) (chapters/38-research-methods.aux
+) (chapters/39-industrialisation-in-india.aux)
+(chapters/40-industrialisation-caste-plantation-mining-informal-sector.aux)
+(chapters/41-urbanisation-in-india.aux)
+(chapters/42-urbanisation-patterns-slums-and-violence.aux)
+(chapters/43-urbanisation-the-state-slums-and-covid19.aux)
+(chapters/44-green-revolution-and-its-impacts.aux)
+(chapters/45-green-revolution-gender-bondage-agrarian-class.aux)
+(chapters/46-mode-of-production-and-challenges-of-social-transformation.aux)
+(chapters/47-challenges-of-social-transformation-women-caste-ethnicity.aux)
+(chapters/48-population-dynamics-poverty-communalism-sex-ratio.aux)
+(chapters/49-art-ageing-and-the-family.aux) (chapters/50-kinship-in-india.aux)
+(chapters/51-developmental-planning-nationalism-citizenship.aux)
+(chapters/52-regionalism-decentralisation-minority.aux)
+(chapters/53-contemporary-issues-2021.aux)
+(chapters/54-tribes-regionalism-ethno-nationalism.aux)
+(chapters/55-how-to-approach-the-exam-2022.aux))
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ )
+(see the transcript file for additional information)<C:/Users/princ/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchb8a.pfb><C:/Users/princ/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Users/pri
+nc/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchri8a.pfb><C:/U
+sers/princ/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.p
+fb><C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
+/cmsy10.pfb><C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helve
+tic/uhvb8a.pfb><C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/type1/urw/he
+lvetic/uhvbo8a.pfb><C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/type1/ur
+w/helvetic/uhvr8a.pfb>
+Output written on main.pdf (351 pages, 1812668 bytes).
+Transcript written on main.log.

@@ -1,0 +1,2281 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex.fmt)
+ restricted \write18 enabled.
+entering extended mode
+(main.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-11-06>
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
+Document Class: book 2025/01/22 v1.4n Standard LaTeX document class
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/base\bk11.clo))
+(preamble.tex
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\charter.sty)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\helvet.sty
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty))
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.sty
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-pdf
+tex.def)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.cfg
+))
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty))
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg)
+
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+) (C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+) (C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/parskip\parskip.sty
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+)))
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/needspace\needspace.sty
+) (C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+) (C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/tocloft\tocloft.sty
+
+Package tocloft Warning: \@starttoc has already been redefined; tocloft bailing
+ out. on input line 1156.
+
+) (C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcolorbox.sty
+
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.
+sty
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.st
+y
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-common.tex)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-latex.def)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.
+code.tex
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+))
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.
+sty
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg)))
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.
+sty
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s.code.tex
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+libraryfiltered.code.tex))
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.c
+fg)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-pdftex.def
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-common-pdf.def)))
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+ssoftpath.code.tex)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+sprotocol.code.tex))
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+e.code.tex
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.
+code.tex)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparse
+r.code.tex)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.code.tex)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.basic.code.tex)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.trigonometric.code.tex)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.random.code.tex)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.comparison.code.tex)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.base.code.tex)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.round.code.tex)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.misc.code.tex)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.integerarithmetics.code.tex)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.
+code.tex)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat
+.code.tex))
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.
+tex)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epoints.code.tex)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathconstruct.code.tex)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathusage.code.tex)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+escopes.code.tex)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+egraphicstate.code.tex)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransformations.code.tex)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+equick.code.tex)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eobjects.code.tex)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathprocessing.code.tex)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+earrows.code.tex)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eshade.code.tex)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eimage.code.tex)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eexternal.code.tex)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+elayers.code.tex)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransparency.code.tex)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epatterns.code.tex)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+erdf.code.tex)))
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+shapes.code.tex)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+plot.code.tex)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
+mp-version-0-65.sty)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
+mp-version-1-18.sty))
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.st
+y
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.s
+ty
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex))
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex))
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.
+code.tex))
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z\tikz.code.tex
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryplothandlers.code.tex)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+matrix.code.tex)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarytopaths.code.tex)))
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.sty)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/environ\environ.sty
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/trimspaces\trimspaces.s
+ty))
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbraster.cod
+e.tex
+Library (tcolorbox): 'tcbraster.code.tex' version '6.8.0'
+)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbskins.code
+.tex
+Library (tcolorbox): 'tcbskins.code.tex' version '6.8.0'
+
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/tikzfill\tikzfill.image
+.sty
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/tikzfill\tikzlibraryfil
+l.image.code.tex))
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbskinsjigsa
+w.code.tex
+Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '6.8.0'
+))
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbbreakable.
+code.tex
+Library (tcolorbox): 'tcbbreakable.code.tex' version '6.8.0'
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/pdfcol\pdfcol.sty
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty)))
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbhooks.code
+.tex
+Library (tcolorbox): 'tcbhooks.code.tex' version '6.8.0'
+)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbtheorems.c
+ode.tex
+Library (tcolorbox): 'tcbtheorems.code.tex' version '6.8.0'
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+For additional information on amsmath, use the `?' option.
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty))
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty)))
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbfitting.co
+de.tex
+Library (tcolorbox): 'tcbfitting.code.tex' version '6.8.0'
+)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcblistingsut
+f8.code.tex
+Library (tcolorbox): 'tcblistingsutf8.code.tex' version '6.8.0'
+
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcblistings.c
+ode.tex
+Library (tcolorbox): 'tcblistings.code.tex' version '6.8.0'
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstpatch.sty)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg))
+==> First Aid for listings.sty no longer applied!
+    Expected:
+        2024/09/23 1.10c (Carsten Heinz)
+    but found:
+        2025/11/14 1.11b (Carsten Heinz)
+    so I'm assuming it got fixed.
+
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcblistingsco
+re.code.tex
+Library (tcolorbox): 'tcblistingscore.code.tex' version '6.8.0'
+
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbprocessing
+.code.tex
+Library (tcolorbox): 'tcbprocessing.code.tex' version '6.8.0'
+)))
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/listingsutf8\listingsut
+f8.sty
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.s
+ty
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
+ty))))
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbexternal.c
+ode.tex
+Library (tcolorbox): 'tcbexternal.code.tex' version '6.8.0'
+)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbmagazine.c
+ode.tex
+Library (tcolorbox): 'tcbmagazine.code.tex' version '6.8.0'
+)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbvignette.c
+ode.tex
+Library (tcolorbox): 'tcbvignette.code.tex' version '6.8.0'
+
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryfadings.code.tex
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryfadings.code.tex)))
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbposter.cod
+e.tex
+Library (tcolorbox): 'tcbposter.code.tex' version '6.8.0'
+)) (C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty))
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.sty)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage.sty
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage2e.sty
+
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpagemodern
+.sty) 
+))
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
+lestring.sty))
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
+.sty)))
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
+echeck.sty
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
+ounter.sty))))
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1bch.fd)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def) (main.aux (chapters/01-introduction-to-the-sociology-of-india.aux)
+(chapters/02-the-origin-of-caste.aux)
+(chapters/03-the-indological-perspective.aux)
+(chapters/04-the-critique-of-indology.aux)
+(chapters/05-structural-functionalism-mn-srinivas.aux)
+(chapters/06-the-marxist-perspective-ar-desai.aux)
+(chapters/07-the-subaltern-perspective.aux)
+(chapters/08-social-background-of-indian-nationalism.aux)
+(chapters/09-westernization-and-sanskritization.aux)
+(chapters/10-ar-desai-review-of-the-indian-state.aux)
+(chapters/11-introduction-to-modernization-of-indian-tradition.aux)
+(chapters/12-little-and-great-tradition.aux)
+(chapters/13-tribal-communities-in-india.aux)
+(chapters/14-modernisation-of-indian-tradition.aux)
+(chapters/15-social-reform.aux)
+(chapters/16-perspectives-on-caste-gs-ghurye.aux)
+(chapters/17-ghurye-features-of-caste.aux)
+(chapters/18-mn-srinivas-on-caste.aux) (chapters/19-andre-beteille-on-caste.aux
+) (chapters/20-modern-avatar-of-caste.aux)
+(chapters/21-louis-dumont-on-caste.aux) (chapters/22-summary-and-critique.aux)
+(chapters/23-caste-and-democracy.aux) (chapters/24-caste-and-gender.aux)
+(chapters/25-untouchability-forms-and-perspectives.aux)
+(chapters/26-untouchability-and-caste-past-present-future.aux)
+(chapters/27-the-idea-of-the-indian-village.aux)
+(chapters/28-village-studies.aux) (chapters/29-the-middle-class.aux)
+(chapters/30-the-middle-class-structure-ethos-new-woman.aux)
+(chapters/31-the-womens-movement.aux)
+(chapters/32-indian-feminism-and-environmentalism.aux)
+(chapters/33-the-environment-movement.aux)
+(chapters/34-pyqs-colonial-knowledge-and-the-faction-ridden-village.aux)
+(chapters/35-backward-class-movements.aux) (chapters/36-the-dalit-movement.aux)
+(chapters/37-education-and-social-change.aux) (chapters/38-research-methods.aux
+) (chapters/39-industrialisation-in-india.aux)
+(chapters/40-industrialisation-caste-plantation-mining-informal-sector.aux)
+(chapters/41-urbanisation-in-india.aux)
+(chapters/42-urbanisation-patterns-slums-and-violence.aux)
+(chapters/43-urbanisation-the-state-slums-and-covid19.aux)
+(chapters/44-green-revolution-and-its-impacts.aux)
+(chapters/45-green-revolution-gender-bondage-agrarian-class.aux)
+(chapters/46-mode-of-production-and-challenges-of-social-transformation.aux)
+(chapters/47-challenges-of-social-transformation-women-caste-ethnicity.aux)
+(chapters/48-population-dynamics-poverty-communalism-sex-ratio.aux)
+(chapters/49-art-ageing-and-the-family.aux) (chapters/50-kinship-in-india.aux)
+(chapters/51-developmental-planning-nationalism-citizenship.aux))
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-bch.cfg)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg)) (main.out) (main.out)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1phv.fd)
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1phv.fd)
+[1{C:/Users/princ/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/pr
+inc/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}] (main.toc)
+
+LaTeX Warning: Reference `LastPage' on page 1 undefined on input line 60.
+
+[1] (chapters/01-introduction-to-the-sociology-of-india.tex
+
+LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 1.
+
+[2]
+Chapter 1.
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1bch.fd)
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 3 undefined on input line 36.
+
+[3]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 4 undefined on input line 73.
+
+[4]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 5 undefined on input line 116.
+
+[5]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 6 undefined on input line 148.
+
+[6]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 7 undefined on input line 186.
+
+[7]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 8 undefined on input line 216.
+
+[8]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 9 undefined on input line 251.
+
+[9]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 10 undefined on input line 288.
+
+[10]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 11 undefined on input line 325.
+
+[11]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 12 undefined on input line 366.
+
+[12]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 13 undefined on input line 410.
+
+[13])
+
+LaTeX Warning: Reference `LastPage' on page 14 undefined on input line 64.
+
+[14] (chapters/02-the-origin-of-caste.tex
+Chapter 2.
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 15 undefined on input line 35.
+
+[15]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 16 undefined on input line 84.
+
+[16]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 17 undefined on input line 121.
+
+[17]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 18 undefined on input line 156.
+
+[18]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 19 undefined on input line 201.
+
+[19]
+(C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg)
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 20 undefined on input line 239.
+
+[20]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 21 undefined on input line 281.
+
+[21]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 22 undefined on input line 321.
+
+[22]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 23 undefined on input line 358.
+
+[23]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 24 undefined on input line 400.
+
+[24])
+
+LaTeX Warning: Reference `LastPage' on page 25 undefined on input line 65.
+
+[25] (chapters/03-the-indological-perspective.tex
+
+LaTeX Warning: Reference `LastPage' on page 26 undefined on input line 1.
+
+[26]
+Chapter 3.
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 27 undefined on input line 31.
+
+[27]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 28 undefined on input line 69.
+
+[28]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 29 undefined on input line 105.
+
+[29]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 30 undefined on input line 136.
+
+[30]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 31 undefined on input line 184.
+
+[31]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 32 undefined on input line 221.
+
+[32]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 33 undefined on input line 255.
+
+[33]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 34 undefined on input line 290.
+
+[34]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 35 undefined on input line 331.
+
+[35]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 36 undefined on input line 376.
+
+[36]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 37 undefined on input line 412.
+
+[37])
+
+LaTeX Warning: Reference `LastPage' on page 38 undefined on input line 66.
+
+[38] (chapters/04-the-critique-of-indology.tex
+Chapter 4.
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 39 undefined on input line 40.
+
+[39]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 40 undefined on input line 78.
+
+[40]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 41 undefined on input line 119.
+
+[41]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 42 undefined on input line 162.
+
+[42]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 43 undefined on input line 196.
+
+[43])
+
+LaTeX Warning: Reference `LastPage' on page 44 undefined on input line 67.
+
+[44] (chapters/05-structural-functionalism-mn-srinivas.tex
+Chapter 5.
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 45 undefined on input line 35.
+
+[45]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 46 undefined on input line 72.
+
+[46]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 47 undefined on input line 114.
+
+[47]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 48 undefined on input line 154.
+
+[48]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 49 undefined on input line 193.
+
+[49]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 50 undefined on input line 235.
+
+[50])
+
+LaTeX Warning: Reference `LastPage' on page 51 undefined on input line 68.
+
+[51] (chapters/06-the-marxist-perspective-ar-desai.tex
+
+LaTeX Warning: Reference `LastPage' on page 52 undefined on input line 1.
+
+[52]
+Chapter 6.
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 53 undefined on input line 33.
+
+[53]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 54 undefined on input line 71.
+
+[54]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 55 undefined on input line 115.
+
+[55])
+
+LaTeX Warning: Reference `LastPage' on page 56 undefined on input line 69.
+
+[56] (chapters/07-the-subaltern-perspective.tex
+Chapter 7.
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 57 undefined on input line 32.
+
+[57]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 58 undefined on input line 70.
+
+[58]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 59 undefined on input line 105.
+
+[59])
+
+LaTeX Warning: Reference `LastPage' on page 60 undefined on input line 70.
+
+[60] (chapters/08-social-background-of-indian-nationalism.tex
+Chapter 8.
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 61 undefined on input line 37.
+
+[61]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 62 undefined on input line 78.
+
+[62]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 63 undefined on input line 102.
+
+[63])
+
+LaTeX Warning: Reference `LastPage' on page 64 undefined on input line 71.
+
+[64] (chapters/09-westernization-and-sanskritization.tex
+Chapter 9.
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 65 undefined on input line 30.
+
+[65]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 66 undefined on input line 71.
+
+[66])
+
+LaTeX Warning: Reference `LastPage' on page 67 undefined on input line 72.
+
+[67] (chapters/10-ar-desai-review-of-the-indian-state.tex
+
+LaTeX Warning: Reference `LastPage' on page 68 undefined on input line 1.
+
+[68]
+Chapter 10.
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 69 undefined on input line 32.
+
+[69]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 70 undefined on input line 63.
+
+[70]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 71 undefined on input line 101.
+
+[71])
+
+LaTeX Warning: Reference `LastPage' on page 72 undefined on input line 73.
+
+[72] (chapters/11-introduction-to-modernization-of-indian-tradition.tex
+Chapter 11.
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 73 undefined on input line 31.
+
+[73])
+
+LaTeX Warning: Reference `LastPage' on page 74 undefined on input line 74.
+
+[74] (chapters/12-little-and-great-tradition.tex
+Chapter 12.
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 75 undefined on input line 45.
+
+[75]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 76 undefined on input line 72.
+
+[76]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 77 undefined on input line 108.
+
+[77]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 78 undefined on input line 147.
+
+[78]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 79 undefined on input line 179.
+
+[79]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 80 undefined on input line 210.
+
+[80])
+
+LaTeX Warning: Reference `LastPage' on page 81 undefined on input line 75.
+
+[81] (chapters/13-tribal-communities-in-india.tex
+
+LaTeX Warning: Reference `LastPage' on page 82 undefined on input line 1.
+
+[82]
+Chapter 13.
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 83 undefined on input line 37.
+
+[83]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 84 undefined on input line 70.
+
+[84]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 85 undefined on input line 101.
+
+[85]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 86 undefined on input line 130.
+
+[86]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 87 undefined on input line 166.
+
+[87]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 88 undefined on input line 198.
+
+[88]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 89 undefined on input line 225.
+
+[89]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 90 undefined on input line 251.
+
+[90]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 91 undefined on input line 280.
+
+[91]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 92 undefined on input line 315.
+
+[92]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 93 undefined on input line 350.
+
+[93]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 94 undefined on input line 373.
+
+[94]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 95 undefined on input line 419.
+
+[95]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 96 undefined on input line 446.
+
+[96]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 97 undefined on input line 486.
+
+[97]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 98 undefined on input line 526.
+
+[98]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 99 undefined on input line 541.
+
+[99]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 100 undefined on input line 577.
+
+[100]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 101 undefined on input line 596.
+
+[101]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 102 undefined on input line 634.
+
+[102]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 103 undefined on input line 665.
+
+[103]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 104 undefined on input line 691.
+
+[104]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 105 undefined on input line 729.
+
+[105]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 106 undefined on input line 758.
+
+[106]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 107 undefined on input line 785.
+
+[107]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 108 undefined on input line 820.
+
+[108]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 109 undefined on input line 854.
+
+[109]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 110 undefined on input line 881.
+
+[110]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 111 undefined on input line 915.
+
+[111]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 112 undefined on input line 945.
+
+[112]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 113 undefined on input line 961.
+
+[113]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 114 undefined on input line 997.
+
+[114]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 115 undefined on input line 1031.
+
+[115]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 116 undefined on input line 1058.
+
+[116])
+
+LaTeX Warning: Reference `LastPage' on page 117 undefined on input line 76.
+
+[117] (chapters/14-modernisation-of-indian-tradition.tex
+
+LaTeX Warning: Reference `LastPage' on page 118 undefined on input line 1.
+
+[118]
+Chapter 14.
+
+Overfull \hbox (7.68103pt too wide) in paragraph at lines 1--1
+|\T1/phv/b/n/20 (-20) Modernization of In-dian Tra-di-tion (Yo-gen-dra Singh)| 
+
+
+Underfull \hbox (badness 2050) in paragraph at lines 17--18
+[]\T1/bch/m/n/10.4 (+20) Modernization is \T1/bch/b/n/10.4 (+20) not a static s
+tate \T1/bch/m/n/10.4 (+20) --- it is a \T1/bch/b/n/10.4 (+20) con-tin-u-ous, d
+y-namic pro-cess \T1/bch/m/n/10.4 (+20) (not
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 119 undefined on input line 26.
+
+[119]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 120 undefined on input line 53.
+
+[120]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 121 undefined on input line 82.
+
+[121]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 122 undefined on input line 115.
+
+[122]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 123 undefined on input line 141.
+
+[123]
+Underfull \hbox (badness 10000) in paragraph at lines 147--148
+[]\T1/bch/m/n/10.4 (+20) Four di-men-sions: psy-cho-log-i-cal (am-bi-tion/innov
+ation), po-lit-i-cal (West-min-
+)
+
+LaTeX Warning: Reference `LastPage' on page 124 undefined on input line 77.
+
+[124] (chapters/15-social-reform.tex
+Chapter 15.
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 125 undefined on input line 33.
+
+[125]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 126 undefined on input line 65.
+
+[126]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 127 undefined on input line 108.
+
+[127]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 128 undefined on input line 136.
+
+[128]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 129 undefined on input line 157.
+
+[129])
+
+LaTeX Warning: Reference `LastPage' on page 130 undefined on input line 78.
+
+[130] (chapters/16-perspectives-on-caste-gs-ghurye.tex
+Chapter 16.
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 131 undefined on input line 30.
+
+[131]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 132 undefined on input line 62.
+
+[132]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 133 undefined on input line 87.
+
+[133]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 134 undefined on input line 111.
+
+[134]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 135 undefined on input line 143.
+
+[135]
+Underfull \hbox (badness 4940) in paragraph at lines 154--155
+[]\T1/bch/m/n/10.4 (+20) Six fea-tures of caste: valid as of the 1920s (tra-di-
+tional so-ci-ety); com-par-a-
+)
+
+LaTeX Warning: Reference `LastPage' on page 136 undefined on input line 79.
+
+[136] (chapters/17-ghurye-features-of-caste.tex
+Chapter 17.
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 137 undefined on input line 34.
+
+[137]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 138 undefined on input line 67.
+
+[138]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 139 undefined on input line 98.
+
+[139]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 140 undefined on input line 133.
+
+[140]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 141 undefined on input line 157.
+
+[141]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 142 undefined on input line 188.
+
+[142]
+Underfull \hbox (badness 10000) in paragraph at lines 208--209
+[]\T1/bch/m/n/10.4 (+20) Conclusion: Ghurye's ac-count = foun-da-tion of In-dia
+n so-ci-ol-ogy; chain
+)
+
+LaTeX Warning: Reference `LastPage' on page 143 undefined on input line 80.
+
+[143] (chapters/18-mn-srinivas-on-caste.tex
+
+LaTeX Warning: Reference `LastPage' on page 144 undefined on input line 1.
+
+[144]
+Chapter 18.
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 145 undefined on input line 38.
+
+[145]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 146 undefined on input line 62.
+
+[146]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 147 undefined on input line 95.
+
+[147]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 148 undefined on input line 127.
+
+[148]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 149 undefined on input line 171.
+
+[149]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 150 undefined on input line 201.
+
+[150]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 151 undefined on input line 245.
+
+[151]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 152 undefined on input line 280.
+
+[152])
+
+LaTeX Warning: Reference `LastPage' on page 153 undefined on input line 81.
+
+[153] (chapters/19-andre-beteille-on-caste.tex
+
+LaTeX Warning: Reference `LastPage' on page 154 undefined on input line 1.
+
+[154]
+Chapter 19.
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 155 undefined on input line 35.
+
+[155]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 156 undefined on input line 72.
+
+[156]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 157 undefined on input line 103.
+
+[157]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 158 undefined on input line 137.
+
+[158]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 159 undefined on input line 174.
+
+[159]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 160 undefined on input line 196.
+
+[160]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 161 undefined on input line 235.
+
+[161])
+
+LaTeX Warning: Reference `LastPage' on page 162 undefined on input line 82.
+
+[162] (chapters/20-modern-avatar-of-caste.tex
+Chapter 20.
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 163 undefined on input line 30.
+
+[163]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 164 undefined on input line 62.
+
+[164])
+
+LaTeX Warning: Reference `LastPage' on page 165 undefined on input line 83.
+
+[165] (chapters/21-louis-dumont-on-caste.tex
+
+LaTeX Warning: Reference `LastPage' on page 166 undefined on input line 1.
+
+[166]
+Chapter 21.
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 167 undefined on input line 31.
+
+[167]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 168 undefined on input line 66.
+
+[168]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 169 undefined on input line 95.
+
+[169]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 170 undefined on input line 133.
+
+[170]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 171 undefined on input line 163.
+
+[171]
+Underfull \hbox (badness 1859) in paragraph at lines 170--171
+[]\T1/bch/m/n/10.4 (+20) Texts: P. V. Kane (His-tory of Dhar-mashas-tra; pu-rit
+y via en-dogamy) and Harita
+)
+
+LaTeX Warning: Reference `LastPage' on page 172 undefined on input line 84.
+
+[172] (chapters/22-summary-and-critique.tex
+Chapter 22.
+
+Underfull \hbox (badness 2057) in paragraph at lines 17--18
+[]\T1/bch/m/n/10.4 (+20) Summary key-words: Ghurye = In-do-log-i-cal/Evolutiona
+ry/Comparative; Srini-vas =
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 173 undefined on input line 19.
+
+[173]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 174 undefined on input line 41.
+
+[174]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 175 undefined on input line 76.
+
+[175])
+
+LaTeX Warning: Reference `LastPage' on page 176 undefined on input line 85.
+
+[176] (chapters/23-caste-and-democracy.tex
+Chapter 23.
+
+Underfull \hbox (badness 4391) in paragraph at lines 14--15
+[]\T1/bch/m/n/10.4 (+20) The les-son: \T1/bch/b/n/10.4 (+20) ad-dress the de-ma
+nd \T1/bch/m/n/10.4 (+20) --- a 4th/5th-attempt stu-dent who dumps
+
+Underfull \hbox (badness 1616) in paragraph at lines 14--15
+\T1/bch/m/n/10.4 (+20) the whole Coorg case study and the three di-men-sions of
+ West-ern-iza-tion (in-sti-tu-
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 177 undefined on input line 37.
+
+[177]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 178 undefined on input line 64.
+
+[178]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 179 undefined on input line 91.
+
+[179]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 180 undefined on input line 114.
+
+[180]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 181 undefined on input line 150.
+
+[181]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 182 undefined on input line 172.
+
+[182]
+Underfull \hbox (badness 10000) in paragraph at lines 192--193
+[]\T1/bch/m/n/10.4 (+20) Phase 1 (1890s--1930s): ur-ban as-so-ci-a-tions, co-op
+-er-a-tive so-ci-eties (hous-
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 183 undefined on input line 199.
+
+[183])
+
+LaTeX Warning: Reference `LastPage' on page 184 undefined on input line 86.
+
+[184] (chapters/24-caste-and-gender.tex
+Chapter 24.
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 185 undefined on input line 32.
+
+[185]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 186 undefined on input line 59.
+
+[186]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 187 undefined on input line 87.
+
+[187])
+
+LaTeX Warning: Reference `LastPage' on page 188 undefined on input line 87.
+
+[188] (chapters/25-untouchability-forms-and-perspectives.tex
+Chapter 25.
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 189 undefined on input line 36.
+
+[189]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 190 undefined on input line 65.
+
+[190]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 191 undefined on input line 91.
+
+[191]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 192 undefined on input line 118.
+
+[192])
+
+LaTeX Warning: Reference `LastPage' on page 193 undefined on input line 88.
+
+[193] (chapters/26-untouchability-and-caste-past-present-future.tex
+
+LaTeX Warning: Reference `LastPage' on page 194 undefined on input line 1.
+
+[194]
+Chapter 26.
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 195 undefined on input line 28.
+
+[195]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 196 undefined on input line 59.
+
+[196]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 197 undefined on input line 93.
+
+[197]
+Underfull \hbox (badness 10000) in paragraph at lines 101--102
+[]\T1/bch/m/n/10.4 (+20) Caste past/present/future = qual-i-ta-tive change, not
+ quan-ti-ta-tive: Ghurye
+
+Underfull \hbox (badness 2521) in paragraph at lines 101--102
+\T1/bch/m/n/10.4 (+20) (flexible$\OMS/cmsy/m/n/10 !$\T1/bch/m/n/10.4 (+20) rigi
+d$\OMS/cmsy/m/n/10 !$\T1/bch/m/n/10.4 (+20) both), Srini-vas (vertical$\OMS/cms
+y/m/n/10 !$\T1/bch/m/n/10.4 (+20) horizontal; ritual$\OMS/cmsy/m/n/10 !$\T1/bch
+/m/n/10.4 (+20) secular; OBC = new
+)
+
+LaTeX Warning: Reference `LastPage' on page 198 undefined on input line 89.
+
+[198] (chapters/27-the-idea-of-the-indian-village.tex
+Chapter 27.
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 199 undefined on input line 33.
+
+[199]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 200 undefined on input line 58.
+
+[200]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 201 undefined on input line 88.
+
+[201]
+Underfull \hbox (badness 1163) in paragraph at lines 104--105
+[]\T1/bch/m/n/10.4 (+20) State view: vil-lage un-der-de-vel-oped (mod-ern-iza-t
+ion the-ory); Plan-ning Com-mis-sion;
+
+Underfull \hbox (badness 4660) in paragraph at lines 105--106
+[]\T1/bch/m/n/10.4 (+20) Village stud-ies (1950s-60s): structural-functional (W
+iser/Karimpur/jajmani, Srini-
+)
+
+LaTeX Warning: Reference `LastPage' on page 202 undefined on input line 90.
+
+[202] (chapters/28-village-studies.tex
+Chapter 28.
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 203 undefined on input line 32.
+
+[203]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 204 undefined on input line 57.
+
+[204]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 205 undefined on input line 92.
+
+[205]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 206 undefined on input line 116.
+
+[206])
+
+LaTeX Warning: Reference `LastPage' on page 207 undefined on input line 91.
+
+[207] (chapters/29-the-middle-class.tex
+
+LaTeX Warning: Reference `LastPage' on page 208 undefined on input line 1.
+
+[208]
+Chapter 29.
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 209 undefined on input line 37.
+
+[209]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 210 undefined on input line 58.
+
+[210]
+Underfull \hbox (badness 2478) in paragraph at lines 93--94
+[]\T1/bch/m/n/10.4 (+20) Old (pre-90s) vs new (post-LPG): con-sump-tion driver,
+ so-cially in-clu-sive, private-
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 211 undefined on input line 95.
+
+[211])
+
+LaTeX Warning: Reference `LastPage' on page 212 undefined on input line 92.
+
+[212] (chapters/30-the-middle-class-structure-ethos-new-woman.tex
+Chapter 30.
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 213 undefined on input line 29.
+
+[213]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 214 undefined on input line 55.
+
+[214]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 215 undefined on input line 92.
+
+[215])
+
+LaTeX Warning: Reference `LastPage' on page 216 undefined on input line 93.
+
+[216] (chapters/31-the-womens-movement.tex
+Chapter 31.
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 217 undefined on input line 34.
+
+[217]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 218 undefined on input line 58.
+
+[218]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 219 undefined on input line 88.
+
+[219])
+
+LaTeX Warning: Reference `LastPage' on page 220 undefined on input line 94.
+
+[220] (chapters/32-indian-feminism-and-environmentalism.tex
+Chapter 32.
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 221 undefined on input line 20.
+
+[221]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 222 undefined on input line 53.
+
+[222]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 223 undefined on input line 70.
+
+[223]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 224 undefined on input line 95.
+
+[224]
+Underfull \hbox (badness 10000) in paragraph at lines 104--105
+[]\T1/bch/m/n/10.4 (+20) Eco-feminism: Val Plum-wood (du-al-ism --- mas-culin-i
+ty=mind/reason,
+
+Underfull \hbox (badness 2707) in paragraph at lines 104--105
+\T1/bch/m/n/10.4 (+20) women=nature/emotion; 'ecol-ogy is fem-i-nine, de-vel-op
+-ment is pa-tri-ar-chal'); Van-
+)
+
+LaTeX Warning: Reference `LastPage' on page 225 undefined on input line 95.
+
+[225] (chapters/33-the-environment-movement.tex
+
+LaTeX Warning: Reference `LastPage' on page 226 undefined on input line 1.
+
+[226]
+Chapter 33.
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 227 undefined on input line 31.
+
+[227]
+Underfull \hbox (badness 1796) in paragraph at lines 40--41
+[]\T1/bch/m/n/10.4 (+20) Indian = eco-cen-tric, Hindu rev-er-ence for na-ture (
+Ad-vaita), re-sponse to de-vel-op-
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 228 undefined on input line 43.
+
+[228]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 229 undefined on input line 78.
+
+[229]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 230 undefined on input line 98.
+
+[230]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 231 undefined on input line 131.
+
+[231])
+
+LaTeX Warning: Reference `LastPage' on page 232 undefined on input line 96.
+
+[232] (chapters/34-pyqs-colonial-knowledge-and-the-faction-ridden-village.tex
+Chapter 34.
+
+Overfull \hbox (9.12703pt too wide) in paragraph at lines 1--1
+|\T1/phv/b/n/20 (-20) PYQs: Colo-nial Knowl-edge and the Faction-Ridden
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 233 undefined on input line 30.
+
+[233]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 234 undefined on input line 49.
+
+[234])
+
+LaTeX Warning: Reference `LastPage' on page 235 undefined on input line 97.
+
+[235] (chapters/35-backward-class-movements.tex
+
+LaTeX Warning: Reference `LastPage' on page 236 undefined on input line 1.
+
+[236]
+Chapter 35.
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 237 undefined on input line 28.
+
+[237]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 238 undefined on input line 47.
+
+[238]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 239 undefined on input line 74.
+
+[239])
+
+LaTeX Warning: Reference `LastPage' on page 240 undefined on input line 98.
+
+[240] (chapters/36-the-dalit-movement.tex
+Chapter 36.
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 241 undefined on input line 26.
+
+[241]
+Underfull \hbox (badness 3746) in paragraph at lines 56--57
+[]\T1/bch/b/n/10.4 (+20) 3. The socio-political mo-bil-i-sa-tion of the Jatavs 
+of Agra \T1/bch/m/n/10.4 (+20) --- un-touch-able
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 242 undefined on input line 58.
+
+[242]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 243 undefined on input line 79.
+
+[243]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 244 undefined on input line 119.
+
+[244])
+
+LaTeX Warning: Reference `LastPage' on page 245 undefined on input line 99.
+
+[245] (chapters/37-education-and-social-change.tex
+
+LaTeX Warning: Reference `LastPage' on page 246 undefined on input line 1.
+
+[246]
+Chapter 37.
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 247 undefined on input line 33.
+
+[247]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 248 undefined on input line 61.
+
+[248])
+
+LaTeX Warning: Reference `LastPage' on page 249 undefined on input line 100.
+
+[249] (chapters/38-research-methods.tex
+
+LaTeX Warning: Reference `LastPage' on page 250 undefined on input line 1.
+
+[250]
+Chapter 38.
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 251 undefined on input line 26.
+
+[251]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 252 undefined on input line 59.
+
+[252]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 253 undefined on input line 80.
+
+[253]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 254 undefined on input line 112.
+
+[254])
+
+LaTeX Warning: Reference `LastPage' on page 255 undefined on input line 101.
+
+[255] (chapters/39-industrialisation-in-india.tex
+
+LaTeX Warning: Reference `LastPage' on page 256 undefined on input line 1.
+
+[256]
+Chapter 39.
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 257 undefined on input line 21.
+
+[257]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 258 undefined on input line 51.
+
+[258]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 259 undefined on input line 79.
+
+[259])
+
+LaTeX Warning: Reference `LastPage' on page 260 undefined on input line 102.
+
+[260]
+(chapters/40-industrialisation-caste-plantation-mining-informal-sector.tex
+Chapter 40.
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 261 undefined on input line 31.
+
+[261]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 262 undefined on input line 50.
+
+[262]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 263 undefined on input line 90.
+
+[263]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 264 undefined on input line 100.
+
+[264])
+
+LaTeX Warning: Reference `LastPage' on page 265 undefined on input line 103.
+
+[265] (chapters/41-urbanisation-in-india.tex
+
+LaTeX Warning: Reference `LastPage' on page 266 undefined on input line 1.
+
+[266]
+Chapter 41.
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 267 undefined on input line 24.
+
+[267]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 268 undefined on input line 47.
+
+[268]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 269 undefined on input line 77.
+
+[269])
+
+LaTeX Warning: Reference `LastPage' on page 270 undefined on input line 104.
+
+[270] (chapters/42-urbanisation-patterns-slums-and-violence.tex
+Chapter 42.
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 271 undefined on input line 30.
+
+[271]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 272 undefined on input line 58.
+
+[272]
+Underfull \hbox (badness 1077) in paragraph at lines 77--78
+[]\T1/bch/m/n/10.4 (+20) 6. \T1/bch/b/n/10.4 (+20) A dis-tinct po-lit-i-cal cul
+-ture \T1/bch/m/n/10.4 (+20) --- at-tracted by \T1/bch/b/n/10.4 (+20) wel-fare 
+nar-ra-tives \T1/bch/m/n/10.4 (+20) (free elec-tric-
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 273 undefined on input line 81.
+
+[273])
+
+LaTeX Warning: Reference `LastPage' on page 274 undefined on input line 105.
+
+[274] (chapters/43-urbanisation-the-state-slums-and-covid19.tex
+Chapter 43.
+
+Overfull \hbox (6.84514pt too wide) in paragraph at lines 1--1
+|\T1/phv/b/n/20 (-20) Urbanisation in In-dia: The State, Slums and COVID-
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 275 undefined on input line 21.
+
+[275]
+Underfull \hbox (badness 3386) in paragraph at lines 51--52
+[]\T1/bch/m/n/10.4 (+20) Emma Tarlo: Emer-gency; 'mar-gins of the state'; steri
+lisation-for-house (San-jay
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 276 undefined on input line 53.
+
+[276]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 277 undefined on input line 87.
+
+[277])
+
+LaTeX Warning: Reference `LastPage' on page 278 undefined on input line 106.
+
+[278] (chapters/44-green-revolution-and-its-impacts.tex
+Chapter 44.
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 279 undefined on input line 31.
+
+[279]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 280 undefined on input line 61.
+
+[280]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 281 undefined on input line 91.
+
+[281]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 282 undefined on input line 119.
+
+[282]
+Underfull \hbox (badness 1199) in paragraph at lines 124--125
+\T1/bch/m/n/10.4 (+20) tal in-come); labour-ers (Rs.1,686) out-stripped peas-an
+ts (Rs.1,333); class struc-ture
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 283 undefined on input line 158.
+
+[283]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 284 undefined on input line 183.
+
+[284])
+
+LaTeX Warning: Reference `LastPage' on page 285 undefined on input line 107.
+
+[285] (chapters/45-green-revolution-gender-bondage-agrarian-class.tex
+
+LaTeX Warning: Reference `LastPage' on page 286 undefined on input line 1.
+
+[286]
+Chapter 45.
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 287 undefined on input line 33.
+
+[287]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 288 undefined on input line 51.
+
+[288]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 289 undefined on input line 88.
+
+[289]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 290 undefined on input line 106.
+
+[290])
+
+LaTeX Warning: Reference `LastPage' on page 291 undefined on input line 108.
+
+[291]
+(chapters/46-mode-of-production-and-challenges-of-social-transformation.tex
+
+LaTeX Warning: Reference `LastPage' on page 292 undefined on input line 1.
+
+[292]
+Chapter 46.
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 293 undefined on input line 33.
+
+[293]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 294 undefined on input line 65.
+
+[294]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 295 undefined on input line 84.
+
+[295]
+Underfull \hbox (badness 10000) in paragraph at lines 89--90
+[]\T1/bch/m/n/10.4 (+20) Development = qual-i-ta-tive (lifestyle changes); grow
+th = quan-ti-ta-tive; eco-
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 296 undefined on input line 125.
+
+[296])
+
+LaTeX Warning: Reference `LastPage' on page 297 undefined on input line 109.
+
+[297]
+(chapters/47-challenges-of-social-transformation-women-caste-ethnicity.tex
+
+LaTeX Warning: Reference `LastPage' on page 298 undefined on input line 1.
+
+[298]
+Chapter 47.
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 299 undefined on input line 26.
+
+[299]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 300 undefined on input line 47.
+
+[300]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 301 undefined on input line 74.
+
+[301])
+
+LaTeX Warning: Reference `LastPage' on page 302 undefined on input line 110.
+
+[302] (chapters/48-population-dynamics-poverty-communalism-sex-ratio.tex
+Chapter 48.
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 303 undefined on input line 31.
+
+[303]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 304 undefined on input line 52.
+
+[304]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 305 undefined on input line 66.
+
+[305]
+Underfull \hbox (badness 10000) in paragraph at lines 71--72
+[]\T1/bch/m/n/10.4 (+20) Dumont (hy-per-gamy), Pocock (Pati-dar), Lata Mani (Sa
+ti $\OMS/cmsy/m/n/10 ^^X$\T1/bch/m/n/10.4 (+20) 250,
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--72
+\T1/bch/m/n/10.4 (+20) middle-caste San-skri-ti-sa-tion); Srini-vas's Di-maru e
+s-tates (Pun-
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 306 undefined on input line 95.
+
+[306])
+
+LaTeX Warning: Reference `LastPage' on page 307 undefined on input line 111.
+
+[307] (chapters/49-art-ageing-and-the-family.tex
+
+LaTeX Warning: Reference `LastPage' on page 308 undefined on input line 1.
+
+[308]
+Chapter 49.
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 309 undefined on input line 21.
+
+[309]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 310 undefined on input line 45.
+
+[310]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 311 undefined on input line 77.
+
+[311])
+
+LaTeX Warning: Reference `LastPage' on page 312 undefined on input line 112.
+
+[312] (chapters/50-kinship-in-india.tex
+Chapter 50.
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 313 undefined on input line 30.
+
+[313]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 314 undefined on input line 67.
+
+[314]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 315 undefined on input line 88.
+
+[315])
+
+LaTeX Warning: Reference `LastPage' on page 316 undefined on input line 113.
+
+[316] (chapters/51-developmental-planning-nationalism-citizenship.tex
+Chapter 51.
+
+Underfull \hbox (badness 5578) in paragraph at lines 13--14
+[]\T1/bch/b/n/10.4 (+20) Post-1991 (ne-olib-er-al-ism)\T1/bch/m/n/10.4 (+20) : 
+state re-treats from mar-ket (dis-in-vest-ment), trans-
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 317 undefined on input line 15.
+
+[317]
+Underfull \hbox (badness 1152) in paragraph at lines 40--41
+[]\T1/bch/m/n/10.4 (+20) Tagore (anti-nationalist; home-land; Kabir/Nanak/Bulle
+shah), Gandhi (spir-i-tual free-
+
+Underfull \hbox (badness 2285) in paragraph at lines 40--41
+\T1/bch/m/n/10.4 (+20) dom; Gram Swaraj; inter-nationalism), Savarkar (Hin-dutv
+a $\OMS/cmsy/m/n/10 6\OT1/cmr/m/n/10 =$ \T1/bch/m/n/10.4 (+20) Hin-duism; Pitru
+b-
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 318 undefined on input line 51.
+
+[318]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 319 undefined on input line 78.
+
+[319])
+
+LaTeX Warning: Reference `LastPage' on page 320 undefined on input line 114.
+
+[320] (chapters/52-regionalism-decentralisation-minority.tex
+Chapter 52.
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 321 undefined on input line 21.
+
+[321]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 322 undefined on input line 51.
+
+[322])
+
+LaTeX Warning: Reference `LastPage' on page 323 undefined on input line 115.
+
+[323] (chapters/53-contemporary-issues-2021.tex
+
+LaTeX Warning: Reference `LastPage' on page 324 undefined on input line 1.
+
+[324]
+Chapter 53.
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 325 undefined on input line 22.
+
+[325]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 326 undefined on input line 48.
+
+[326]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 327 undefined on input line 75.
+
+[327]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 328 undefined on input line 109.
+
+[328])
+
+LaTeX Warning: Reference `LastPage' on page 329 undefined on input line 116.
+
+[329] (chapters/54-tribes-regionalism-ethno-nationalism.tex
+
+LaTeX Warning: Reference `LastPage' on page 330 undefined on input line 1.
+
+[330]
+Chapter 54.
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 331 undefined on input line 30.
+
+[331]
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 332 undefined on input line 57.
+
+[332])
+
+LaTeX Warning: Reference `LastPage' on page 333 undefined on input line 117.
+
+[333] (chapters/55-how-to-approach-the-exam-2022.tex
+
+LaTeX Warning: Reference `LastPage' on page 334 undefined on input line 1.
+
+[334]
+Chapter 55.
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Reference `LastPage' on page 335 undefined on input line 40.
+
+[335])
+
+LaTeX Warning: Reference `LastPage' on page 336 undefined on input line 118.
+
+[336] 
+enddocument/afterlastpage (AED): lastpage setting LastPage.
+(main.aux (chapters/01-introduction-to-the-sociology-of-india.aux)
+(chapters/02-the-origin-of-caste.aux)
+(chapters/03-the-indological-perspective.aux)
+(chapters/04-the-critique-of-indology.aux)
+(chapters/05-structural-functionalism-mn-srinivas.aux)
+(chapters/06-the-marxist-perspective-ar-desai.aux)
+(chapters/07-the-subaltern-perspective.aux)
+(chapters/08-social-background-of-indian-nationalism.aux)
+(chapters/09-westernization-and-sanskritization.aux)
+(chapters/10-ar-desai-review-of-the-indian-state.aux)
+(chapters/11-introduction-to-modernization-of-indian-tradition.aux)
+(chapters/12-little-and-great-tradition.aux)
+(chapters/13-tribal-communities-in-india.aux)
+(chapters/14-modernisation-of-indian-tradition.aux)
+(chapters/15-social-reform.aux)
+(chapters/16-perspectives-on-caste-gs-ghurye.aux)
+(chapters/17-ghurye-features-of-caste.aux)
+(chapters/18-mn-srinivas-on-caste.aux) (chapters/19-andre-beteille-on-caste.aux
+) (chapters/20-modern-avatar-of-caste.aux)
+(chapters/21-louis-dumont-on-caste.aux) (chapters/22-summary-and-critique.aux)
+(chapters/23-caste-and-democracy.aux) (chapters/24-caste-and-gender.aux)
+(chapters/25-untouchability-forms-and-perspectives.aux)
+(chapters/26-untouchability-and-caste-past-present-future.aux)
+(chapters/27-the-idea-of-the-indian-village.aux)
+(chapters/28-village-studies.aux) (chapters/29-the-middle-class.aux)
+(chapters/30-the-middle-class-structure-ethos-new-woman.aux)
+(chapters/31-the-womens-movement.aux)
+(chapters/32-indian-feminism-and-environmentalism.aux)
+(chapters/33-the-environment-movement.aux)
+(chapters/34-pyqs-colonial-knowledge-and-the-faction-ridden-village.aux)
+(chapters/35-backward-class-movements.aux) (chapters/36-the-dalit-movement.aux)
+(chapters/37-education-and-social-change.aux) (chapters/38-research-methods.aux
+) (chapters/39-industrialisation-in-india.aux)
+(chapters/40-industrialisation-caste-plantation-mining-informal-sector.aux)
+(chapters/41-urbanisation-in-india.aux)
+(chapters/42-urbanisation-patterns-slums-and-violence.aux)
+(chapters/43-urbanisation-the-state-slums-and-covid19.aux)
+(chapters/44-green-revolution-and-its-impacts.aux)
+(chapters/45-green-revolution-gender-bondage-agrarian-class.aux)
+(chapters/46-mode-of-production-and-challenges-of-social-transformation.aux)
+(chapters/47-challenges-of-social-transformation-women-caste-ethnicity.aux)
+(chapters/48-population-dynamics-poverty-communalism-sex-ratio.aux)
+(chapters/49-art-ageing-and-the-family.aux) (chapters/50-kinship-in-india.aux)
+(chapters/51-developmental-planning-nationalism-citizenship.aux)
+(chapters/52-regionalism-decentralisation-minority.aux)
+(chapters/53-contemporary-issues-2021.aux)
+(chapters/54-tribes-regionalism-ethno-nationalism.aux)
+(chapters/55-how-to-approach-the-exam-2022.aux))
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+
+Package lastpage Warning: Rerun to get the references right on input line 121.
+
+ )
+(see the transcript file for additional information)<C:/Users/princ/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchb8a.pfb><C:/Users/princ/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Users/pri
+nc/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchri8a.pfb><C:/U
+sers/princ/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.p
+fb><C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
+/cmsy10.pfb><C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helve
+tic/uhvb8a.pfb><C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/type1/urw/he
+lvetic/uhvbo8a.pfb><C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/type1/ur
+w/helvetic/uhvr8a.pfb>
+Output written on main.pdf (337 pages, 1591855 bytes).
+Transcript written on main.log.
